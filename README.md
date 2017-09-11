@@ -93,7 +93,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Jr_Colour of Sunlight (Global Accent)](https://www.youtube.com/watch?v=pIeayKDRtUg&list=PLYVDsiuOZP5qF7D0yBGR_n-RPGFhmhYGL)| Physics Galaxy | 0 | 5 | | | Prio 
  | [Dispersion of Light - Optics (Global Accent)](https://www.youtube.com/watch?v=dynuBi-Lq58&list=PLYVDsiuOZP5qXkujrxrzKoaAMM0SYbXUT)| Physics Galaxy | 0 | 12 | | | Prio 
  | [Differaction of Light - Optics (Global Accent)](https://www.youtube.com/watch?v=KjSA1VYZkgg&list=PLYVDsiuOZP5q7Qt7qtMllONlJY83YkhIt)| Physics Galaxy | 0 | 12 | | | Prio 
- | [Nature of Light and Interference - Optics (Global Accent)](https://www.youtube.com/watch?v=cWWjX2Wt5zw&list=PLYVDsiuOZP5rLezMvUAk6TgZVRBnDhoyp)| Physics Galaxy | 0 | 42 | | | Prio 
+ | [Nature of Light and Interference - Optics (Global Accent)](https://www.youtube.com/watch?v=cWWjX2Wt5zw&list=PLYVDsiuOZP5rLezMvUAk6TgZVRBnDhoyp)| Physics Galaxy | 0 | 47 | | | Prio 
  | [Electromagnetic waves and interference](https://www.khanacademy.org/science/physics/light-waves)| Physics Galaxy | 0 | 12 | | | Just to remind myself there's actually this on KA 
  
  
