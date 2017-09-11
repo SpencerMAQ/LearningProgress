@@ -130,7 +130,16 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Energyplus 101 - Geometry](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMcKiPVkOoBqvGfAcan4DOZ) | BIMSourceVideos | 0 | 10 | | | 
  | [HVAC Templates in EnergyPlus](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMRWVpoTKtzUIGsdw0K_dtO) | BIMSourceVideos | 0 | 11 | | | 
  | [1_Branch Node Management in EnergyPlus](https://www.youtube.com/watch?v=y1kbu_FXwh8&list=PLDj9RUwinupfmFEfBX23ii3N4iCNHLTh8) | Advanced EnergyPlus Tutorials | 0 | 8 | | | 
+ 
+ 
+### OpenStudio
 
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [OpenStudio Tutorials - Model Creation and Initial Simulation Run](https://www.youtube.com/watch?v=VZUMTlTFzFk&list=PLacBBe48JUqiQ1yZF06RPwrzBvm6GdaN4) | Damien Tavan | 0 | 22 | | | 
+ | [OpenStudio Tutorials - Advanced Geometry Creation & Edition](https://www.youtube.com/watch?v=WWu_JDiE8QI&list=PLacBBe48JUqiKSQ_qZBJm2Y97bYSe6tF7) | Damien Tavan | 0 | 12 | | | 
+ | [OpenStudio Tutorials - Custom Functionalities](https://www.youtube.com/watch?v=KURJE7QcRus&list=PLacBBe48JUqhZX5uXjNHB9wzYUtH6oytI) | Damien Tavan | 0 | 3 | | | 
+ | [OpenStudio: Parametric Analysis Tools (Basic Workflow)](https://www.youtube.com/watch?v=3rmElK_OB28&list=PLPk2tlcZM0gzcukwBMk3zIrKSVSKJCatb) | NRELOpenStudio | 0 | 4 | | | 
 
 ----
 
