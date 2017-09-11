@@ -192,6 +192,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | 🕐 **DB** | | | | | | 
  | | | | | | |
  | ✔ [SQLite3 - Simple Databases with Python](https://www.youtube.com/watch?v=o-vsdfCBpsU&list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo) | sentdex | 5 | 5 | | 2017 | Anki
+ | | | | | | |
+ | 🕐 **Mathematics** | | | | | | 
+ | | | | | | |
+ | [Monte Carlo Simulation with Python](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0) | sentdex | 0 | 20 | | |
+ | [Graphing in Matplotlib (chart generation) in Python](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1) | sentdex | 0 | 30 | | |
 
 
 
@@ -211,7 +216,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | :hourglass_flowing_sand: [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
-
+ | [Calculus with Python, Intro](https://www.youtube.com/watch?v=OKYeC4MSoj4&list=PLcwjc2OQcM4ulZNk8mj3Q3L-xR2JcT88i)| A F | 0 | 16 | | | 
+ | [Calculus with Python, Limits](https://www.youtube.com/watch?v=72SntdQp0kM&list=PLcwjc2OQcM4uUJ1Ek0z9zL3015BhRqP6l)| A F | 0 | 23 | | | 
+ | [Calculus with Python, Derivatives](https://www.youtube.com/watch?v=sjF_4Xl9mRk&list=PLcwjc2OQcM4s_c7v0os77RUBwvKrvcPjQ)| A F | 0 | 29 | | | 
+ | [Python Lesson Calculus Inegration](https://www.youtube.com/watch?v=8o-JJSjKa6c&list=PLA86ABB9516A9D74D)| Electric Teaching | 0 | 3 | | | 
 
 ### Linear Algebra
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
