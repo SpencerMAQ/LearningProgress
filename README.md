@@ -12,6 +12,7 @@
   - [HVAC](#hvac)
   - [Simulation](#energy-simulations)
   - [EnergyPlus](#energyplus)
+  - [OpenStudio](#openstudio)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
