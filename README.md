@@ -1,5 +1,13 @@
 # LearningProgress
 
+## Table of Contents
+- [Physics](https://github.com/SpencerMAQ/LearningProgress#physics)
+  - [General Thermodynamics](https://github.com/SpencerMAQ/LearningProgress#general-thermodynamics)
+  - [Engineering, Calculus-based Thermodynamics](https://github.com/SpencerMAQ/LearningProgress#engineering-calculus-based-thermodynamics-check-laptop)
+  - [Radiometry, Photometry](https://github.com/SpencerMAQ/LearningProgress#radiometry-photometry)
+  - [Calculus-based Physics](https://github.com/SpencerMAQ/LearningProgress#calculus-based-physics)
+  - [Computational Physics](https://github.com/SpencerMAQ/LearningProgress#computational-physics)
+
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
 This is a collection of all the independent studies I have done and plan to do (excluding those from Khan Academy and Goodreads which have their own tracking systems)
@@ -9,6 +17,9 @@ https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
 Emoji Cheatsheet:
 https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
+Markdown:
+https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists
 
 
 Other Resources:  
