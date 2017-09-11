@@ -64,7 +64,23 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [None Yet](https://www.youtube.com)| None | 0 | 24 | | | 
 
 
+
+
 ----
+## Building Science
+
+
+### HVAC
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | :hourglass_flowing_sand: [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
+
+
+
+----
+
+
 
 ## Computer Science
 
