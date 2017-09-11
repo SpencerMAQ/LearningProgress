@@ -10,6 +10,7 @@
  
 - [Building Science](#building-science)
   - [HVAC](#hvac)
+  - [Simulation](#energy-simulations)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
@@ -107,10 +108,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | :hourglass_flowing_sand: [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 6 | 7 | | 2017 | Priority
- | [Ladybug Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=KoAORkBJHro&list=PLkjfDmSc5OrzBgdPWQB7rbqFycWpbxtaN)| Mostapha S.R. | 0 | 7 | | 2017 | Priority
- | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
- | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
- | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
+ | [Ladybug Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=KoAORkBJHro&list=PLkjfDmSc5OrzBgdPWQB7rbqFycWpbxtaN)| Mostapha S.R. | 0 | 7 | | |
+ | ✔ [How to use Ladybug Sunpath](https://www.youtube.com/watch?v=9_u0dnyq2QI&list=PLkjfDmSc5OryH8UsunVFZad3e0l-EndW3)| Mostapha S.R | 3 | 3 | | 2016 | Need to review this
+ | ✔ [Ladybug+Honeybee Developers](https://www.youtube.com/watch?v=n_m5PDqv5pU&list=PLkjfDmSc5Orxq-f_fbmu_HV4tE2ZPIdaC)| Mostapha S.R | 4 | 4 | | 2016 | Python
+ | [Getting Started with Butterfly](https://www.youtube.com/watch?v=e90FyyfVbe0&list=PLkjfDmSc5OrxwNaf7xmPJ5lpmF11J7kuE)| Mostapha S.R | 0 | 2 | | | 
+ | [Getting Started with Butterfly for Grasshopper](https://www.youtube.com/watch?v=4KGeJokLeL8&list=PLkjfDmSc5Orx2qJivQBA9Rgk2KAOiESmo)| Mostapha S.R | 0 | 3 | | | 
+ | [Getting Started with Butterfly for Dynamo](Getting Started with Butterfly for Dynamo)| Mostapha S.R | 0 | 3 | | | 
 
 
 ----
