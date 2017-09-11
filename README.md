@@ -100,7 +100,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | :hourglass_flowing_sand: [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
+ 
+ 
+### Energy Simulations
 
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | :hourglass_flowing_sand: [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 6 | 7 | | 2017 | Priority
+ | [Ladybug Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=KoAORkBJHro&list=PLkjfDmSc5OrzBgdPWQB7rbqFycWpbxtaN)| Mostapha S.R. | 0 | 7 | | 2017 | Priority
+ | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
+ | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
+ | [Ladybug Workshop @PennDesign April 2014]()| Chris M. | 0 | 7 | | 2017 | Priority
 
 
 ----
