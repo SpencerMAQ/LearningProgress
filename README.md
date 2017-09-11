@@ -15,6 +15,7 @@ Goodreads
 www.ilectureonline.com  
 [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  
 [UCIOpen](https://www.youtube.com/channel/UCngehmCV-65FikHYUV1_qXA)  
+[Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/playlists)  
 
 ----
 ## Physics
@@ -87,12 +88,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Calculus
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | | 
+ | [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
 
 
 ### Linear Algebra
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | | 
+ | [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | 
 
 
