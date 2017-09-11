@@ -113,7 +113,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [Ladybug+Honeybee Developers](https://www.youtube.com/watch?v=n_m5PDqv5pU&list=PLkjfDmSc5Orxq-f_fbmu_HV4tE2ZPIdaC)| Mostapha S.R | 4 | 4 | | 2016 | Python
  | [Getting Started with Butterfly](https://www.youtube.com/watch?v=e90FyyfVbe0&list=PLkjfDmSc5OrxwNaf7xmPJ5lpmF11J7kuE)| Mostapha S.R | 0 | 2 | | | 
  | [Getting Started with Butterfly for Grasshopper](https://www.youtube.com/watch?v=4KGeJokLeL8&list=PLkjfDmSc5Orx2qJivQBA9Rgk2KAOiESmo)| Mostapha S.R | 0 | 3 | | | 
- | [Getting Started with Butterfly for Dynamo](Getting Started with Butterfly for Dynamo)| Mostapha S.R | 0 | 3 | | | 
+ | [Getting Started with Butterfly for Dynamo](https://www.youtube.com/watch?v=Lj67cvqaUQs&list=PLkjfDmSc5Orwm25oLj3cddDKR8SOXUP5l)| Mostapha S.R | 0 | 3 | | | 
 
 
 ----
