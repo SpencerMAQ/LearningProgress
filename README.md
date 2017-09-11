@@ -7,18 +7,27 @@ This is a collection of all the independent studies I have done and plan to do (
 https://github.com/ossu/computer-science  
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
+
+----
+## Physics
+
+
 ### General Thermodynamics
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Engineering Thermodynamics I ME3293 Fall2015](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
+ | [THERMODYNAMICS](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
+
+
 
 
 ### Engineering, Calculus-based Thermodynamics (check laptop)
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 42 | 42 | | | Introductory Concepts incl. Archimedes' Principle, Pascal's Principle, Instruments
+ | [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 0 | 42 | | | Introductory Concepts incl. Archimedes' Principle, Pascal's Principle, Instruments
+https://www.youtube.com/watch?v=JtN8yHngsmI&list=PL_ZIJMd-rNhXCR9ovJmMm1SEp4sSNF3sP 
+ | [Engineering Thermodynamics II ME4293 Spring2015](https://www.youtube.com/watch?v=JtN8yHngsmI&list=PL_ZIJMd-rNhXCR9ovJmMm1SEp4sSNF3sP)| Randall Manteufel | 0 | 32 | | | Calculus, Vapor Compression, Psychrometrics
 
 ### Radiometry, Photometry
 
@@ -27,20 +36,24 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Physics I (Calculus-based)](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj)| Yale Courses | 24 | 24
  
  
+ 
 ### Computational Physics
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
  | [Physics I (Calculus-based)](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj)| Yale Courses | 24 | 24
+
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
  | [Physics I (Calculus-based)](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj)| Yale Courses | 24 | 24
 
+
 ### JavaScript, HTML, CSS
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
  | [Physics I (Calculus-based)](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj)| Yale Courses | 24 | 24
+
 
 ### Calculus-based Physics
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
