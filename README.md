@@ -86,8 +86,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | ✔ Pluralsight - Python Fundamentals | A. Bi, R. Sm | 11 | 11 | | 2017 | Excellent, Intermediate-Level  
  | :hourglass_flowing_sand: Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 12 | 13 | | 2017 | Excellent 
-
-
+ | :hourglass_flowing_sand: Udemy - Create simple GUI Applications with Python and Qt | | 1 | 3 | | 2017 | Mozarella Ashbadger 
+ | ✔ [PyQt5](https://www.youtube.com/watch?v=e5PBUFrSKgQ&list=PLZocUikpczs-Yud2lyFpSNQOvxuPUVBDp) | Mark Winfield | 19 | 19 | | 2016 | Youtube
+ 
 ----
 
 ## Mathematics
