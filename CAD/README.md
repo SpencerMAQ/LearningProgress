@@ -26,3 +26,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | Lynda – Revit 2017 Essential Training for MEP (Metric)|  | 51 | 59 | | 2017 | 
+ 
+ 
+ ----
+ 
+ 
+ ## VCS
+ 
+ ### Github
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | O'Reilly - Learning GitHub |  | 6 | 13 | | 2017 | 
