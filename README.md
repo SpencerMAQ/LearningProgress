@@ -11,6 +11,7 @@
 - [Building Science](#building-science)
   - [HVAC](#hvac)
   - [Simulation](#energy-simulations)
+  - [EnergyPlus](#energyplus)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
@@ -128,6 +129,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [EnergyPlus Basics](https://www.youtube.com/watch?v=e-4xIRUmQVg&list=PL83CB71B24D2650E9)| GARDAnalytics | 9 | 9 | | 2016 | 
  | [Energyplus 101 - Geometry](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMcKiPVkOoBqvGfAcan4DOZ)| BIMSourceVideos | 0 | 10 | | | 
  | [HVAC Templates in EnergyPlus](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMRWVpoTKtzUIGsdw0K_dtO)| BIMSourceVideos | 0 | 11 | | | 
+ | [1_Branch Node Management in EnergyPlus](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMRWVpoTKtzUIGsdw0K_dtO)| 
+Advanced EnergyPlus Tutorials | 0 | 8 | | | 
 
 
 ----
