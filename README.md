@@ -8,13 +8,13 @@ https://github.com/ossu/computer-science
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
 
-Other Resources:
-Khan Academy
-Sololearn
-Goodreads
-www.ilectureonline.com
-[MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-[UCIOpen](https://www.youtube.com/channel/UCngehmCV-65FikHYUV1_qXA)
+Other Resources:  
+Khan Academy  
+Sololearn  
+Goodreads  
+www.ilectureonline.com  
+[MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  
+[UCIOpen](https://www.youtube.com/channel/UCngehmCV-65FikHYUV1_qXA)  
 
 ----
 ## Physics
