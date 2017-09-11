@@ -121,6 +121,15 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [Honeybee Energy Modeling](https://www.youtube.com/watch?v=m8ncENwXpek&list=PLruLh1AdY-SgW4uDtNSMLeiUmA8YXEHT_)| Chris M. | 24 | 24 | | 2017 | 
 
 
+### EnergyPlus
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ✔ [EnergyPlus Basics](https://www.youtube.com/watch?v=e-4xIRUmQVg&list=PL83CB71B24D2650E9)| GARDAnalytics | 9 | 9 | | 2016 | 
+ | [Energyplus 101 - Geometry](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMcKiPVkOoBqvGfAcan4DOZ)| BIMSourceVideos | 0 | 10 | | | 
+ | [HVAC Templates in EnergyPlus](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMRWVpoTKtzUIGsdw0K_dtO)| BIMSourceVideos | 0 | 11 | | | 
+
+
 ----
 
 
