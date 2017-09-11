@@ -7,6 +7,9 @@ This is a collection of all the independent studies I have done and plan to do (
 https://github.com/ossu/computer-science  
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
+Emoji Cheatsheet:
+https://gist.github.com/roachhd/1f029bd4b50b8a524f3c
+
 
 Other Resources:  
 Khan Academy  
@@ -25,7 +28,7 @@ www.ilectureonline.com
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [THERMODYNAMICS](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
+ | :hourglass_flowing_sand: [THERMODYNAMICS](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
 
 
 
@@ -78,6 +81,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [None Yet](https://www.youtube.com)| None | 0 | 24 | | | 
 
+### Python
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ✔ Pluralsight - Python Fundamentals | A. Bi, R. Sm | 11 | 11 | | 2017 | Excellent, Intermediate-Level  
+ | :hourglass_flowing_sand: Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 12 | 13 | | 2017 | Excellent 
+
 
 ----
 
@@ -88,12 +97,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Calculus
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
+ | :hourglass_flowing_sand: [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
 
 
 ### Linear Algebra
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | 
+ | :hourglass_flowing_sand: [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | 
 
 
