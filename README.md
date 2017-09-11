@@ -1,29 +1,29 @@
 # LearningProgress
 
 ## Table of Contents
-- [Physics](https://github.com/SpencerMAQ/LearningProgress#physics)
-  - [General Thermodynamics](https://github.com/SpencerMAQ/LearningProgress#general-thermodynamics)
-  - [Engineering, Calculus-based Thermodynamics](https://github.com/SpencerMAQ/LearningProgress#engineering-calculus-based-thermodynamics-check-laptop)
-  - [Radiometry, Photometry](https://github.com/SpencerMAQ/LearningProgress#radiometry-photometry)
-  - [Calculus-based Physics](https://github.com/SpencerMAQ/LearningProgress#calculus-based-physics)
-  - [Computational Physics](https://github.com/SpencerMAQ/LearningProgress#computational-physics)
+- [Physics](#physics)
+  - [General Thermodynamics](#general-thermodynamics)
+  - [Engineering, Calculus-based Thermodynamics](#engineering-calculus-based-thermodynamics-check-laptop)
+  - [Radiometry, Photometry](#radiometry-photometry)
+  - [Calculus-based Physics](#calculus-based-physics)
+  - [Computational Physics](s#computational-physics)
  
- - [Building Science](https://github.com/SpencerMAQ/LearningProgress#building-science)
-  - [HVAC](https://github.com/SpencerMAQ/LearningProgress#hvac)
+- [Building Science](#building-science)
+  - [HVAC](#hvac)
  
- - [Building Science](https://github.com/SpencerMAQ/LearningProgress#building-science)
-  - [HVAC](https://github.com/SpencerMAQ/LearningProgress#hvac)
+- [Building Science](#building-science)
+  - [HVAC](#hvac)
 
- - [Computer Science](https://github.com/SpencerMAQ/LearningProgress#computer-science)
-  - [Batch Programming](https://github.com/SpencerMAQ/LearningProgress#batch-programming)
-  - [C#](https://github.com/SpencerMAQ/LearningProgress#c)
-  - [JavaScript, HTML, CSS](https://github.com/SpencerMAQ/LearningProgress#javascript-html-css)
-  - [Python](https://github.com/SpencerMAQ/LearningProgress#python)
-  - [PyCharm](https://github.com/SpencerMAQ/LearningProgress#pycharm)
+- [Computer Science](#computer-science)
+  - [Batch Programming](#batch-programming)
+  - [C#](#c)
+  - [JavaScript, HTML, CSS](#javascript-html-css)
+  - [Python](#python)
+  - [PyCharm](#pycharm)
  
- - [Mathematics](https://github.com/SpencerMAQ/LearningProgress#mathematics)
-  - [Calculus](https://github.com/SpencerMAQ/LearningProgress#calculus)
-  - [Linear Algebra](https://github.com/SpencerMAQ/LearningProgress#linear-algebra)
+- [Mathematics](#mathematics)
+  - [Calculus](#calculus)
+  - [Linear Algebra](#linear-algebra)
 
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
