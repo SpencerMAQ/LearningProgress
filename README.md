@@ -7,6 +7,23 @@
   - [Radiometry, Photometry](https://github.com/SpencerMAQ/LearningProgress#radiometry-photometry)
   - [Calculus-based Physics](https://github.com/SpencerMAQ/LearningProgress#calculus-based-physics)
   - [Computational Physics](https://github.com/SpencerMAQ/LearningProgress#computational-physics)
+ 
+ - [Building Science](https://github.com/SpencerMAQ/LearningProgress#building-science)
+  - [HVAC](https://github.com/SpencerMAQ/LearningProgress#hvac)
+ 
+ - [Building Science](https://github.com/SpencerMAQ/LearningProgress#building-science)
+  - [HVAC](https://github.com/SpencerMAQ/LearningProgress#hvac)
+
+ - [Computer Science](https://github.com/SpencerMAQ/LearningProgress#computer-science)
+  - [Batch Programming](https://github.com/SpencerMAQ/LearningProgress#batch-programming)
+  - [C#](https://github.com/SpencerMAQ/LearningProgress#c)
+  - [JavaScript, HTML, CSS](https://github.com/SpencerMAQ/LearningProgress#javascript-html-css)
+  - [Python](https://github.com/SpencerMAQ/LearningProgress#python)
+  - [PyCharm](https://github.com/SpencerMAQ/LearningProgress#pycharm)
+ 
+ - [Mathematics](https://github.com/SpencerMAQ/LearningProgress#mathematics)
+  - [Calculus](https://github.com/SpencerMAQ/LearningProgress#calculus)
+  - [Linear Algebra](https://github.com/SpencerMAQ/LearningProgress#linear-algebra)
 
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
