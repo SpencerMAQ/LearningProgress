@@ -86,11 +86,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | ✔ Pluralsight - Python Fundamentals | A. Bi, R. Sm | 11 | 11 | | 2017 | Excellent, Intermediate-Level  
  | :hourglass_flowing_sand: Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 12 | 13 | | 2017 | Excellent 
+ | Pluralsight - Advanced Python | PS | 0 | 9 | | | Priority
  | :hourglass_flowing_sand: Udemy - Create simple GUI Applications with Python and Qt | | 1 | 3 | | 2017 | Mozarella Ashbadger 
  | ✔ [PyQt5](https://www.youtube.com/watch?v=e5PBUFrSKgQ&list=PLZocUikpczs-Yud2lyFpSNQOvxuPUVBDp) | Mark Winfield | 19 | 19 | | 2016 | Youtube
  | :hourglass_flowing_sand: O'Reilly - Python Beyond the Basics - Object-Oriented Programming | PS | 7 | 9 | | 2016 | Forgot most of it
- 
- 
+ | ✔ Python Desktop Application Development | PS | 5 | 5 | | 2017 | Basic PyQt4
+ | :hourglass_flowing_sand: Pluralsight - Python Desktop Application Development Part 2 - Design | PS | 0 | 5 | | | Qt Designer
+
+### PyCharm
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ✔ [Getting Started with PyCharm](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP) | JetBrainsTV | 13 | 13 | | 2017 | Need to Review 
 
  
 ----
