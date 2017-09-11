@@ -4,7 +4,9 @@
 - [Physics](#physics)
   - [General Thermodynamics](#general-thermodynamics)
   - [Engineering, Calculus-based Thermodynamics](#engineering-calculus-based-thermodynamics-check-laptop)
-  - [Radiometry, Photometry](#radiometry-photometry)
+  - [Radiometry](#radiometry)
+  - [Photometry](#photometry)
+  - [Optics](#optics)
   - [Calculus-based Physics](#calculus-based-physics)
   - [Computational Physics](s#computational-physics)
  
@@ -71,11 +73,27 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Engineering Thermodynamics II ME 4293 Spring2014](https://www.youtube.com/watch?v=YirvEVxqPpI&list=PL_ZIJMd-rNhXHbRiT5KRFEyH-yHH2lXGd)| Randall Manteufel | 0 | 36 | | | Calculus, Vapor Compression, Psychrometrics
 
 
-### Radiometry, Photometry
+### Radiometry
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [None Yet](https://www.youtube.com)| None | 0 | 24 | | | 
+ 
+### Photometry
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Photometry - Optics(Global Accent)](https://www.youtube.com/watch?v=FPReV1G1mKA&list=PLYVDsiuOZP5qrx23S9B_EuZ7gB7uQk80u)| Physics Galaxy | 0 | 10 | | | Prio 
+ 
+### Optics 
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Jr_Light & Optics (Global Accent)](https://www.youtube.com/watch?v=mn6cIFaKAEg&list=PLYVDsiuOZP5q8YK_A6MxzZKgE0zOOQQuF)| Physics Galaxy | 0 | 12 | | | Prio 
+ | [Jr_Colour of Sunlight (Global Accent)](https://www.youtube.com/watch?v=pIeayKDRtUg&list=PLYVDsiuOZP5qF7D0yBGR_n-RPGFhmhYGL| Physics Galaxy | 0 | 5 | | | Prio 
+ | [Dispersion of Light - Optics (Global Accent)](https://www.youtube.com/watch?v=dynuBi-Lq58&list=PLYVDsiuOZP5qXkujrxrzKoaAMM0SYbXUT)| Physics Galaxy | 0 | 12 | | | Prio 
+ | [Differaction of Light - Optics (Global Accent)](https://www.youtube.com/watch?v=KjSA1VYZkgg&list=PLYVDsiuOZP5q7Qt7qtMllONlJY83YkhIt)| Physics Galaxy | 0 | 12 | | | Prio 
+ | [Nature of Light and Interference - Optics (Global Accent)](https://www.youtube.com/watch?v=cWWjX2Wt5zw&list=PLYVDsiuOZP5rLezMvUAk6TgZVRBnDhoyp)| Physics Galaxy | 0 | 42 | | | Prio 
  
  
 ### Calculus-based Physics
