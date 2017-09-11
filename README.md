@@ -68,7 +68,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 ## Computer Science
 
-
+### Batch Programming
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | :hourglass_flowing_sand: [Learn Batch File Programming](https://www.youtube.com/playlist?list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD)| MrGLHunt | 10 | 11 | | 2017 |  
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -104,11 +107,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  | 🕐 **Algorithms** | | | | | | 
  | | | | | | |
- | :hourglass_flowing_sand: [Python Sorting Algorithms](https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq) | Joe James | 3 | 6 | | | Used as exercise, diff. to understand
+ | :hourglass_flowing_sand: [Python Sorting Algorithms](https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq) | Joe James | 3 | 6 | | 2017 | Used as exercise, diff. to understand
  | | | | | | |
  | 🕐 **DB** | | | | | | 
  | | | | | | |
- | ✔ [SQLite3 - Simple Databases with Python](https://www.youtube.com/watch?v=o-vsdfCBpsU&list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo) | sentdex | 5 | 5 | | | Anki
+ | ✔ [SQLite3 - Simple Databases with Python](https://www.youtube.com/watch?v=o-vsdfCBpsU&list=PLQVvvaa0QuDezJh0sC5CqXLKZTSKU1YNo) | sentdex | 5 | 5 | | 2017 | Anki
 
 
 
