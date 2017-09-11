@@ -7,17 +7,25 @@ This is a collection of all the independent studies I have done and plan to do (
 https://github.com/ossu/computer-science  
 https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
+### General Thermodynamics
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Engineering Thermodynamics I ME3293 Fall2015](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
+
+
+### Engineering, Calculus-based Thermodynamics (check laptop)
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 42 | 42 | | | Introductory Concepts incl. Archimedes' Principle, Pascal's Principle, Instruments
+
 ### Radiometry, Photometry
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :--: | :--: | :--: | :--: | :--: | :--:
  | [Physics I (Calculus-based)](https://www.youtube.com/watch?v=KOKnWaLiL8w&list=PLFiWVa3Q_XmGPBQCAvBYimyvErKJIoLLj)| Yale Courses | 24 | 24
  
-### Engineering, Calculus-based Thermodynamics (check laptop)
-
-Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
- | [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 42 | 42
  
 ### Computational Physics
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
