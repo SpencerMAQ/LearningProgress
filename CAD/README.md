@@ -13,7 +13,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Lynda - Rhino 5 Essential Training](No Link)| Dave Schultze | 9 | 15 | | 2017 | 
+ | Lynda - Rhino 5 Essential Training| Dave Schultze | 9 | 15 | | 2017 | 
  
  
  
@@ -25,4 +25,4 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Revit
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Lynda – Revit 2017 Essential Training for MEP (Metric)](No Link)|  | 51 | 59 | | 2017 | 
+ | Lynda – Revit 2017 Essential Training for MEP (Metric)|  | 51 | 59 | | 2017 | 
