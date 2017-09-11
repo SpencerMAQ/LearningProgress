@@ -24,6 +24,7 @@
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
+  - [Discrete Mathematics](#discrete-mathematics)
 
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
