@@ -155,3 +155,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | :hourglass_flowing_sand: [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | Enlightening
 
 
+----
+
+### Notes:
+Duration - Approx time it took me to complete the course in days (not completely accurate since I can't really time it)
