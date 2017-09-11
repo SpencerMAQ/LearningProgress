@@ -114,6 +114,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Getting Started with Butterfly](https://www.youtube.com/watch?v=e90FyyfVbe0&list=PLkjfDmSc5OrxwNaf7xmPJ5lpmF11J7kuE)| Mostapha S.R | 0 | 2 | | | 
  | [Getting Started with Butterfly for Grasshopper](https://www.youtube.com/watch?v=4KGeJokLeL8&list=PLkjfDmSc5Orx2qJivQBA9Rgk2KAOiESmo)| Mostapha S.R | 0 | 3 | | | 
  | [Getting Started with Butterfly for Dynamo](https://www.youtube.com/watch?v=Lj67cvqaUQs&list=PLkjfDmSc5Orwm25oLj3cddDKR8SOXUP5l)| Mostapha S.R | 0 | 3 | | | 
+ | | | | | | |
+ | | | | | | |
+ | ✔ [Getting Started With Ladybug](https://www.youtube.com/watch?v=8UFkJL-aZy8&list=PLruLh1AdY-Sj_XGz3kzHUoWmpWDXNep1O)| Chris M. | 6 | 6 | | 2016 | 
+ | ✔ [Ladybug Comfort Tutorials](https://www.youtube.com/watch?v=8UFkJL-aZy8&list=PLruLh1AdY-Sj_XGz3kzHUoWmpWDXNep1O)| Chris M. | 10 | 10 | | 2016 | Need to review
+ | ✔ [Honeybee Energy Modeling](https://www.youtube.com/watch?v=m8ncENwXpek&list=PLruLh1AdY-SgW4uDtNSMLeiUmA8YXEHT_)| Chris M. | 24 | 24 | | 2017 | 
 
 
 ----
