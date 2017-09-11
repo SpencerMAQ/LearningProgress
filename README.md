@@ -78,5 +78,21 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [None Yet](https://www.youtube.com)| None | 0 | 24 | | | 
 
 
+----
+
+## Mathematics
+
+
+
+### Calculus
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | | 
+
+
+### Linear Algebra
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | | 
 
 
