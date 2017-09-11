@@ -10,9 +10,6 @@
  
 - [Building Science](#building-science)
   - [HVAC](#hvac)
- 
-- [Building Science](#building-science)
-  - [HVAC](#hvac)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
