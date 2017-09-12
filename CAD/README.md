@@ -37,8 +37,6 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | | Easy for the most part
  | ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
 
-https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc
-
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
