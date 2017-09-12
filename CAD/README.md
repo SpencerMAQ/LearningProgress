@@ -19,6 +19,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 0 | 5 | 16.5h | | Excellent
  | [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | | 
  | [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 0 | 3 | | | Mesh, Paneling, Kangaroo
+ |  |  |  |  | |  | 
+ |  |  |  |  | |  | 
+ | Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | | 
+ | Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | | 
+ | Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
+ | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | | 
+ | Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
