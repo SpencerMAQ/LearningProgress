@@ -26,7 +26,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 0 | 18 | | |
  | ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | |
  | ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | | Review Recursive Aggr.
- 
+ | [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
+
+### C#
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
  
  ----
  
