@@ -24,6 +24,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Nature of Code: Oscillation(chapter 3) translation to Python](https://www.youtube.com/watch?v=QIdK4yv8nsY&list=PL5Up_u-XkWgMsZpYk8GW9TpGk0GvC6DzR) | Jake Hebbert | 0 | 25 | | |
  | [Nature of Code: Particle Systems (chapter 4).](https://www.youtube.com/watch?v=nWkyLMm_Fdw&list=PL5Up_u-XkWgNk6l5V1bS26hpbhsUSohF2) | Jake Hebbert | 0 | 12 | | |
  | [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 0 | 18 | | |
+ | ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | |
+ | ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | | Review Recursive Aggr.
  
  
  ----
