@@ -7,7 +7,7 @@
 ### Grasshopper
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 9 | 15| | 2017 | 
+ | [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
 
 
 ### Rhino
@@ -34,7 +34,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 7 | 24 | | 2016 | Apparently based on NOC
+ | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  | 
+ | [C#_2_Intermediate C# Scripting in Grasshopper](http://designalyze.com/course/intermediate-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 1 | |  | 
+ | [C#_3_Advanced C# Scripting in Grasshopper](http://designalyze.com/course/advanced-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 2 | |  | 
  
  ----
  
