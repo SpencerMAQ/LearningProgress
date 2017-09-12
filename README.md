@@ -27,6 +27,9 @@
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
   - [Discrete Mathematics](#discrete-mathematics)
+ 
+- [Art](#art)
+  - [Sketching](#sketching)
 
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
@@ -59,7 +62,7 @@ www.ilectureonline.com
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [THERMODYNAMICS](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
+ | ⏳ [THERMODYNAMICS](http://www.ilectureonline.com/lectures/subject/PHYSICS/3)| iLectureOnline | 10 | 13 | | 2016 | Chapters
 
 
 
@@ -122,14 +125,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
+ | ⏳ [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
  
  
 ### Energy Simulations
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 6 | 7 | | 2017 | Priority
+ | ⏳ [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 6 | 7 | | 2017 | Priority
  | [Ladybug Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=KoAORkBJHro&list=PLkjfDmSc5OrzBgdPWQB7rbqFycWpbxtaN)| Mostapha S.R. | 0 | 7 | | |
  | ✔ [How to use Ladybug Sunpath](https://www.youtube.com/watch?v=9_u0dnyq2QI&list=PLkjfDmSc5OryH8UsunVFZad3e0l-EndW3)| Mostapha S.R | 3 | 3 | | 2016 | Need to review this
  | ✔ [Ladybug+Honeybee Developers](https://www.youtube.com/watch?v=n_m5PDqv5pU&list=PLkjfDmSc5Orxq-f_fbmu_HV4tE2ZPIdaC)| Mostapha S.R | 4 | 4 | | 2016 | Python
@@ -171,7 +174,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Batch Programming
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [Learn Batch File Programming](https://www.youtube.com/playlist?list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD)| MrGLHunt | 10 | 11 | | 2017 |  
+ | ⏳ [Learn Batch File Programming](https://www.youtube.com/playlist?list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD)| MrGLHunt | 10 | 11 | | 2017 |  
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -191,23 +194,23 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | 🕐 **Core** | | | | | |
  | | | | | | |
  | ✔ Pluralsight - Python Fundamentals | A. Bi, R. Sm | 11 | 11 | | 2017 | Excellent, Intermediate-Level  
- | :hourglass_flowing_sand: Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 12 | 13 | | 2017 | Excellent 
+ | ⏳ Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 12 | 13 | | 2017 | Excellent 
  | Pluralsight - Advanced Python | PS | 0 | 9 | | | Priority
  | | | | | | |
  | 🕐 **GUI** | | | | | | 
  | | | | | | |
- | :hourglass_flowing_sand: Udemy - Create simple GUI Applications with Python and Qt | | 1 | 3 | | 2017 | Mozarella Ashbadger 
+ | ⏳ Udemy - Create simple GUI Applications with Python and Qt | | 1 | 3 | | 2017 | Mozarella Ashbadger 
  | ✔ [PyQt5](https://www.youtube.com/watch?v=e5PBUFrSKgQ&list=PLZocUikpczs-Yud2lyFpSNQOvxuPUVBDp) | Mark Winfield | 19 | 19 | | 2016 | Youtube
  | ✔ Pluralsight - Python Desktop Application Development | PS | 5 | 5 | | 2017 | Basic PyQt4
  | Pluralsight - Python Desktop Application Development Part 2 - Design | PS | 0 | 5 | | | Qt Designer
  | | | | | | |
  | 🕐 **OOP** | | | | | | 
  | | | | | | |
- | :hourglass_flowing_sand: O'Reilly - Python Beyond the Basics - Object-Oriented Programming | PS | 7 | 9 | | 2016 | Forgot most of it
+ | ⏳ O'Reilly - Python Beyond the Basics - Object-Oriented Programming | PS | 7 | 9 | | 2016 | Forgot most of it
  | | | | | | |
  | 🕐 **Algorithms** | | | | | | 
  | | | | | | |
- | :hourglass_flowing_sand: [Python Sorting Algorithms](https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq) | Joe James | 3 | 6 | | 2017 | Used as exercise, diff. to understand
+ | ⏳ [Python Sorting Algorithms](https://www.youtube.com/watch?v=Nkw6Jg_Gi4w&list=PLj8W7XIvO93rJHSYzkk7CgfiLQRUEC2Sq) | Joe James | 3 | 6 | | 2017 | Used as exercise, diff. to understand
  | | | | | | |
  | 🕐 **DB** | | | | | | 
  | | | | | | |
@@ -235,7 +238,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Calculus
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
+ | ⏳ [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 | 
  | [Calculus with Python, Intro](https://www.youtube.com/watch?v=OKYeC4MSoj4&list=PLcwjc2OQcM4ulZNk8mj3Q3L-xR2JcT88i)| A F | 0 | 16 | | | 
  | [Calculus with Python, Limits](https://www.youtube.com/watch?v=72SntdQp0kM&list=PLcwjc2OQcM4uUJ1Ek0z9zL3015BhRqP6l)| A F | 0 | 23 | | | 
  | [Calculus with Python, Derivatives](https://www.youtube.com/watch?v=sjF_4Xl9mRk&list=PLcwjc2OQcM4s_c7v0os77RUBwvKrvcPjQ)| A F | 0 | 29 | | | 
@@ -244,7 +247,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Linear Algebra
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | :hourglass_flowing_sand: [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | Enlightening
+ | ⏳ [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | Enlightening
  
 ### Discrete Mathematics
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -252,6 +255,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [None Yet](https://www.youtube.com/)|  | 0 | 0 | | | Remarks
 
 
+ 
+----
+
+## Art
+
+
+
+### Sketching
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ⏳ [Sketching Tutorials](https://www.youtube.com/watch?v=5LbUwkk93QI&list=PLJQ9Ug0V_0wo8ZmHMcIgCyZwGhjoWHI4b)| Themodmin | 05| 16 | | 2017 | Architectural
 ----
 
 ### Notes:
