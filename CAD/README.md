@@ -27,11 +27,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | |
  | ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | | Review Recursive Aggr.
  | [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
+ | [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | | 
+
+
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
+ | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 7 | 24 | | 2016 | Apparently based on NOC
  
  ----
  
