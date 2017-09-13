@@ -151,7 +151,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ✔ [Philadelphia Dynamo User Group - Sept 12 Meeting - Ladybug, Honeybee, & Butterfly](https://www.youtube.com/watch?v=RB9ly1sRxtc) | GARDAnalytics | 1 | 1 | | 2017 | 
+ | ✔ [Philadelphia Dynamo User Group - Sept 12 Meeting - Ladybug, Honeybee, & Butterfly](https://www.youtube.com/watch?v=RB9ly1sRxtc) | Philadelphia Dynamo User Group
+ | 1 | 1 | | 2017 | 
 
 
 ### EnergyPlus
