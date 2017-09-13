@@ -73,7 +73,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | <ul><li>[x] item1</li></ul> [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 0 | 42 | | | Introductory Concepts incl. Archimedes' Principle, Pascal's Principle, Instruments
+ | [Engineering Thermodynamics I ME3293 Fall2015](https://www.youtube.com/watch?v=SJMT_pFCfcU&list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)| Randall Manteufel | 0 | 42 | | | Introductory Concepts incl. Archimedes' Principle, Pascal's Principle, Instruments
  | [Engineering Thermodynamics II ME4293 Spring2015](https://www.youtube.com/watch?v=JtN8yHngsmI&list=PL_ZIJMd-rNhXCR9ovJmMm1SEp4sSNF3sP)| Randall Manteufel | 0 | 32 | | | Calculus, Vapor Compression, Psychrometrics
  | [Engineering Thermodynamics II ME 4293 Spring2014](https://www.youtube.com/watch?v=YirvEVxqPpI&list=PL_ZIJMd-rNhXHbRiT5KRFEyH-yHH2lXGd)| Randall Manteufel | 0 | 36 | | | Calculus, Vapor Compression, Psychrometrics
 
