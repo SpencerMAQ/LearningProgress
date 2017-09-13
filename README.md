@@ -13,9 +13,10 @@
 - [Building Science](#building-science)
   - [HVAC](#hvac)
   - [Simulation](#energy-simulations)
+  - [Web Conferences](#web-conferences)
   - [EnergyPlus](#energyplus)
   - [OpenStudio](#openstudio)
-  - [Web Conferences](#web-conferences)
+
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
