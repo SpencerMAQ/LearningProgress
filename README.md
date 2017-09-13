@@ -15,6 +15,7 @@
   - [Simulation](#energy-simulations)
   - [EnergyPlus](#energyplus)
   - [OpenStudio](#openstudio)
+  - [Web Conferences](#web-conferences)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
@@ -144,6 +145,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [Getting Started With Ladybug](https://www.youtube.com/watch?v=8UFkJL-aZy8&list=PLruLh1AdY-Sj_XGz3kzHUoWmpWDXNep1O)| Chris M. | 6 | 6 | | 2016 | 
  | ✔ [Ladybug Comfort Tutorials](https://www.youtube.com/watch?v=TSipm7BXOKU&list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)| Chris M. | 10 | 10 | | 2016 | Need to review
  | ✔ [Honeybee Energy Modeling](https://www.youtube.com/watch?v=m8ncENwXpek&list=PLruLh1AdY-SgW4uDtNSMLeiUmA8YXEHT_)| Chris M. | 24 | 24 | | 2017 | 
+
+
+### Web Conferences
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | ✔ [Philadelphia Dynamo User Group - Sept 12 Meeting - Ladybug, Honeybee, & Butterfly](https://www.youtube.com/watch?v=RB9ly1sRxtc) | GARDAnalytics | 1 | 1 | | 2017 | 
 
 
 ### EnergyPlus
