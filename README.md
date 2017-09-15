@@ -55,6 +55,7 @@ www.ilectureonline.com
 [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)  
 [UCIOpen](https://www.youtube.com/channel/UCngehmCV-65FikHYUV1_qXA)  
 [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/playlists)  
+https://www.edx.org/course/big-data-orientation-microsoft-microsoft-dat229x-0
 
 ----
 ## Physics
