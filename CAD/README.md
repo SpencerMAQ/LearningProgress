@@ -64,9 +64,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Revit
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ✔ Lynda – Revit 2017 Essential Training for Architecture (Metric)|  | 103 | 103 | | 2017 | Very Good
- | ⏳ Lynda – Revit 2017 Essential Training for MEP (Metric)|  | 51 | 59 | | 2017 | 
- | ✔ InfiniteSkills - Learning Autodesk Revit Architecture 2015 |  | 21 | 21 | | 2016 | Completed (I think)
+ | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
+ | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
+ | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
  
  
  ----
