@@ -87,7 +87,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | | 
+ | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | 
+Danny Bentley | 0 | 14 | | | Watch Videos in Order
 
  ----
  
