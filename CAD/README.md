@@ -87,8 +87,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | 
-Danny Bentley | 0 | 14 | | | Watch Videos in Order
+ | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
 
  ----
  
