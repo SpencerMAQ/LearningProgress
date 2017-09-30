@@ -81,7 +81,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 0 | 10 | | | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip)
  | [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old)
  | [03 Advanced Computational Design for BIM](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT) | Autodesk Education | 0 | 30 | | | Priority, [Dataset](http://dynamobim.org/wp-content/links/AdvancedCurricullum.zip)
+ | [04 Dynamo](https://www.youtube.com/watch?v=QETG7HaaaaI&list=PLY-ggSrSwbZo0vCNJOFhzEQW_nbEfBKo8) | Autodesk Education | 0 | 29 | | | Priority, Last 10 vids = same as 01, Order: Dynamo Tutorials, Vignette, Medical Center
+ 
 
+ ### Dynamo Python
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | | 
 
  ----
  
