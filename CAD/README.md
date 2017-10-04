@@ -84,6 +84,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
  | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
+ | Massing With Revit | InfiniteSkills | 0 | 6 | | | 31 Videos, Conceptual Mass
+ | Revit Architecture Conceptual Design Fundamentals | Pluralsight | 0 | 25 | | | Conceptual Mass
  
 
  ### Dynamo
