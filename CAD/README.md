@@ -99,7 +99,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old)
  | [03 Advanced Computational Design for BIM](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT) | Autodesk Education | 0 | 30 | | | Priority, [Dataset](http://dynamobim.org/wp-content/links/AdvancedCurricullum.zip)
  | [04 Dynamo](https://www.youtube.com/watch?v=QETG7HaaaaI&list=PLY-ggSrSwbZo0vCNJOFhzEQW_nbEfBKo8) | Autodesk Building Solutions | 0 | 29 | | | Priority (Watch after Advanced Revit), Last 10 vids = same as 01, Order: Dynamo Tutorials, Vignette, Medical Center
- | ✔ [Accelerated Dynamo for Grasshopper Users](https://parametricmonkey.com/2016/01/19/dynamo-for-grasshopper-users/) | Andrew Heumann | 47:20 | 59 mins | | | Priority, [Vimeo](https://vimeo.com/116702007), Dynamo Data Structures are more intuitive to me than GH Data Trees, good job Autodesk, and List.Map() is an excellent feature similar to Python's map. Mind Blown @55:51 (List.Map)
+ | ✔ [Accelerated Dynamo for Grasshopper Users](https://parametricmonkey.com/2016/01/19/dynamo-for-grasshopper-users/) | Andrew Heumann | 59 | 59 mins | | | Priority, [Vimeo](https://vimeo.com/116702007), Dynamo Data Structures are more intuitive to me than GH Data Trees, good job Autodesk, and List.Map() is an excellent feature similar to Python's map. Mind Blown @55:51 (List.Map)
  
 
  ### Dynamo Python
