@@ -92,7 +92,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | | 
- | ⏳ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.01 | 04.02 | | | Kevin Griendling, Boom-Mast example
+ | ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | | Kevin Griendling, Boom-Mast example, Good, Basic
  | Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic 
  | Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
  | Dynamo Essential Training | Lynda | 0 | 29 | | | 
