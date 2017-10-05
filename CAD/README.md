@@ -117,4 +117,4 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Github
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ O'Reilly - Learning GitHub |  | 6 | 13 | | 2017 | 
+ | ⏳ O'Reilly - Learning GitHub |  | 7.01 | 13.07 | | 2017 | study once a week maybe
