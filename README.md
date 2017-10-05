@@ -83,7 +83,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [None Yet](https://www.youtube.com)| None | 0 | 24 | | | 
+ | Solar Radiation and Daylight Models | T. Muneer | 0 | 390 | | | Text Heavy, Not sure if this is what I want but it mentions practically every term I'm looking for, also has detailed Photometry
+ | Handbook of Optics, Vol 2, Part 7 | Michael B. | 958 | 1205 | | | Chapters 34 - 40, The book is probably focused on imaging Optics, starts @ 958, 247 pages
+ | Introduction to Radiometry and Photometry | William R. McCluney | 0 | 417 | | | Probably what I need, Math-heavy
  
 ### Photometry
 
