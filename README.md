@@ -208,6 +208,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | ⏳ [Learn Batch File Programming](https://www.youtube.com/playlist?list=PLZDgss2aFWnglo8EyPjbPl6Bys-cfVGwD)| MrGLHunt | 10 | 11 | | 2017 |  
+ | ⏳ [Batch Script Tutorial](https://www.tutorialspoint.com/batch_script/)| TutorialsPoint | 4 | 24 | | 2017 | Comprehensive
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
