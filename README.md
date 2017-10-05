@@ -135,7 +135,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 6 | 7 | | 2017 | Priority
+ | ✔ [Honeybee Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=M4MA82_CPPA&list=PLkjfDmSc5OryXkWSt57ltJFU4qXD5ss1v)| Mostapha S.R. | 7 | 7 | | 2017 | Priority, Sustainability is really REALLY HARD
  | [Ladybug Workshop @PennDesign April 2014](https://www.youtube.com/watch?v=KoAORkBJHro&list=PLkjfDmSc5OrzBgdPWQB7rbqFycWpbxtaN)| Mostapha S.R. | 0 | 7 | | |
  | ✔ [How to use Ladybug Sunpath](https://www.youtube.com/watch?v=9_u0dnyq2QI&list=PLkjfDmSc5OryH8UsunVFZad3e0l-EndW3)| Mostapha S.R | 3 | 3 | | 2016 | Need to review this
  | ✔ [Ladybug+Honeybee Developers](https://www.youtube.com/watch?v=n_m5PDqv5pU&list=PLkjfDmSc5Orxq-f_fbmu_HV4tE2ZPIdaC)| Mostapha S.R | 4 | 4 | | 2016 | Python
