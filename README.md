@@ -90,6 +90,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [Photometry - Optics(Global Accent)](https://www.youtube.com/watch?v=FPReV1G1mKA&list=PLYVDsiuOZP5qrx23S9B_EuZ7gB7uQk80u)| Physics Galaxy | 0 | 10 | | | Prio 
+ | THE LIGHTING HANDBOOK, Part 1: Framework | Illuminating Engineering Society | 26 | 403 | | | Differential Equations, Has subtle references to Radiometry, starts at 26
+ | THE LIGHTING HANDBOOK, Part 2: Design | Illuminating Engineering Society | 405 | 691 | | | Differential Equations, Has subtle references to Radiometry, starts at 405
  
 ### Optics 
 
