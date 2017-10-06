@@ -32,6 +32,9 @@
  
 - [Art](#art)
   - [Sketching](#sketching)
+ 
+- [Pedagogy](#pedagogy)
+  - [Incremental Reading](#incremental-reading)
 
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
@@ -306,6 +309,21 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ⏳ [Sketching Tutorials](https://www.youtube.com/watch?v=5LbUwkk93QI&list=PLJQ9Ug0V_0wo8ZmHMcIgCyZwGhjoWHI4b)| Themodmin | 05| 16 | | 2017 | Architectural
  | [How to Draw and Paint Videos](https://www.youtube.com/watch?v=oKFfSl-EBfI&list=PL0373FA2B3CD4C899&index=1)| Sycra | 0 | 88 | |  | Priority
  | [Drawing Methods](https://www.youtube.com/watch?v=JAEd003_EIQ&list=PL2F0088896BBDEE72)| Sycra | 0 | 5 | |  | Priority
+ 
+
+ 
+----
+
+## Pedagogy
+
+
+
+### Incremental Reading
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Anki Plugin](https://ankiweb.net/shared/info/1081195335) | [luoliyan](https://github.com/luoliyan/incremental-reading-for-anki) | 0 | 1 | | 2017 |
+ | [Supermemo Guide](https://www.supermemo.com/help/read.htm) | P. Wozniak | 0.0 | 7.0 | | 2017 | Guide to Incremental Reading
+
 ----
 
 ### Notes:
