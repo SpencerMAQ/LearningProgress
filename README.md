@@ -321,8 +321,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Incremental Reading
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Anki Plugin](https://ankiweb.net/shared/info/1081195335) | [luoliyan](https://github.com/luoliyan/incremental-reading-for-anki) | 0 | 1 | | 2017 |
- | [Supermemo Guide](https://www.supermemo.com/help/read.htm) | P. Wozniak | 0.0 | 7.0 | | 2017 | Guide to Incremental Reading
+ | [Anki Plugin](https://ankiweb.net/shared/info/1081195335) | [luoliyan](https://github.com/luoliyan/incremental-reading-for-anki) | 0 | 1 | | |
+ | [Supermemo Guide](https://www.supermemo.com/help/read.htm) | P. Wozniak | 0.0 | 7.0 | | | Guide to Incremental Reading
 
 ----
 
