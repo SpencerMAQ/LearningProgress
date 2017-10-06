@@ -154,6 +154,19 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [Getting Started With Ladybug](https://www.youtube.com/watch?v=8UFkJL-aZy8&list=PLruLh1AdY-Sj_XGz3kzHUoWmpWDXNep1O)| Chris M. | 6 | 6 | | 2016 | 
  | ✔ [Ladybug Comfort Tutorials](https://www.youtube.com/watch?v=TSipm7BXOKU&list=PLruLh1AdY-Sho45_D4BV1HKcIz7oVmZ8v)| Chris M. | 10 | 10 | | 2016 | Need to review
  | ✔ [Honeybee Energy Modeling](https://www.youtube.com/watch?v=m8ncENwXpek&list=PLruLh1AdY-SgW4uDtNSMLeiUmA8YXEHT_)| Chris M. | 24 | 24 | | 2017 | 
+ | | | | | | |
+ | Powerpoint Presentations | | | | | |
+ | | | | | | |
+ | [Brute Force Parametric Energy Modeling](https://docs.google.com/presentation/d/1dOwpjaWUnLH0yuJUJorUzSZSTstysCS_0O1H5BQOBU8/edit?usp=sharing)| Chris M. | 0 | 1 | | | Optimization using full column space rather than heuristics
+ | [Modeling Wintertine Thermal Comfort](https://docs.google.com/presentation/d/1QdYp_6ywlBF86IQI2zBlxB2NVU1d3MeSutb-eYJpsZI/edit?usp=sharing)| Chris M. | 0 | 1 | | | 
+ | [Modeling Summertime Thermal Comfort](https://docs.google.com/presentation/d/13kS_HXjHC57xZsvD_3OwWHj2Pu5btCr7uUmHrhs3nlo/edit?usp=sharing)| Chris M. | 0 | 1 | | | 
+ | [Urban Heat Island Modeling with Dragonfly](https://docs.google.com/presentation/d/1Or-PDK6-I1MqXvs1pXsw41P30lHVLEMJeyO9rTFrXH4/edit?usp=sharing)| Chris M. | 0 | 1 | | | 
+ | [Expanding Climate Data Sources With Dragonfly](https://docs.google.com/presentation/d/13Yk_trv_Z8xNjwqNiiKSk-53SCojOLro9q4puH5h9qc/edit?usp=sharing)| Chris M. | 0 | 1 | | | EPW generation?
+ | [Thermal Comfort In Design](https://docs.google.com/presentation/d/1ZbPslO0lfC736-RcYiz6xomQIP82wQGXHtvi8jT4yJI/edit?usp=sharing)| Chris M. | 0 | 1 | | | 
+ | [Envelope Design with Honeybee THERM](https://docs.google.com/presentation/d/1X11mK4LbkoY0myOiFFY7_SY4wRJ45UZHXmYnY_50JRg/edit?usp=sharing)| Chris M. | 0 | 1 | | | 
+ | [Glazing and Winter Comfort Tool](https://docs.google.com/presentation/d/1tRaeq-MURhbOBYvKh9Xw7BXn--YI4W03t5qn95pyhPY/edit?usp=sharing)| Chris M., Aljendra M.B. | 0 | 1 | | | 
+ | [Wind, Sun, Surface Temperature, and Heat Island: Variables for High-Resolution Outdoor Thermal Comfort](https://docs.google.com/presentation/d/1mKQByZxfwZSvdSvXUw7IRBzY2gRjIJq4iSN1ug5k00Q/edit?usp=sharing)| Chris M., Aljendra M.B. | 0 | 1 | | | 
+
 
 
 ### Web Conferences
