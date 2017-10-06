@@ -324,7 +324,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Anki Plugin](https://ankiweb.net/shared/info/1081195335) | [luoliyan](https://github.com/luoliyan/incremental-reading-for-anki) | 0 | 1 | | |
  | [Supermemo Guide](https://www.supermemo.com/help/read.htm) | P. Wozniak | 0.0 | 7.0 | | | Guide to Incremental Reading
  | [BuboFlash](https://buboflash.eu/bubo5/log-in?called-from=/bubo5/homepage) | P. Wasik | 0 | 1 | | | Has the ability to import PDFs?
- | [Detailed SuperMemo Guide](http://www.super-memory.com/help/read.htm) | P. Wasik | 0 | 8.0 | | | Detailed
+ | [Detailed SuperMemo Guide](http://www.super-memory.com/help/read.htm) | P. Wozniak | 0 | 8.0 | | | Detailed
 
 
 ----
