@@ -248,7 +248,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | 🕐 **Core** | | | | | |
  | | | | | | |
  | ✔ Pluralsight - Python Fundamentals | A. Bi, R. Sm | 11 | 11 | | 2017 | Excellent, Intermediate-Level  
- | ⏳ Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 13.2 | 13.6 | | 2017 | Excellent 
+ | ⏳ Pluralsight - Python Beyond The Basics | A. Bi, R. Sm | 13.4 | 13.6 | | 2017 | Excellent 
  | Pluralsight - Advanced Python | PS | 0 | 9 | | | Priority
  | | | | | | |
  | 🕐 **GUI** | | | | | | 
