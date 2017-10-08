@@ -88,7 +88,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | Solar Radiation and Daylight Models | T. Muneer | 0 | 390 | | | Text Heavy, Not sure if this is what I want but it mentions practically every term I'm looking for, also has detailed Photometry
  | Handbook of Optics, Vol 2, Part 7 | Michael B. | 958 | 1205 | | | Chapters 34 - 40, The book is probably focused on imaging Optics, starts @ 958, 247 pages
- | Introduction to Radiometry and Photometry | William R. McCluney | 0 | 417 | | | Probably what I need, Math-heavy
+ | Introduction to Radiometry and Photometry | William R. McCluney | 0 | 417 | | | Priority, Probably what I need, Math-heavy, Luminance, Glare, Blackbody Radiation, Flux Transfer - Monte Carlo, Optical Properties of Materials, Surface Emission, Optical Systems, Radiometers, Photometers
+ | Solar Radiation and Daylight Models | T. Muneer | 0 | 390 | | | Read after Cluney, Focused on Radiometry with minor Photometry, useful for understanding EPW components, Radiation, Irradition, Solar Declination, GHI, DHI, cloud cover, Solar spectral radiation, Ground Albedo, Psychrometrics
  
 ### Photometry
 
