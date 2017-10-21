@@ -17,6 +17,7 @@
   - [EnergyPlus](#energyplus)
   - [OpenStudio](#openstudio)
   - [Radiance](#radiance)
+  - [Radiance HB Files](#radiance-honeybee-files)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
@@ -219,6 +220,28 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  | [001 Scene 0 Tutorial ](https://www.radiance-online.org/learning/tutorials/intro-to-rendering-with-radiance) | G Antonutto , A. McNeil | 18 | 18 | | | A simple room found in section 1.3 of the Introduction chapter of Rendering with Radiance (This chapter is provided free online). 
 
+
+### Radiance Honeybee Files
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | Files from [HB Example Files 59_56](https://www.dropbox.com/s/oi2bqp4asu4wr4y/Ladybug_Honeybee_ExampleFiles_59_56.zip?dl=0)| | | | | |
+ | | | | | | |
+ | ⏳ 000_GettingStarted_GridBasedAnalysis | M. Roudsari | 0 | 1 | | |
+ | 001_GettingStarted_ImageBasedAnalysis | M. Roudsari | 0 | 1 | | |
+ | 002_SkyTypes_watchTheSky | M. Roudsari | 0 | 1 | | |
+ | 003_Radiance_Materials | M. Roudsari | 0 | 1 | | |
+ | 004_shadowRangeAnalysis | M. Roudsari | 0 | 1 | | |
+ | 005_GlareAnalysis | M. Roudsari | 0 | 1 | | |
+ | 006_Parametric_GridBasedAnalysis | M. Roudsari | 0 | 1 | | |
+ | 007_AnnualDaylightAnalysis_I_GettingStarted | M. Roudsari | 0 | 1 | | |
+ | 008_AnnualDaylightAnalysis_II_ExploringResults | M. Roudsari | 0 | 1 | | |
+ | 009_AnnualDaylightAnalysis_III_dynamicBlinds | M. Roudsari | 0 | 1 | | |
+ | 010_Honeybee EnergyPlus Simulation | M. Roudsari | 0 | 1 | | |
+ | 011_Indoor Comfort Adaptive | M. Roudsari | 0 | 1 | | |
+ | 012_Indoor Comfort PMV | M. Roudsari | 0 | 1 | | |
+ | 013_Psych Chart Part 3 | M. Roudsari | 0 | 1 | | |
+ | 014_Energy Shade Benefit Evaluation | M. Roudsari | 0 | 1 | | |
 ----
 
 
