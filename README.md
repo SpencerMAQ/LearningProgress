@@ -231,8 +231,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  | ✔ 000_GettingStarted_GridBasedAnalysis | M. Roudsari | 1 | 1 | | | [Similar Hydrashare](http://hydrashare.github.io/hydra/viewer?owner=mostaphaRoudsari&fork=hydra_1&id=Honeybee_Grid-based_Daylight_Simulation_Example_I&slide=0&scale=1.7411011265922502&offset=59.40266396487971,-37.54324721955959), Key Points: Convert Geom using Mass2Zone, Generate Test Points, Don't Forget to add Ground in Front of window for more accurate results (reflection), LB Recolor Mesh
  | ✔ 001_GettingStarted_ImageBasedAnalysis | M. Roudsari | 1 | 1 | | | [Hydrashare equiv](http://hydrashare.github.io/hydra/viewer?owner=mostaphaRoudsari&fork=hydra_1&id=Honeybee_Image-based_Daylight_Analysis&slide=0&scale=2.000000000000003&offset=-324.62976808741735,-350.09924578828554), no need to gen test pts
- | ✔ 002_SkyTypes_watchTheSky | M. Roudsari | 1 | 1 | | | KeyPoints: 1. SkyType  | 2. Watch the Sky | 3. False Color | 4. HDR to GIF
- | ✔ 003_Radiance_Materials | M. Roudsari | 0 | 1 | | | Current Matl'ls in lib: Call from Rad Lib | Add to Project Lib for permanent storage in Hard Drive
+ | ✔ 002_SkyTypes_watchTheSky | M. Roudsari | 1 | 1 | | | KeyPoints: 1. SkyType  >> 2. Watch the Sky >> 3. False Color >> 4. HDR to GIF
+ | ✔ 003_Radiance_Materials | M. Roudsari | 0 | 1 | | | Current Matl'ls in lib: Call from Rad Lib // Add to Project Lib for permanent storage in Hard Drive
  | 004_shadowRangeAnalysis | M. Roudsari | 0 | 1 | | |
  | 005_GlareAnalysis | M. Roudsari | 0 | 1 | | |
  | 006_Parametric_GridBasedAnalysis | M. Roudsari | 0 | 1 | | |
