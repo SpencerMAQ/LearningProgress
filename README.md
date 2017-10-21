@@ -202,6 +202,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
+ | Tutorial on the Use of Daysim Simulations for Sustainable Design (Daysim 3.0) | Dr. Christoph F. Reinhart | 0 | 114 | | | Suggested by Mostapha from [HB Daylighting series 1](https://www.youtube.com/watch?v=M4MA82_CPPA), [mirror](https://www.dropbox.com/s/ril32ukfzgu2ci2/Daysim3.0.Tutorial.pdf?dl=0)
  | [refman PDF (Radiance model syntax)](http://radsite.lbl.gov/radiance/refer/refman.pdf) | Lawrence Berkeley Laboratory | 0 | 20 | | | Tutorials from the Radiance site
  | | | | | | |
  | [Unix for Radiance](http://www.jaloxa.eu/resources/radiance/documentation/) | General | | | | |
