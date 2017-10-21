@@ -229,7 +229,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | Files from [HB Example Files 59_56](https://www.dropbox.com/s/oi2bqp4asu4wr4y/Ladybug_Honeybee_ExampleFiles_59_56.zip?dl=0)| | | | | |
  | | | | | | |
- | ⏳ 000_GettingStarted_GridBasedAnalysis | M. Roudsari | 0 | 1 | | |
+ | ✔ 000_GettingStarted_GridBasedAnalysis | M. Roudsari | 1 | 1 | | | [Similar Hydrashare](http://hydrashare.github.io/hydra/viewer?owner=mostaphaRoudsari&fork=hydra_1&id=Honeybee_Grid-based_Daylight_Simulation_Example_I&slide=0&scale=1.7411011265922502&offset=59.40266396487971,-37.54324721955959), Key Points: Convert Geom using Mass2Zone, Generate Test Points, Don't Forget to add Ground in Front of window for more accurate results (reflection), LB Recolor Mesh
  | 001_GettingStarted_ImageBasedAnalysis | M. Roudsari | 0 | 1 | | |
  | 002_SkyTypes_watchTheSky | M. Roudsari | 0 | 1 | | |
  | 003_Radiance_Materials | M. Roudsari | 0 | 1 | | |
