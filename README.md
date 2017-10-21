@@ -18,6 +18,7 @@
   - [OpenStudio](#openstudio)
   - [Radiance](#radiance)
   - [Radiance HB Files](#radiance-honeybee-files)
+  - [Radiance HB+ Files](#radiance-honeybee-plus-files)
 
 - [Computer Science](#computer-science)
   - [Batch Programming](#batch-programming)
@@ -243,6 +244,27 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | 012_Indoor Comfort PMV | M. Roudsari | 0 | 1 | | |
  | 013_Psych Chart Part 3 | M. Roudsari | 0 | 1 | | |
  | 014_Energy Shade Benefit Evaluation | M. Roudsari | 0 | 1 | | |
+
+
+### Radiance Honeybee Plus Files
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | Files from [HB+ Example Files github](https://github.com/ladybug-tools/honeybee-grasshopper/tree/master/plugin/grasshopper/sampleFiles)| | | | | | General Guideline for 01 - 12: Only set the files for which you understand the entire code including the HB+ library code, all concepts associated before setting to completed
+ | | | | | | |
+ | 00_point_in_time_gridbased | M. Roudsari | 0 | 1 | | | 
+ | 01_point_in_time_imagebased | M. Roudsari | 0 | 1 | | |
+ | 02_daylight_factor_gridbased | M. Roudsari | 0 | 1 | | |
+ | 03_solaraccess_gridbased | M. Roudsari | 0 | 1 | | |
+ | 04_annual_daylight_gridbased | M. Roudsari | 0 | 1 | | |
+ | 05_annual_radiation_gridbased | M. Roudsari | 0 | 1 | | |
+ | 06_daylight_coefficient_gridbased | M. Roudsari | 0 | 1 | | |
+ | 07_daylight_coefficient_imagebased | M. Roudsari | 0 | 1 | | |
+ | 08_three_phase_I_gridbased | M. Roudsari | 0 | 1 | | |
+ | 09_three_phase_II_gridbased | M. Roudsari | 0 | 1 | | |
+ | 10_three_phase_III_gridbased | M. Roudsari | 0 | 1 | | |
+ | 11_five_phase_I_gridbased | M. Roudsari | 0 | 1 | | |
+ | 12_five_phase_II_gridbased | M. Roudsari | 0 | 1 | | |
 ----
 
 
