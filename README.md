@@ -210,7 +210,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  | ✔ [01 Unix for Radiance](http://www.jaloxa.eu/resources/radiance/documentation/docs/unix4radiance.pdf) | Axel Jacobs | 18 | 18 | | | Check resources from References page
  | ⏳ [02 Radiance Tutorial](http://www.jaloxa.eu/resources/radiance/documentation/docs/radiance_tutorial.pdf) | Axel Jacobs | 15 | 54 | | | Basics, see files [here](http://www.jaloxa.eu/resources/radiance/documentation/docs/radfiles_tutorial.zip)
- | [03 Radiance Cookbook](http://www.jaloxa.eu/resources/radiance/documentation/docs/radiance_cookbook.pdf) | Axel Jacobs | 0 | 85 | | | [Files](http://www.jaloxa.eu/resources/radiance/documentation/docs/radfiles_cookbook.zip)
+ | [03 Radiance Cookbook](http://www.jaloxa.eu/resources/radiance/documentation/docs/radiance_cookbook.pdf) | Axel Jacobs | 0 | 85 | | | [Files](http://www.jaloxa.eu/resources/radiance/documentation/docs/radfiles_cookbook.zip), Intermediate001
  | [04 rtcontrib Lesson](http://www.jaloxa.eu/resources/radiance/documentation/docs/rtcontrib_lesson.pdf) | Axel Jacobs | 0 | 41 | | | [Files](http://www.jaloxa.eu/resources/radiance/documentation/docs/rtcontrib_lesson.tgz), [gendaylit with EPW climate files](http://www.jaloxa.eu/resources/radiance/documentation/docs/gendaylit_epw_errors.html)
  | | | | | | |
  | [Basic Tutorials](https://www.radiance-online.org/learning/tutorials) | | | | | |
@@ -218,9 +218,23 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [002 Radiance Primer](https://www.radiance-online.org/learning/tutorials/radiance-primer) | G Antonutto , A. McNeil | 18 | 18 | | | An overview of Radiance primitives, commands and workflow, 001 is Radiance Tutorial by axel
  | [003 Scene 0 Tutorial ](https://www.radiance-online.org/learning/tutorials/intro-to-rendering-with-radiance) | G Antonutto , A. McNeil | 18 | 18 | | | A simple room found in section 1.3 of the Introduction chapter of Rendering with Radiance (This chapter is provided free online).
  | | | | | | |
+ | [Intermediate Tutorials](https://www.radiance-online.org/learning/tutorials) | | | | | |
+ | | | | | | |
+ | Scene 1 Tutorial (from Rendering with Radiance)  | Book | 0 | 1 | | | You'll need to purchase the book for this tutorial., Inter02
+ | Scene 2 Tutorial (from Rendering with Radiance)  | Book | 0 | 1 | | | You'll need to purchase the book for this tutorial., Inter03
+ | | | | | | |
  | [Advanced Tutorials](https://www.radiance-online.org/learning/tutorials) | | | | | |
  | | | | | | |
- | [001 Scene 0 Tutorial ](https://www.radiance-online.org/learning/tutorials/intro-to-rendering-with-radiance) | G Antonutto , A. McNeil | 18 | 18 | | | A simple room found in section 1.3 of the Introduction chapter of Rendering with Radiance (This chapter is provided free online). 
+ | [01 genBSDF Tutorial](https://www.radiance-online.org/learning/tutorials/Tutorial-genBSDF_v1.0.1.pdf) | A. McNeil | 0 | ?? | | | Using genBSDF to create BSDF files for complex fenestrations systems. 
+ | [02 Photon map user manual](https://www.radiance-online.org/learning/documentation/photonmap-user-guide) | Roland Schregle | 0 | ?? | | | describes the implementation and use of the forward raytracing photon map in Radiance.
+ | [03 Daylighting Simulations with Radiance using Matrix-based Methods ](https://www.radiance-online.org/learning/tutorials/matrix-based-methods) | S. Subramaniam | 0 | ?? | | | The most up-to-date work flows for performing matrix-based daylighting simulations. [The zip file](https://www.radiance-online.org/learning/tutorials/radTutorialFiles-master.zip) to run examples in the tutorial is also provided.
+ | | | | | | |
+ | [Deprecated Tutorials](https://www.radiance-online.org/learning/tutorials) | | | | | |
+ | | | | | | |
+ | [01 rtcontrib lesson](http://www.jaloxa.eu/resources/radiance/documentation/) | Axel Jacobs | 0 | ?? | | | Using rtcontrib to compute daylight coefficients for annual daylight simulations. 
+ | [02 Three-Phase Method Tutorial](https://www.radiance-online.org/learning/tutorials/Tutorial-ThreePhaseMethod.pdf) | Andy McNeil | 0 | ?? | | | Using rtcontrib and new BSDF capabilities to perform annual daylight simulation for complex fenestration systems (i.e. daylight redirecting and dynamic shading systems).
+ | [03 Five-Phase Method Tutorial](https://www.radiance-online.org/learning/tutorials/fivephasetutorialfiles/Tutorial-FivePhaseMethod_v2.pdf) | Andy McNeil | 0 | ?? | | | improving accuracy for direct sun in annual simulations with CFS.  [A bash script](https://www.radiance-online.org/learning/tutorials/fivephasetutorialfiles/test_5phase.bsh) to run and time the examples is also provided.
+
 
 
 ### Radiance Honeybee Files
