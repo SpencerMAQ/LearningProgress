@@ -12,6 +12,7 @@
   - [Revit](#grasshopper)
   - [Dynamo](#dynamo)
   - [Dynamo Python](#dynamo-python)
+  - [Revit API](#revit-api)
 
 - [VCS](#vcs)
   - [Github](#github)
@@ -108,6 +109,21 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
+ 
+
+ ### Revit API
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Revit API C# Getting Started ](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | | 
+ | [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit
+ | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
+ | [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Sergei Golembiovskyi | 0 | 20:01 | | | 
+ | [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Sergei Golembiovskyi | 0 | 33:39 | | |
+ | [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD
+ | 0 | 2 | | 20 mins
+ | [Revit API with C#](https://www.youtube.com/watch?v=PqgyeQDzGak&list=PLKUV8QIif4clqqbptKzclyMg0sOC_P6c0) | KrispCAD
+ | 0 | 2 | | 20 mins
+
 
  ----
  
