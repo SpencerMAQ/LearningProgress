@@ -9,7 +9,7 @@
   - [C#](#c)
 
 - [Revit-based](#revit-based)
-  - [Revit](#grasshopper)
+  - [Revit](#revit)
   - [Dynamo](#dynamo)
   - [Dynamo Python](#dynamo-python)
   - [Revit API](#revit-api)
