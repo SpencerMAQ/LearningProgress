@@ -84,9 +84,16 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
  | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
+ | Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
  | Massing With Revit | InfiniteSkills | 0 | 6 | | | 31 Videos, Conceptual Mass
- | Revit Architecture Conceptual Design Fundamentals | Pluralsight | 0 | 25 | | | Conceptual Mass
+ | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
+ | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
+ | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
+ | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
+ | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
+ | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
+ | Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 0 | 21 | | |
  
 
  ### Dynamo
