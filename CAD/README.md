@@ -92,7 +92,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
- | Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 0 | 21 | | | Priority
+ | ⏳ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 5 | 21 | | | Priority
  
 
  ### Dynamo
