@@ -93,7 +93,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
- | ⏳ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 15 | 21 | | | Priority, Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels
+ | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | | | Priority, Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  
 
  ### Dynamo
