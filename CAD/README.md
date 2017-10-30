@@ -44,6 +44,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
  | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | | 
  | Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
+ | Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
