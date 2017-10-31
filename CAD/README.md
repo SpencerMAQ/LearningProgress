@@ -45,6 +45,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | | 
  | Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
  | Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
+ | [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -94,7 +95,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | | | Priority, Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
- | [2013 Spring: BIM Methods](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 15 | | | Priority
+ | [BIM Methods Spring 2013](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 30 | | | Priority, Each vid with A and B parts, [mirror](https://www.youtube.com/watch?v=oHU-8BRfAZQ&list=PLsDYCyUR8mCQ0WQqzdQNbHTVKt4TSU9ht)
  
 
  ### Dynamo
