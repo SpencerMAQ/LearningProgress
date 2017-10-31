@@ -94,6 +94,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | | | Priority, Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
+ | [2013 Spring: BIM Methods](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 15 | | | Priority
  
 
  ### Dynamo
