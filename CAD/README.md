@@ -102,6 +102,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Priority, Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  | [BIM Methods Spring 2013](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 30 | | | Priority, Each vid with A and B parts, [mirror](https://www.youtube.com/watch?v=oHU-8BRfAZQ&list=PLsDYCyUR8mCQ0WQqzdQNbHTVKt4TSU9ht)
+ | [BIM Methods Spring 2014](https://www.youtube.com/watch?v=CumZcEOHly0&list=PLADA26644D29AA0CB) | Jeremy Roh  | 00 | 27 | | |
  
 
  ### Dynamo
