@@ -87,8 +87,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
  | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
  | Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
+ | Advanced Modelling in Revit | Lynda | 00 | 09 | | | 9 Chapters
+ | Architectural Families in Revit | Lynda | 00 | 36 | | |
+ | Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
+ | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
  | Massing With Revit | InfiniteSkills | 0 | 6 | | | 31 Videos, Conceptual Mass
+ | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
+ | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
