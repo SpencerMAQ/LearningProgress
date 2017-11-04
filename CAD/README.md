@@ -91,6 +91,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Architectural Families in Revit | Lynda | 00 | 36 | | |
  | Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
  | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
+ | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
  | Massing With Revit | InfiniteSkills | 0 | 6 | | | 31 Videos, Conceptual Mass
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
@@ -100,6 +101,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
+ | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  | Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
  | [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
