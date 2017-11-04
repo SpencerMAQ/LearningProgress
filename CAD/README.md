@@ -102,6 +102,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
+ | ⏳ Creating Detail Drawings in Revit | Digital Tutors | 1 | 08 | | | Priority
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  | Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
  | [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
