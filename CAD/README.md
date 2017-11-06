@@ -99,7 +99,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
- | Modeling Trusses in Revit | Digital Tutors | 0 | 6 | | |
+ | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | | Good
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
  | ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
