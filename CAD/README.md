@@ -92,6 +92,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
  | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
+ | ⏳ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
  | ⏳ Massing With Revit | InfiniteSkills | 1.1 | 6.1 | | | 31 Videos, Conceptual Mass
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
