@@ -93,7 +93,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
  | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
- | Massing With Revit | InfiniteSkills | 0 | 6 | | | 31 Videos, Conceptual Mass
+ | ⏳ Massing With Revit | InfiniteSkills | 1.1 | 6.1 | | | 31 Videos, Conceptual Mass
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
