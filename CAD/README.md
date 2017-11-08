@@ -98,7 +98,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
  | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
- | Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 0.0 | 5.4 | | | 5 Chaps
+ | ⏳ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 2.2 | 5.4 | | | 5 Chaps
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
