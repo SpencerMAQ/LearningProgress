@@ -93,10 +93,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
  | ⏳ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
- | ✔ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | IS | 21 | 21 | | 2016 | Completed (I think)
+ | ⏳ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | O'Reilly | 21 | 21 | | 2016 | Need to REVIEW!
  | ⏳ Massing With Revit | InfiniteSkills | 1.1 | 6.1 | | | 31 Videos, Conceptual Mass
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
+ | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
+ | Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 0.0 | 5.4 | | | 5 Chaps
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
