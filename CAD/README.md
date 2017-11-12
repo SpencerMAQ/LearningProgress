@@ -98,16 +98,18 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
  | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
- | ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | | 5 Chaps, 7/10, A lot of unexplained things I don't understand
+ | ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | | Good
+ | ⏳ Creating a Wood Frame Model in Revit - Shortcut | Digital Tutors | 0 | 11 | | | Priority
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
+ | ⏳ Work Planes and Reference Planes in Revit | Digital Tutors | 0 | 05 | | | Priority
  | ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
- | Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
+ | ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
  | [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
  | [Solar Decathlon Workshops Summer 2012](https://www.youtube.com/watch?v=uwSDETu_uTc&index=11&list=PLsDYCyUR8mCRjZuJRG_kSMY_VjtGuMNth) | Jeremy Roh  | 00 | 11 | | | Designed to cover an overview of modeling in all parts of the Revit Project, Family, and Conceptual Design environments; as well as, teach documentation per the Solar Decathlon and Professional Office Standards.
  | [BIM Methods Fall 2012](https://www.youtube.com/watch?v=JxH1EqbSh_s&list=PLsDYCyUR8mCRZE9rnFP9z2j8oAuDgsN3I) | Jeremy Roh  | 00 | 26 | | | This semester class taught the making, detailing, and rendering of transit and tower components; as well as, this class covered the advanced modeling skills associated with parametric towers, adaptive components, curtain panel pattern-based families, double-curtain wall systems, and using tools beyond their original intent.
