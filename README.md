@@ -187,6 +187,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Energyplus 101 - Geometry](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMcKiPVkOoBqvGfAcan4DOZ) | BIMSourceVideos | 0 | 10 | | | 
  | [HVAC Templates in EnergyPlus](https://www.youtube.com/watch?v=CcfSlL9Z3w0&list=PLWBPF4IaH2VMRWVpoTKtzUIGsdw0K_dtO) | BIMSourceVideos | 0 | 11 | | | 
  | [1_Branch Node Management in EnergyPlus](https://www.youtube.com/watch?v=y1kbu_FXwh8&list=PLDj9RUwinupfmFEfBX23ii3N4iCNHLTh8) | Advanced EnergyPlus Tutorials | 0 | 8 | | | 
+ | [EnergyPlus Course at TU Wien – WS 2017/2018](https://www.researchgate.net/project/EnergyPlus-Course-at-TU-Wien-WS-2017-2018) | Farhang Tahmasebi | 0 | 8 | | | VERY HIGH Priority \\ Goal: This is my personal project to design building simulation exercises and workflows for a basic graduate course on building thermal performance simulation at TU Wien. The course focuses on EnergyPlus as the simulation program (along with its utilities EP-Launch and IDF Editor), and limits the use of Graphical User Interfaces to the generation of geometry with OpenStudio SketchUp plug-in. It is offered within the Master program Building Science and Technology directed by Professor A. Mahdavi. Most of the simulation exercises and suggested workflows will be shared here and any feedback is very welcome.
  
  
 ### OpenStudio
