@@ -106,7 +106,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ⏳ Creating a Wood Frame Model in Revit | Digital Tutors | 0 | 11 | | | Priority
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
- | ⏳ Work Planes and Reference Planes in Revit | Digital Tutors | 0 | 05 | | | Priority
+ | ✔ Work Planes and Reference Planes in Revit | Digital Tutors | 05 | 05 | | | Should be taught in basic courses
  | ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
  | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  | ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
