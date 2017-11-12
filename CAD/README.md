@@ -103,7 +103,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | | Good
- | ⏳ Creating a Wood Frame Model in Revit - Shortcut | Digital Tutors | 0 | 11 | | | Priority
+ | ⏳ Creating a Wood Frame Model in Revit | Digital Tutors | 0 | 11 | | | Priority
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
  | ⏳ Work Planes and Reference Planes in Revit | Digital Tutors | 0 | 05 | | | Priority
