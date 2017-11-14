@@ -88,7 +88,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
  | Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
  | Advanced Modelling in Revit | Lynda | 00 | 09 | | | 9 Chapters
- | Architectural Families in Revit | Lynda | 00 | 36 | | |
+ | Architectural Families in Revit | Lynda | 00 | 36 | | | Priority
  | Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
  | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
