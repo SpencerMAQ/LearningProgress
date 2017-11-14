@@ -103,7 +103,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | 2017 | Good
- | ✔ Creating a Wood Frame Model in Revit | Digital Tutors | 11 | 11 | | 2017 | Timber Structural Framing, Summary: Sill - Beam, Studs - Columns, use actual size not nominal, C. Joist = offset due to rafters, 50% of the time = copying. Coping not covered, Truss not covered
+ | ✔ Creating a Wood Frame Model in Revit | Digital Tutors | 11 | 11 | | 2017 | Timber Structural Framing, Summary: Sill - Beam, Studs - Columns, use actual size not nominal, C. Joist = offset due to rafters, 50% of the time = copying. Coping not covered, Truss not covered. Timber extension Tool
  | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
  | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
  | ✔ Work Planes and Reference Planes in Revit | Digital Tutors | 05 | 05 | | 2017 | Should be taught in basic courses
