@@ -97,6 +97,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ⏳ Massing With Revit | InfiniteSkills | 1.1 | 6.1 | | | 31 Videos, Conceptual Mass
  | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
+ | ⏳ Revit - Stairs And Railings | InfiniteSkills | 0.0 | 12.4 | | | Very Comprehensive, Priority
  | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
  | ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
  | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
