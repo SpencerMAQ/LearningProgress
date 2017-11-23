@@ -139,6 +139,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [04 Dynamo](https://www.youtube.com/watch?v=QETG7HaaaaI&list=PLY-ggSrSwbZo0vCNJOFhzEQW_nbEfBKo8) | Autodesk Building Solutions | 0 | 29 | | | Priority (Watch after Advanced Revit), Last 10 vids = same as 01, Order: Dynamo Tutorials, Vignette, Medical Center
  | ✔ [Accelerated Dynamo for Grasshopper Users](https://parametricmonkey.com/2016/01/19/dynamo-for-grasshopper-users/) | Andrew Heumann | 59 | 59 mins | | 2017 | [Vimeo](https://vimeo.com/116702007), Dynamo Data Structures are more intuitive to me than GH Data Trees, good job Autodesk, and List.Map() is an excellent feature similar to Python's map. Mind Blown @55:51 (List.Map)
  | ✔ [Introducing List@Level: Working with Lists Made Easier](http://dynamobim.org/introducing-listlevel-working-with-lists-made-easier/) | Racel Williams | 01 pg | 01 pg | | 2017 | Point.ByCoordinates(t1@@-2, t2, t3)
+ | [Lacing in Code blocks](http://dynamobim.org/forums/topic/code-blocks-and-lacing/) | | 00 pg | 01 pg | | |
+ | [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
+ | [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
+ | [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
  
 
  ### Dynamo Python
