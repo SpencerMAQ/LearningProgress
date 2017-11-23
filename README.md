@@ -62,6 +62,8 @@ www.ilectureonline.com
 [Physics Videos by Eugene Khutoryansky](https://www.youtube.com/user/EugeneKhutoryansky/playlists)  
 https://www.edx.org/course/big-data-orientation-microsoft-microsoft-dat229x-0
 
+Python execution step-through: http://pythontutor.com/
+
 ----
 ## Physics
 
