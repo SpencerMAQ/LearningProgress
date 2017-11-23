@@ -145,6 +145,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
  | [Dynamo Primer](http://dynamoprimer.com/en/) | | 00 ch | 13 ch | | | Study: 5 - 13
  | [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
+ | [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
  
 
  ### Dynamo Python
