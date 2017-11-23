@@ -143,6 +143,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
  | [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
  | [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
+ | [Dynamo Primer](http://dynamoprimer.com/en/) | | 00 ch | 13 ch | | | Study: 5 - 13
  
 
  ### Dynamo Python
