@@ -27,25 +27,25 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
  ✔ InfiniteSkills - Visual Programming in Rhino3D with Grasshopper Training | IS | 69 | 69 | | 2016 |
- | ✔ [Develop Parametric Architecture with Grasshopper](https://www.udemy.com/develop-parametric-architecture-with-grasshopper/) | UD | 8 | 8 | | 2016 | Twisting Tower, Galapagos
- | ⏳ [Exlab Video Tut Series](https://vimeo.com/album/2282897) | EXLAB | 06.02 | 10.03 | | 2016 | [How'd this become an 'attack site'?](http://exlab.org/2011/09/grasshopper-resources/), http://www.grasshopper3d.com/page/tutorials-1, https://vimeo.com/exlab
- | ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | | 2016 |
- | [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | | | AKA Advanced Data Trees
- | [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
+ ✔ [Develop Parametric Architecture with Grasshopper](https://www.udemy.com/develop-parametric-architecture-with-grasshopper/) | UD | 8 | 8 | | 2016 | Twisting Tower, Galapagos
+ ⏳ [Exlab Video Tut Series](https://vimeo.com/album/2282897) | EXLAB | 06.02 | 10.03 | | 2016 | [How'd this become an 'attack site'?](http://exlab.org/2011/09/grasshopper-resources/), http://www.grasshopper3d.com/page/tutorials-1, https://vimeo.com/exlab
+ ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | | 2016 |
+ [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | | | AKA Advanced Data Trees
+ [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
  |  |  |  |  | |  |
  |  |  |  |  | |  |
- | [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 0 | 5 | 16.5h | | Excellent
- | [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | |
- | [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 0 | 3 | | | Mesh, Paneling, Kangaroo
+ [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 0 | 5 | 16.5h | | Excellent
+ [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | |
+ [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 0 | 3 | | | Mesh, Paneling, Kangaroo
  |  |  |  |  | |  |
  |  |  |  |  | |  |
- | Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
- | Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | |
- | Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
- | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | |
- | Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
- | Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
- | [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
+ Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
+ Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | |
+ Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
+ View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | |
+ Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
+ Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
+ [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
