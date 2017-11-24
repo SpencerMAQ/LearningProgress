@@ -25,24 +25,24 @@
 ### Grasshopper
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
- | ✔ InfiniteSkills - Visual Programming in Rhino3D with Grasshopper Training | IS | 69 | 69 | | 2016 |
+ [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
+ ✔ InfiniteSkills - Visual Programming in Rhino3D with Grasshopper Training | IS | 69 | 69 | | 2016 |
  | ✔ [Develop Parametric Architecture with Grasshopper](https://www.udemy.com/develop-parametric-architecture-with-grasshopper/) | UD | 8 | 8 | | 2016 | Twisting Tower, Galapagos
  | ⏳ [Exlab Video Tut Series](https://vimeo.com/album/2282897) | EXLAB | 06.02 | 10.03 | | 2016 | [How'd this become an 'attack site'?](http://exlab.org/2011/09/grasshopper-resources/), http://www.grasshopper3d.com/page/tutorials-1, https://vimeo.com/exlab
- | ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | | 2016 | 
- | [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | | | AKA Advanced Data Trees 
+ | ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | | 2016 |
+ | [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | | | AKA Advanced Data Trees
  | [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
- |  |  |  |  | |  | 
- |  |  |  |  | |  | 
+ |  |  |  |  | |  |
+ |  |  |  |  | |  |
  | [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 0 | 5 | 16.5h | | Excellent
- | [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | | 
+ | [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | |
  | [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 0 | 3 | | | Mesh, Paneling, Kangaroo
- |  |  |  |  | |  | 
- |  |  |  |  | |  | 
- | Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | | 
- | Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | | 
+ |  |  |  |  | |  |
+ |  |  |  |  | |  |
+ | Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
+ | Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | |
  | Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
- | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | | 
+ | View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | |
  | Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
  | Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
  | [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
@@ -50,8 +50,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 | 
- 
+ | ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 |
+
 
 ### Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -64,7 +64,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | 2016 | [Mirror Link](https://www.plethora-project.com/education/2017/5/31/rhino-python-programming)
  | ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | 2016 | Review Recursive Aggr.
  | [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
- | [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | | 
+ | [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | |
  | ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
  | ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
 
@@ -72,20 +72,20 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  | 
- | [C#_2_Intermediate C# Scripting in Grasshopper](http://designalyze.com/course/intermediate-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 1 | |  | 
- | [C#_3_Advanced C# Scripting in Grasshopper](http://designalyze.com/course/advanced-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 2 | |  | 
- 
+ | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  |
+ | [C#_2_Intermediate C# Scripting in Grasshopper](http://designalyze.com/course/intermediate-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 1 | |  |
+ | [C#_3_Advanced C# Scripting in Grasshopper](http://designalyze.com/course/advanced-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 2 | |  |
+
  ----
- 
- 
+
+
  ## Revit-based
- 
+
  ### Revit
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
- | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 | 
+ | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 |
  | Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
  | Advanced Modelling in Revit | Lynda | 00 | 09 | | | 9 Chapters
  | Architectural Families in Revit | Lynda | 00 | 36 | | | Priority
@@ -101,7 +101,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | Revit Architecture - Roof Design Training Video | InfiniteSkills | 0 | 7.4 | | | Priority
  | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
  | ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
- | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | | 
+ | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | |
  | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
  | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
  | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | 2017 | Good
@@ -121,18 +121,18 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [BIM Methods Spring 2014](https://www.youtube.com/watch?v=CumZcEOHly0&list=PLADA26644D29AA0CB) | Jeremy Roh  | 00 | 27 | | | This semester class taught a crash course in the essentials of the Revit Project Environment and then went into depth on detailed methods of how to model complex forms and tectonic structures through various case studies using the Revit Conceptual Design Environment and Dynamo (a graphical algorithm editor for Revit).
  | [BIM Methods Fall 2014](https://www.youtube.com/watch?v=SPr9riX-hOw&list=PLsDYCyUR8mCQSmiO6NomVFQvGc05UImZL) | Jeremy Roh  | 00 | 27 | | | The first half of this semester went into depth on how to model complex forms, tectonic structures, and kinetic panels using the Revit Conceptual Design Environment and Dynamo (a scripting interface for Revit similar to Rhinoceros 3D's Grasshopper). The second half of the semester went through techniques in modeling within the Revit Project Environment for Programming, Schematic Design, and Development of Model Details for a Condo Project. Additional bonus tutorials and workshops are also included in this semester geared towards the [5th Year Studio](https://www.youtube.com/playlist?list=PLsDYCyUR8mCRgSRGDi85KaeEsNA-FvIs6) Projects.
  | ✔ [Building Parametric Masses in Autodesk Revit Architecture](https://www.youtube.com/watch?v=qFmJfEdQ1rs&t=402s) | Autodesk Building Solutions | 01 | 01 | 12min | 2017 | Parametric Masses (Prelude to Advanced Computational BIM)
- 
+
 
  ### Dynamo
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | | 
+ | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | |
  | ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | | Kevin Griendling, Boom-Mast example, Good, Basic
  | ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) | Paul Wintour (Param Monkey) | 15 | 15 | | | PDF
- | Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic 
+ | Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
  | Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
- | Dynamo Essential Training | Lynda | 0 | 29 | | | 
- | [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA 
+ | Dynamo Essential Training | Lynda | 0 | 29 | | |
+ | [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
  | ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
  | ⏳ [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old), Basically same as 01 except for maybe 2 videos
  | ⏳ [03 Advanced Computational Design for BIM](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT) | Autodesk Education | 10 | 30 | | 2017 | Priority, [Dataset](http://dynamobim.org/wp-content/links/AdvancedCurricullum.zip), [Mirror](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) // SetParameter.ByName to flex parametric masses, create lists for many parameters // dscript cond.: if(cond, return_true, return_false) i.e. same as GH // StructuralFraming.BeamByCurve, StructuralType.Beam
@@ -146,7 +146,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Dynamo Primer](http://dynamoprimer.com/en/) | | 00 ch | 13 ch | | | Study: 5 - 13
  | [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
  | [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
- 
+
 
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -154,15 +154,15 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
  | [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
  | [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
- 
+
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 0 | 14 | | | Comprehensive, Priority, 7 hrs, C#
- | [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | | 
+ | [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | |
  | [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
- | [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | | 
+ | [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
  | [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
  | [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
  | [Revit API Labs](https://github.com/ADN-DevTech/RevitTrainingMaterial) | KrispCAD | 0 | 2 | | | sample files, AKA RevitTrainingMaterial from github, [mirror](http://usa.autodesk.com/adsk/servlet/index?id=2484975&siteID=123112), look for 'API Labs'
@@ -170,10 +170,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ----
- 
- 
+
+
  ## VCS
- 
+
  ### Github
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
