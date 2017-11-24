@@ -126,47 +126,47 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | |
- | ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | | Kevin Griendling, Boom-Mast example, Good, Basic
- | ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) | Paul Wintour (Param Monkey) | 15 | 15 | | | PDF
- | Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
- | Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
- | Dynamo Essential Training | Lynda | 0 | 29 | | |
- | [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
- | ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
- | ⏳ [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old), Basically same as 01 except for maybe 2 videos
- | ⏳ [03 Advanced Computational Design for BIM](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT) | Autodesk Education | 10 | 30 | | 2017 | Priority, [Dataset](http://dynamobim.org/wp-content/links/AdvancedCurricullum.zip), [Mirror](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) // SetParameter.ByName to flex parametric masses, create lists for many parameters // dscript cond.: if(cond, return_true, return_false) i.e. same as GH // StructuralFraming.BeamByCurve, StructuralType.Beam
- | [04 Dynamo](https://www.youtube.com/watch?v=QETG7HaaaaI&list=PLY-ggSrSwbZo0vCNJOFhzEQW_nbEfBKo8) | Autodesk Building Solutions | 0 | 29 | | | Priority (Watch after Advanced Revit), Last 10 vids = same as 01, Order: Dynamo Tutorials, Vignette, Medical Center
- | ✔ [Accelerated Dynamo for Grasshopper Users](https://parametricmonkey.com/2016/01/19/dynamo-for-grasshopper-users/) | Andrew Heumann | 59 | 59 mins | | 2017 | [Vimeo](https://vimeo.com/116702007), Dynamo Data Structures are more intuitive to me than GH Data Trees, good job Autodesk, and List.Map() is an excellent feature similar to Python's map. Mind Blown @55:51 (List.Map)
- | ✔ [Introducing List@Level: Working with Lists Made Easier](http://dynamobim.org/introducing-listlevel-working-with-lists-made-easier/) | Racel Williams | 01 pg | 01 pg | | 2017 | Point.ByCoordinates(t1@@-2, t2, t3)
- | [Lacing in Code blocks](http://dynamobim.org/forums/topic/code-blocks-and-lacing/) | | 00 pg | 01 pg | | |
- | [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
- | [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
- | [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
- | [Dynamo Primer](http://dynamoprimer.com/en/) | | 00 ch | 13 ch | | | Study: 5 - 13
- | [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
- | [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
+ An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | |
+ ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | | Kevin Griendling, Boom-Mast example, Good, Basic
+ ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) Paul Wintour (Param Monkey) | 15 | 15 | | | PDF
+ Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
+ Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
+ Dynamo Essential Training | Lynda | 0 | 29 | | |
+ [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
+ ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
+ ⏳ [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old), Basically same as 01 except for maybe 2 videos
+ ⏳ [03 Advanced Computational Design for BIM](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT) | Autodesk Education | 10 | 30 | | 2017 | Priority, [Dataset](http://dynamobim.org/wp-content/links/AdvancedCurricullum.zip), [Mirror](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) // SetParameter.ByName to flex parametric masses, create lists for many parameters // dscript cond.: if(cond, return_true, return_false) i.e. same as GH // StructuralFraming.BeamByCurve, StructuralType.Beam
+ [04 Dynamo](https://www.youtube.com/watch?v=QETG7HaaaaI&list=PLY-ggSrSwbZo0vCNJOFhzEQW_nbEfBKo8) | Autodesk Building Solutions | 0 | 29 | | | Priority (Watch after Advanced Revit), Last 10 vids = same as 01, Order: Dynamo Tutorials, Vignette, Medical Center
+ ✔ [Accelerated Dynamo for Grasshopper Users](https://parametricmonkey.com/2016/01/19/dynamo-for-grasshopper-users/) | Andrew Heumann | 59 | 59 mins | | 2017 | [Vimeo](https://vimeo.com/116702007), Dynamo Data Structures are more intuitive to me than GH Data Trees, good job Autodesk, and List.Map() is an excellent feature similar to Python's map. Mind Blown @55:51 (List.Map)
+ ✔ [Introducing List@Level: Working with Lists Made Easier](http://dynamobim.org/introducing-listlevel-working-with-lists-made-easier/) | Racel Williams | 01 pg | 01 pg | | 2017 | Point.ByCoordinates(t1@@-2, t2, t3)
+ [Lacing in Code blocks](http://dynamobim.org/forums/topic/code-blocks-and-lacing/) | | 00 pg | 01 pg | | |
+ [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
+ [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
+ [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
+ [Dynamo Primer](http://dynamoprimer.com/en/) | | 00 ch | 13 ch | | | Study: 5 - 13
+ [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
+ [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
 
 
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
- | [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
- | [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
+ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
+ [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
+ [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
 
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 0 | 14 | | | Comprehensive, Priority, 7 hrs, C#
- | [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | |
- | [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
- | [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
- | [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
- | [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
- | [Revit API Labs](https://github.com/ADN-DevTech/RevitTrainingMaterial) | KrispCAD | 0 | 2 | | | sample files, AKA RevitTrainingMaterial from github, [mirror](http://usa.autodesk.com/adsk/servlet/index?id=2484975&siteID=123112), look for 'API Labs'
- | [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
+ [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 0 | 14 | | | Comprehensive, Priority, 7 hrs, C#
+ [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | |
+ [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
+ [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
+ [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
+ [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
+ [Revit API Labs](https://github.com/ADN-DevTech/RevitTrainingMaterial) | KrispCAD | 0 | 2 | | | sample files, AKA RevitTrainingMaterial from github, [mirror](http://usa.autodesk.com/adsk/servlet/index?id=2484975&siteID=123112), look for 'API Labs'
+ [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
 
 
  ----
@@ -177,4 +177,4 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Github
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ O'Reilly - Learning GitHub |  | 7.01 | 13.07 | | 2017 | study once a week maybe
+ ⏳ O'Reilly - Learning GitHub |  | 7.01 | 13.07 | | 2017 | study once a week maybe
