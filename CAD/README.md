@@ -50,31 +50,31 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 |
+ ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 |
 
 
 ### Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
- | [Nature of Code: Forces (chapter 2) Python](https://www.youtube.com/watch?v=TrKXbfTwIvE&list=PL5Up_u-XkWgPgebtPEAfck3UEPZPHBB1D) | Jake Hebbert | 0 | 13 | | |
- | [Nature of Code: Oscillation(chapter 3) translation to Python](https://www.youtube.com/watch?v=QIdK4yv8nsY&list=PL5Up_u-XkWgMsZpYk8GW9TpGk0GvC6DzR) | Jake Hebbert | 0 | 25 | | |
- | [Nature of Code: Particle Systems (chapter 4).](https://www.youtube.com/watch?v=nWkyLMm_Fdw&list=PL5Up_u-XkWgNk6l5V1bS26hpbhsUSohF2) | Jake Hebbert | 0 | 12 | | |
- | [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 0 | 18 | | |
- | ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | 2016 | [Mirror Link](https://www.plethora-project.com/education/2017/5/31/rhino-python-programming)
- | ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | 2016 | Review Recursive Aggr.
- | [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
- | [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | |
- | ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
- | ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
+ ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
+ [Nature of Code: Forces (chapter 2) Python](https://www.youtube.com/watch?v=TrKXbfTwIvE&list=PL5Up_u-XkWgPgebtPEAfck3UEPZPHBB1D) | Jake Hebbert | 0 | 13 | | |
+ [Nature of Code: Oscillation(chapter 3) translation to Python](https://www.youtube.com/watch?v=QIdK4yv8nsY&list=PL5Up_u-XkWgMsZpYk8GW9TpGk0GvC6DzR) | Jake Hebbert | 0 | 25 | | |
+ [Nature of Code: Particle Systems (chapter 4).](https://www.youtube.com/watch?v=nWkyLMm_Fdw&list=PL5Up_u-XkWgNk6l5V1bS26hpbhsUSohF2) | Jake Hebbert | 0 | 12 | | |
+ [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 0 | 18 | | |
+ ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | 2016 | [Mirror Link](https://www.plethora-project.com/education/2017/5/31/rhino-python-programming)
+ ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | 2016 | Review Recursive Aggr.
+ [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
+ [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | |
+ ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
+ ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
 
 
 ### C#
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  |
- | [C#_2_Intermediate C# Scripting in Grasshopper](http://designalyze.com/course/intermediate-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 1 | |  |
- | [C#_3_Advanced C# Scripting in Grasshopper](http://designalyze.com/course/advanced-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 2 | |  |
+ [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  |
+ [C#_2_Intermediate C# Scripting in Grasshopper](http://designalyze.com/course/intermediate-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 1 | |  |
+ [C#_3_Advanced C# Scripting in Grasshopper](http://designalyze.com/course/advanced-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 2 | |  |
 
  ----
 
@@ -84,43 +84,43 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Revit
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- | ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
- | ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 |
- | Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
- | Advanced Modelling in Revit | Lynda | 00 | 09 | | | 9 Chapters
- | Architectural Families in Revit | Lynda | 00 | 36 | | | Priority
- | Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
- | Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
- | Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
- | ⏳ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
- | ⏳ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | O'Reilly | 21 | 21 | | 2016 | Need to REVIEW!
- | ✔ Massing With Revit | InfiniteSkills/Ed Cotey | 06.01 | 06.01 | | 2017 | 31 Videos, Conceptual Mass // Masses off by default, will not print or export unless on in VG, Mass types - Mass Family (built-in, place mass, primitive), In-place, Conceptual family mass (from family editor, drawn in fam editor then loaded into project), You can do sched fields that are results of calculations // Order of felxibility: library forms, in-place mass, from fam editor // Mass Revolve - profile and axis (axis drawn on ref plane), Sweep (can be two profiles on each end, use point to create perp frame) // blend = composed of 2 or more 2d profiles connected by a common path // surfaces(extruded lines), loft (2 or more profiles) // 3D control (Edit in place) // X-ray mode (select edge > Modify > Form Element > X-ray) // Edit Profile (Edit in place > Select edge > Edit Profile > Pick edge, workplane viewer) // Adding edges/profiles (click edge > Form Element), then use x-ray for more control // Divide Surface + apply pattern-based curtain panels, adjust UV rotation // Modify > Geom split surface to apply diff materials to same wall // Wall or Roof by face, System // Update to Face // Add edge to new wall // Properties > Identity > Usage // 0503: You can duplicate Default Mass floor, apply color to floors using paint // 0504 (Schedule for analysis): Use Properties > 'Mark' to indicate the level of a floor for use in schedules, you could also use Conditional formatting to identify numbers that don't pass a certain criteria you make
- | [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
- | Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
- | ⏳ Revit - Stairs And Railings | InfiniteSkills | 0.0 | 12.4 | | | Very Comprehensive, Priority
- | Revit Architecture - Roof Design Training Video | InfiniteSkills | 0 | 7.4 | | | Priority
- | Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
- | ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
- | Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | |
- | Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
- | Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
- | ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | 2017 | Good
- | ✔ Creating a Wood Frame Model in Revit | Digital Tutors | 11 | 11 | | 2017 | Timber Structural Framing, Summary: Sill - Beam, Studs - Columns, use actual size not nominal, C. Joist = offset due to rafters, 50% of the time = copying. Coping not covered, Truss not covered. Timber extension Tool
- | Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
- | Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
- | ✔ Work Planes and Reference Planes in Revit | Digital Tutors | 05 | 05 | | 2017 | Should be taught in basic courses
- | ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
- | ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
- | ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
- | [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
- | [Solar Decathlon Workshops Summer 2012](https://www.youtube.com/watch?v=uwSDETu_uTc&index=11&list=PLsDYCyUR8mCRjZuJRG_kSMY_VjtGuMNth) | Jeremy Roh  | 00 | 11 | | | Designed to cover an overview of modeling in all parts of the Revit Project, Family, and Conceptual Design environments; as well as, teach documentation per the Solar Decathlon and Professional Office Standards.
- | [BIM Methods Fall 2012](https://www.youtube.com/watch?v=JxH1EqbSh_s&list=PLsDYCyUR8mCRZE9rnFP9z2j8oAuDgsN3I) | Jeremy Roh  | 00 | 26 | | | This semester class taught the making, detailing, and rendering of transit and tower components; as well as, this class covered the advanced modeling skills associated with parametric towers, adaptive components, curtain panel pattern-based families, double-curtain wall systems, and using tools beyond their original intent.
- | [Toyo Ito: Sendai Mediatheque in Revit](https://www.youtube.com/watch?v=D6ME-s0g8MU&list=PLsDYCyUR8mCSKYmtYGGJ8_ss5AKLUBdHK) | Jeremy Roh  | 00 | 07 | | | HIGH PRIORITY // The various parts of this tutorial portrays a method for developing the vertical structural tube elements within Toyo Ito's Sendai Mediatheque project and also covers methods for creating the double curtain wall system for the South Facade.
- | [BIM Methods Spring 2013](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 30 | | | Priority, Each vid with A and B parts, [mirror](https://www.youtube.com/watch?v=oHU-8BRfAZQ&list=PLsDYCyUR8mCQ0WQqzdQNbHTVKt4TSU9ht) // This semester class taught the making, detailing, and rendering of housing components; as well as, this class covered the advanced modeling skills associated with parametric pathways, adaptive components, curtain panel pattern-based families, and parametric profiles.
- | [BIM Methods Fall 2013](https://www.youtube.com/watch?v=4jrZve-b-7Y&list=PLsDYCyUR8mCRBhR63W0rjtHBlQyG2FUAF) | Jeremy Roh  | 00 | 28 | | | This semester class taught the making and detailing of family components and essential project environment modeling while reading and understanding Condo Construction Documents; as well as, this class covered advanced curtain wall and adaptive component modeling.
- | [BIM Methods Spring 2014](https://www.youtube.com/watch?v=CumZcEOHly0&list=PLADA26644D29AA0CB) | Jeremy Roh  | 00 | 27 | | | This semester class taught a crash course in the essentials of the Revit Project Environment and then went into depth on detailed methods of how to model complex forms and tectonic structures through various case studies using the Revit Conceptual Design Environment and Dynamo (a graphical algorithm editor for Revit).
- | [BIM Methods Fall 2014](https://www.youtube.com/watch?v=SPr9riX-hOw&list=PLsDYCyUR8mCQSmiO6NomVFQvGc05UImZL) | Jeremy Roh  | 00 | 27 | | | The first half of this semester went into depth on how to model complex forms, tectonic structures, and kinetic panels using the Revit Conceptual Design Environment and Dynamo (a scripting interface for Revit similar to Rhinoceros 3D's Grasshopper). The second half of the semester went through techniques in modeling within the Revit Project Environment for Programming, Schematic Design, and Development of Model Details for a Condo Project. Additional bonus tutorials and workshops are also included in this semester geared towards the [5th Year Studio](https://www.youtube.com/playlist?list=PLsDYCyUR8mCRgSRGDi85KaeEsNA-FvIs6) Projects.
- | ✔ [Building Parametric Masses in Autodesk Revit Architecture](https://www.youtube.com/watch?v=qFmJfEdQ1rs&t=402s) | Autodesk Building Solutions | 01 | 01 | 12min | 2017 | Parametric Masses (Prelude to Advanced Computational BIM)
+ ✔ Revit 2017 Essential Training for Architecture (Metric) | Lynda | 103 | 103 | | 2017 | Very Good
+ ⏳ Revit 2017 Essential Training for MEP (Metric) | Lynda | 51 | 59 | | 2017 |
+ Revit Worksharing Collaboration for Revit (C4R) | Lynda | 00 | 22 | | | Priority
+ Advanced Modelling in Revit | Lynda | 00 | 09 | | | 9 Chapters
+ Architectural Families in Revit | Lynda | 00 | 36 | | | Priority
+ Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
+ Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
+ Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
+ ⏳ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
+ ⏳ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | O'Reilly | 21 | 21 | | 2016 | Need to REVIEW!
+ ✔ Massing With Revit | InfiniteSkills/Ed Cotey | 06.01 | 06.01 | | 2017 | 31 Videos, Conceptual Mass // Masses off by default, will not print or export unless on in VG, Mass types - Mass Family (built-in, place mass, primitive), In-place, Conceptual family mass (from family editor, drawn in fam editor then loaded into project), You can do sched fields that are results of calculations // Order of felxibility: library forms, in-place mass, from fam editor // Mass Revolve - profile and axis (axis drawn on ref plane), Sweep (can be two profiles on each end, use point to create perp frame) // blend = composed of 2 or more 2d profiles connected by a common path // surfaces(extruded lines), loft (2 or more profiles) // 3D control (Edit in place) // X-ray mode (select edge > Modify > Form Element > X-ray) // Edit Profile (Edit in place > Select edge > Edit Profile > Pick edge, workplane viewer) // Adding edges/profiles (click edge > Form Element), then use x-ray for more control // Divide Surface + apply pattern-based curtain panels, adjust UV rotation // Modify > Geom split surface to apply diff materials to same wall // Wall or Roof by face, System // Update to Face // Add edge to new wall // Properties > Identity > Usage // 0503: You can duplicate Default Mass floor, apply color to floors using paint // 0504 (Schedule for analysis): Use Properties > 'Mark' to indicate the level of a floor for use in schedules, you could also use Conditional formatting to identify numbers that don't pass a certain criteria you make
+ [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
+ Learning Revit Structure 2015 | InfiniteSkills | 0 | 143 | | | Very Comprehensive
+ ⏳ Revit - Stairs And Railings | InfiniteSkills | 0.0 | 12.4 | | | Very Comprehensive, Priority
+ Revit Architecture - Roof Design Training Video | InfiniteSkills | 0 | 7.4 | | | Priority
+ Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
+ ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
+ Creating a Custom Staircase in Revit | Digital Tutors | 0 | 08 | | |
+ Creating Intelligent Families in Revit | Digital Tutors | 0 | 13 | | |
+ Modeling Roof Formations Structures and Materials in Revit | Digital Tutors | 0 | 11 | | |
+ ✔ Modeling Trusses in Revit | Digital Tutors | 6 | 6 | | 2017 | Good
+ ✔ Creating a Wood Frame Model in Revit | Digital Tutors | 11 | 11 | | 2017 | Timber Structural Framing, Summary: Sill - Beam, Studs - Columns, use actual size not nominal, C. Joist = offset due to rafters, 50% of the time = copying. Coping not covered, Truss not covered. Timber extension Tool
+ Working with Design Options in Revit | Digital Tutors | 0 | 05 | | | Priority
+ Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
+ ✔ Work Planes and Reference Planes in Revit | Digital Tutors | 05 | 05 | | 2017 | Should be taught in basic courses
+ ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
+ ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
+ ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
+ [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
+ [Solar Decathlon Workshops Summer 2012](https://www.youtube.com/watch?v=uwSDETu_uTc&index=11&list=PLsDYCyUR8mCRjZuJRG_kSMY_VjtGuMNth) | Jeremy Roh  | 00 | 11 | | | Designed to cover an overview of modeling in all parts of the Revit Project, Family, and Conceptual Design environments; as well as, teach documentation per the Solar Decathlon and Professional Office Standards.
+ [BIM Methods Fall 2012](https://www.youtube.com/watch?v=JxH1EqbSh_s&list=PLsDYCyUR8mCRZE9rnFP9z2j8oAuDgsN3I) | Jeremy Roh  | 00 | 26 | | | This semester class taught the making, detailing, and rendering of transit and tower components; as well as, this class covered the advanced modeling skills associated with parametric towers, adaptive components, curtain panel pattern-based families, double-curtain wall systems, and using tools beyond their original intent.
+ [Toyo Ito: Sendai Mediatheque in Revit](https://www.youtube.com/watch?v=D6ME-s0g8MU&list=PLsDYCyUR8mCSKYmtYGGJ8_ss5AKLUBdHK) | Jeremy Roh  | 00 | 07 | | | HIGH PRIORITY // The various parts of this tutorial portrays a method for developing the vertical structural tube elements within Toyo Ito's Sendai Mediatheque project and also covers methods for creating the double curtain wall system for the South Facade.
+ [BIM Methods Spring 2013](http://jrohdesign.com/revit//authorized_users/classes_2013s/) | Jeremy Roh  | 00 | 30 | | | Priority, Each vid with A and B parts, [mirror](https://www.youtube.com/watch?v=oHU-8BRfAZQ&list=PLsDYCyUR8mCQ0WQqzdQNbHTVKt4TSU9ht) // This semester class taught the making, detailing, and rendering of housing components; as well as, this class covered the advanced modeling skills associated with parametric pathways, adaptive components, curtain panel pattern-based families, and parametric profiles.
+ [BIM Methods Fall 2013](https://www.youtube.com/watch?v=4jrZve-b-7Y&list=PLsDYCyUR8mCRBhR63W0rjtHBlQyG2FUAF) | Jeremy Roh  | 00 | 28 | | | This semester class taught the making and detailing of family components and essential project environment modeling while reading and understanding Condo Construction Documents; as well as, this class covered advanced curtain wall and adaptive component modeling.
+ [BIM Methods Spring 2014](https://www.youtube.com/watch?v=CumZcEOHly0&list=PLADA26644D29AA0CB) | Jeremy Roh  | 00 | 27 | | | This semester class taught a crash course in the essentials of the Revit Project Environment and then went into depth on detailed methods of how to model complex forms and tectonic structures through various case studies using the Revit Conceptual Design Environment and Dynamo (a graphical algorithm editor for Revit).
+ [BIM Methods Fall 2014](https://www.youtube.com/watch?v=SPr9riX-hOw&list=PLsDYCyUR8mCQSmiO6NomVFQvGc05UImZL) | Jeremy Roh  | 00 | 27 | | | The first half of this semester went into depth on how to model complex forms, tectonic structures, and kinetic panels using the Revit Conceptual Design Environment and Dynamo (a scripting interface for Revit similar to Rhinoceros 3D's Grasshopper). The second half of the semester went through techniques in modeling within the Revit Project Environment for Programming, Schematic Design, and Development of Model Details for a Condo Project. Additional bonus tutorials and workshops are also included in this semester geared towards the [5th Year Studio](https://www.youtube.com/playlist?list=PLsDYCyUR8mCRgSRGDi85KaeEsNA-FvIs6) Projects.
+ ✔ [Building Parametric Masses in Autodesk Revit Architecture](https://www.youtube.com/watch?v=qFmJfEdQ1rs&t=402s) | Autodesk Building Solutions | 01 | 01 | 12min | 2017 | Parametric Masses (Prelude to Advanced Computational BIM)
 
 
  ### Dynamo
