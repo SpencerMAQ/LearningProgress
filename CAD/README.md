@@ -17,7 +17,7 @@
 - [VCS](#vcs)
   - [Github](#github)
 
-Helpful Sites:
+Helpful Sites:  
 http://buildz.blogspot.com/  
 http://www.designalyze.com/software/revit  
 http://www.theprovingground.org/  
