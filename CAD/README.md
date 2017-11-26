@@ -148,7 +148,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  An Introduction to Dynamo for Daily Use Within Revit | Pluralsight | 0 | 25 | | |
  ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | | Kevin Griendling, Boom-Mast example, Good, Basic
- ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) Paul Wintour (Param Monkey) | 15 | 15 | | | PDF
+ ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) | Paul Wintour (Param Monkey) | 15 | 15 | | | PDF
  Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
  Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
  Dynamo Essential Training | Lynda | 0 | 29 | | |
