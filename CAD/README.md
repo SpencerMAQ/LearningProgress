@@ -18,21 +18,21 @@
   - [Github](#github)
 
 Helpful Sites:
-http://buildz.blogspot.com/
-http://www.designalyze.com/software/revit
-http://www.theprovingground.org/
-https://www.modelab.is/
-https://vimeo.com/exlab/videos
-http://www.formfollowsperformance.com/
-https://github.com/modelab
-http://archi-lab.net/
-https://www.evolvebim.com/
-https://thinkparametric.com/
-https://flux.io/
-https://blackspectacles.com/ (paid?)
-https://parametricmonkey.com (10/10)
-http://parametrically.com/ (good)
-https://wowad.in/top-3-computational-bim-workflows-for-architects/ (Comp BIM Workflows, Interoperability)
+http://buildz.blogspot.com/  
+http://www.designalyze.com/software/revit  
+http://www.theprovingground.org/  
+https://www.modelab.is/  
+https://vimeo.com/exlab/videos  
+http://www.formfollowsperformance.com/  
+https://github.com/modelab  
+http://archi-lab.net/  
+https://www.evolvebim.com/  
+https://thinkparametric.com/  
+https://flux.io/  
+https://blackspectacles.com/ (paid?)  
+https://parametricmonkey.com (10/10)  
+http://parametrically.com/ (good)  
+https://wowad.in/top-3-computational-bim-workflows-for-architects/ (Comp BIM Workflows, Interoperability)  
 
 
 ## Rhino-based
