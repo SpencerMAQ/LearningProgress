@@ -17,6 +17,23 @@
 - [VCS](#vcs)
   - [Github](#github)
 
+Helpful Sites:
+http://buildz.blogspot.com/
+http://www.designalyze.com/software/revit
+http://www.theprovingground.org/
+https://www.modelab.is/
+https://vimeo.com/exlab/videos
+http://www.formfollowsperformance.com/
+https://github.com/modelab
+http://archi-lab.net/
+https://www.evolvebim.com/
+https://thinkparametric.com/
+https://flux.io/
+https://blackspectacles.com/ (paid?)
+https://parametricmonkey.com (10/10)
+http://parametrically.com/ (good)
+https://wowad.in/top-3-computational-bim-workflows-for-architects/ (Comp BIM Workflows, Interoperability)
+
 
 ## Rhino-based
 
@@ -123,7 +140,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Building Parametric Masses in Autodesk Revit Architecture](https://www.youtube.com/watch?v=qFmJfEdQ1rs&t=402s) | Autodesk Building Solutions | 01 | 01 | 12min | 2017 | Parametric Masses (Prelude to Advanced Computational BIM)
  [Repeat and Divide (Curtain System, Adaptive Components)](https://www.youtube.com/playlist?list=PLGdDXXEHnr4V3bEEJaI7m5EbR6Of7HodQ) | zach kron | 00 | 04 | | | Parametric Modeling
  [Parametric Patterns (Adaptive Components)](https://www.youtube.com/playlist?list=PLGdDXXEHnr4WfBVzeBkfrcmnrCgRUOsB4) | zach kron | 00 | 21 | | | Adaptive
- [buildz.info (Adaptive Components)](https://www.youtube.com/playlist?list=PLGdDXXEHnr4VtDTx-C3BLeeogqX2B1a1Z) | zach kron | 00 | 29 | | | Adaptive, also check out his Dynamo Tutorials
+ [buildz.info (Adaptive Components)](https://www.youtube.com/playlist?list=PLGdDXXEHnr4VtDTx-C3BLeeogqX2B1a1Z) | zach kron | 00 | 29 | | | Adaptive, also check out his Dynamo Tutorials, [website](http://buildz.blogspot.com/)
 
 
  ### Dynamo
