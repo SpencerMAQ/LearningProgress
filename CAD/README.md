@@ -163,7 +163,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
  [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
  [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
- ⏳ [Dynamo Primer](http://dynamoprimer.com/en/) | | 05.07 | 13.04 | | 2017 | High Quality
+ ⏳ [Dynamo Primer](http://dynamoprimer.com/en/) | | 06.03 | 13.04 | | 2017 | High Quality // Best Explanation of List.Combine
  [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
  [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
  [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
