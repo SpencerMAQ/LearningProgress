@@ -34,6 +34,7 @@ https://parametricmonkey.com (10/10)
 http://parametrically.com/ (good)  
 https://wowad.in/top-3-computational-bim-workflows-for-architects/ (Comp BIM Workflows, Interoperability)  
 http://chris-malcolm.com/projects/malcstools/  
+http://darenatwork.blogspot.com/  (API)
 
 Important: Dynamo/Python
 https://github.com/architecture-building-systems/revitpythonshell (Revit Python Shell)  
@@ -160,6 +161,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
  Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
  Dynamo Essential Training | Lynda | 0 | 29 | | |
+ Dynamo for Revit Workflow | Lynda | 09 | 23 | | |
  [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
  ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
  ⏳ [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old), Basically same as 01 except for maybe 2 videos
@@ -171,7 +173,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
  [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
  [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
- ⏳ [Dynamo Primer](http://dynamoprimer.com/en/) | | 13.01 | 13.04 | 5 days | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next // Zero-Touch Importing A-FORGE, Importing .dll files into Dynamo // Only skimmed: 11. Web exp // Review example for Gradient Descent (also on GH exlab) //
+ ✔ [Dynamo Primer](http://dynamoprimer.com/en/) | Matt Jezyk | 13.04 | 13.04 | 5 days | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next // Zero-Touch Importing A-FORGE, Importing .dll files into Dynamo // Only skimmed: 11. Web exp // Review example for Gradient Descent (also on GH exlab) //
  [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
  [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
  [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
