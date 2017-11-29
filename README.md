@@ -212,7 +212,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  [Unix for Radiance](http://www.jaloxa.eu/resources/radiance/documentation/) | General | | | | |
  | | | | | | |
- ✔ [01 Unix for Radiance](http://www.jaloxa.eu/resources/radiance/documentation/docs/unix4radiance.pdf) | Axel Jacobs | 18 | 18 | | | Check resources from References page
+ ✔ [01 Unix for Radiance](http://www.jaloxa.eu/resources/radiance/documentation/docs/unix4radiance.pdf) | Axel Jacobs | 18 | 18 | | 2017 | Check resources from References page
  ⏳ [02 Radiance Tutorial](http://www.jaloxa.eu/resources/radiance/documentation/docs/radiance_tutorial.pdf) | Axel Jacobs | 15 | 54 | | | Basics, see files [here](http://www.jaloxa.eu/resources/radiance/documentation/docs/radfiles_tutorial.zip)
  [03 Radiance Cookbook](http://www.jaloxa.eu/resources/radiance/documentation/docs/radiance_cookbook.pdf) | Axel Jacobs | 0 | 85 | | | [Files](http://www.jaloxa.eu/resources/radiance/documentation/docs/radfiles_cookbook.zip), Intermediate001
  [04 rtcontrib Lesson](http://www.jaloxa.eu/resources/radiance/documentation/docs/rtcontrib_lesson.pdf) | Axel Jacobs | 0 | 41 | | | [Files](http://www.jaloxa.eu/resources/radiance/documentation/docs/rtcontrib_lesson.tgz), [gendaylit with EPW climate files](http://www.jaloxa.eu/resources/radiance/documentation/docs/gendaylit_epw_errors.html)
