@@ -33,6 +33,14 @@ https://blackspectacles.com/ (paid?)
 https://parametricmonkey.com (10/10)  
 http://parametrically.com/ (good)  
 https://wowad.in/top-3-computational-bim-workflows-for-architects/ (Comp BIM Workflows, Interoperability)  
+http://chris-malcolm.com/projects/malcstools/  
+
+Important: Dynamo/Python
+https://github.com/architecture-building-systems/revitpythonshell (Revit Python Shell)  
+https://github.com/dannysbentley/pyDynamo/blob/master/ModifyColor.py (Python sample code)  
+https://github.com/gtalarico/revitpythonwrapper (Very Important!)  
+https://github.com/gtalarico/python-revit-resources (VI!)  
+
 
 
 ## Rhino-based
@@ -163,7 +171,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
  [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
  [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
- ⏳ [Dynamo Primer](http://dynamoprimer.com/en/) | | 09.05 | 13.04 | | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next
+ ⏳ [Dynamo Primer](http://dynamoprimer.com/en/) | | 13.01 | 13.04 | 5 days | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next // Zero-Touch Importing A-FORGE, Importing .dll files into Dynamo // Only skimmed: 11. Web exp // Review example for Gradient Descent (also on GH exlab) //
  [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
  [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
  [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
@@ -175,6 +183,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
  [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
  [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
+ [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
 
 
  ### Revit API
@@ -188,6 +197,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
  [Revit API Labs](https://github.com/ADN-DevTech/RevitTrainingMaterial) | KrispCAD | 0 | 2 | | | sample files, AKA RevitTrainingMaterial from github, [mirror](http://usa.autodesk.com/adsk/servlet/index?id=2484975&siteID=123112), look for 'API Labs'
  [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
+ [RevitLookup](https://github.com/jeremytammik/RevitLookup) | jeremytammik | 0 | 1 | | | [stackoverflow](https://stackoverflow.com/questions/35271719/gettings-information-about-stairsruns-and-stairs-from-elements-containing-such-i/35287808#35287808), http://www.revitapidocs.com/
 
 
  ----
