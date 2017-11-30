@@ -159,7 +159,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ Visual Programming Introduction with Dynamo and Revit | Pluralsight | 04.02 | 04.02 | | 2017 | Kevin Griendling, Boom-Mast example, Good, Basic
  ✔ [Dynamo for Grasshopper users](https://parametricmonkey.files.wordpress.com/2016/01/dynamo-for-grasshopper-users.pdf) | Paul Wintour (Param Monkey) | 15 | 15 | | 2017 | PDF
  Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
- Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
+ Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific, Priority
  Dynamo Essential Training | Lynda | 0 | 29 | | |
  ✔ Dynamo for Revit Workflow | Lynda | 23 | 23 | | 2017 | Easy // Review Key Schedules from Revit Essentials (Lynda) // Idea: with x-product lacing, calculating the distance between power outlets and chairs, List.MinimumItem
  [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
