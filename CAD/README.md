@@ -161,7 +161,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Dynamo 101 - Fundamentals | ThinkParametric | 0 | 16 | | | Basic
  Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific
  Dynamo Essential Training | Lynda | 0 | 29 | | |
- ⏳ Dynamo for Revit Workflow | Lynda | 14 | 23 | | 2017 | Review Key Schedules from Revit Essentials (Lynda)
+ ⏳ Dynamo for Revit Workflow | Lynda | 20 | 23 | | 2017 | Easy // Review Key Schedules from Revit Essentials (Lynda) // Idea: with x-product lacing, calculating the distance between power outlets and chairs, List.MinimumItem
  [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
  ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
  ⏳ [02 AEC Education Channel: Dynamo: Computation Design for BIM](https://www.youtube.com/watch?v=QIwTtHBD-FU&list=PLAQfn-QKbiAkYnQoxuk7AdT8ZQjmNyGXr&index=1) | Autodesk Education | 0 | 10 | | | Priority(Old), Basically same as 01 except for maybe 2 videos
