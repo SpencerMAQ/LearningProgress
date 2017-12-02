@@ -12,6 +12,7 @@
 
 - [Building Science](#building-science)
   - [HVAC](#hvac)
+  - [Building Design](#building-design)
   - [Simulation](#energy-simulations)
   - [Web Conferences](#web-conferences)
   - [EnergyPlus](#energyplus)
@@ -141,6 +142,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
+ 
+ 
+### Building Design
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ [Building Design Strategies](https://www.youtube.com/playlist?list=PLCE6A49C430B9E290)| Autodesk Sustainability Workshop | 00 | 39 | | | Priority
 
 
 ### Energy Simulations
@@ -238,7 +246,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [01 rtcontrib lesson](http://www.jaloxa.eu/resources/radiance/documentation/) | Axel Jacobs | 0 | ?? | | | Using rtcontrib to compute daylight coefficients for annual daylight simulations.
  [02 Three-Phase Method Tutorial](https://www.radiance-online.org/learning/tutorials/Tutorial-ThreePhaseMethod.pdf) | Andy McNeil | 0 | ?? | | | Using rtcontrib and new BSDF capabilities to perform annual daylight simulation for complex fenestration systems (i.e. daylight redirecting and dynamic shading systems).
  [03 Five-Phase Method Tutorial](https://www.radiance-online.org/learning/tutorials/fivephasetutorialfiles/Tutorial-FivePhaseMethod_v2.pdf) | Andy McNeil | 0 | ?? | | | improving accuracy for direct sun in annual simulations with CFS.  [A bash script](https://www.radiance-online.org/learning/tutorials/fivephasetutorialfiles/test_5phase.bsh) to run and time the examples is also provided.
-
+ [Ecotect Tutorials(Radiance)](https://www.youtube.com/playlist?list=PL1CDAF1D8EB89939A) | hoto0011 | 00 | 08| | | Redownload
+ [Daylighting Analysis in BIM - Building Design(Radiance)](https://www.youtube.com/watch?v=FspFv83HgTQ&list=PLU-TfPimPH1SwQzdOyVnNnQF7bVMkxEs4) | Autodesk Sustainability Workshop | 00 | 20| | | Sort by upload date
 
 
 ### Radiance Honeybee Files
