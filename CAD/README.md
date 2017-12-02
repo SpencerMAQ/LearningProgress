@@ -173,7 +173,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Lacing in Code blocks](http://dynamobim.org/forums/topic/code-blocks-and-lacing/) | | 00 pg | 01 pg | | |
  [Github Dynamo wiki](https://github.com/DynamoDS/Dynamo/wiki) | | 00 pg | 61 pg | | |
  ⏳ [Dynamo Language Guide v1](http://dynamobim.org/wp-content/uploads/forum-assets/colin-mccroneautodesk-com/07/10/Dynamo_language_guide_version_1.pdf) | | 26 pg | 57 pg | | | [Full list of resources](http://dynamoprimer.com/en/Appendix/A-1_resources.html)
- [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | | Very C#-like
+ [DesignScript Documentation (Draft)](http://dynamobim.org/help-center/) | | 00 pg | 37 pg | | 2017 | Very C#-like
  [DesignScript Guide](http://dynamobim.org/help-center/) | | 00 pg | 82 pg | | | PRIORITY!!
  ✔ [Dynamo Primer](http://dynamoprimer.com/en/) | Matt Jezyk | 13.04 | 13.04 | 5 days | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next // Zero-Touch Importing A-FORGE, Importing .dll files into Dynamo // Only skimmed: 11. Web exp // Review example for Gradient Descent (also on GH exlab) //
  [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
