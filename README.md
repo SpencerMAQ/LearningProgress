@@ -32,7 +32,7 @@
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
   - [Discrete Mathematics](#discrete-mathematics)
-  
+
 - [Engineering](#engineering)
   - [Civil](#civil)
 
@@ -145,8 +145,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [Fundamentals of HVAC - Price Training Modules](https://www.youtube.com/watch?v=eN1losQsV-g&list=PL1Yhzscimgi0zRRX-kiheJoL9lEPaJXsw)| Osama Khayata | 7 | 11 | | 2016 | Priority
- 
- 
+
+
 ### Building Design
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -397,9 +397,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Civil
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
- ⏳ [FreeVideoLectures - Civil Engineering](http://freevideolectures.com/Subject/Civil-Engineering)| | 0 | ?? | | |
- ⏳ [Class Central - Civil Engineering](https://www.class-central.com/subject/civil-engineering#)| | 0 | ?? | | |
+ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
+ [FreeVideoLectures - Civil Engineering](http://freevideolectures.com/Subject/Civil-Engineering)| | 0 | ?? | | |
+ [Class Central - Civil Engineering](https://www.class-central.com/subject/civil-engineering#)| | 0 | ?? | | |
 
 
 ----
