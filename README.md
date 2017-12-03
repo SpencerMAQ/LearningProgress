@@ -398,6 +398,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
+ ⏳ [FreeVideoLectures - Civil Engineering](http://freevideolectures.com/Subject/Civil-Engineering)| | 0 | ?? | | |
+ ⏳ [Class Central - Civil Engineering](https://www.class-central.com/subject/civil-engineering#)| | 0 | ?? | | |
 
 
 ----
