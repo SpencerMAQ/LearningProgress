@@ -32,6 +32,9 @@
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
   - [Discrete Mathematics](#discrete-mathematics)
+  
+- [Engineering](#engineering)
+  - [Civil](#civil)
 
 - [Art](#art)
   - [Sketching](#sketching)
@@ -384,6 +387,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [None Yet](https://www.youtube.com/)|  | 0 | 0 | | | Remarks
 
+
+----
+
+## Engineering
+
+
+
+### Civil
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ ⏳ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| Grant Sanderson | 0 | 24 | | |
 
 
 ----
