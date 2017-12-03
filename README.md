@@ -397,7 +397,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Civil
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| Grant Sanderson | 0 | 24 | | |
+ ⏳ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
 
 
 ----
