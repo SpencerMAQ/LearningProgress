@@ -190,6 +190,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
  [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
+ [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | |
 
 
  ### Revit API
@@ -204,6 +205,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Revit API Labs](https://github.com/ADN-DevTech/RevitTrainingMaterial) | KrispCAD | 0 | 2 | | | sample files, AKA RevitTrainingMaterial from github, [mirror](http://usa.autodesk.com/adsk/servlet/index?id=2484975&siteID=123112), look for 'API Labs'
  [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
  [RevitLookup](https://github.com/jeremytammik/RevitLookup) | jeremytammik | 0 | 1 | | | [stackoverflow](https://stackoverflow.com/questions/35271719/gettings-information-about-stairsruns-and-stairs-from-elements-containing-such-i/35287808#35287808), http://www.revitapidocs.com/
+ [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
 
 
  ----
