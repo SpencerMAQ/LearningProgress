@@ -316,7 +316,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### JavaScript, HTML, CSS
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [None Yet](https://www.youtube.com)| None | 0 | 24 | | |
+ [A 20 Hour C# Course With Microsoft Visual Studio 2013]| Udemy | 00.01 | 18.01 | | | High Priority
+ [Learn C# With Microsoft Visual Studio Community]| Udemy | 00.01 | 16.01 | | | High Priority
 
 ### Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
