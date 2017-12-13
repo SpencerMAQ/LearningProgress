@@ -197,8 +197,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳  [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 03.006 | 14.03 | | | Comprehensive, Priority, 7 hrs, C# // TaskDialog.Show // UIDocument = info about how the revit user interacts with the file, involves info about the view windows and selections // ALWAYS USE TRANSACTIONS // f.Symbols not working
+ ⏳  [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 03.007 | 14.03 | | | Comprehensive, Priority, 7 hrs, C# // TaskDialog.Show // UIDocument = info about how the revit user interacts with the file, involves info about the view windows and selections // ALWAYS USE TRANSACTIONS // f.Symbols not working
  ⏳  Revit SDK Examples | Autodesk | 000 |145 | | | Revit 2017 SDK > Samples
+ ⏳  [My First Plug-in Training](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=16777469) | Autodesk | 00 |08 | | |
  [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | |
  [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
  [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
