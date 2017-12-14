@@ -27,6 +27,7 @@
   - [JavaScript, HTML, CSS](#javascript-html-css)
   - [Python](#python)
   - [PyCharm](#pycharm)
+  - [Computer Engineering](#computer-engineering)
 
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
@@ -352,13 +353,18 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  [Monte Carlo Simulation with Python](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0) | sentdex | 0 | 20 | | |
  [Graphing in Matplotlib (chart generation) in Python](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1) | sentdex | 0 | 30 | | |
-
-
+ 
 
 ### PyCharm
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ✔ [Getting Started with PyCharm](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP) | JetBrainsTV | 13 | 13 | | 2017 | Need to Review
+
+
+### Computer Engineering
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ [Ben Eater](https://www.youtube.com/user/eaterbc| None | 0 | 24 | | | Recommended by 3b1b
 
 
 ----
