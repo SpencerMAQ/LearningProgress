@@ -74,6 +74,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
  [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
  ✔ [Parametric Design of Aqua Tower, Chicago, IT. from Junfei Chen](http://chenjunfei0707.blogspot.com/2014/11/project-1-parametric-design-of-aqua.html) | Junfei Chen 陈骏飞 | 02 | 02 | | 2017 | [Part 2](http://chenjunfei0707.blogspot.com/2014/12/project-2-improvement-of-project-1.html), [video](https://www.youtube.com/watch?v=fPWn1JzZY8g), Surprisingly extremely easy, Not only is the Aqua Tower a giant radiator fin, it's also too basic by GH standards
+ |  |  |  |  | |  |
+ | [Space Planning](http://www.grasshopper3d.com/group/space-syntax) |  |  |  | |  |
+ |  |  |  |  | |  |
+ [Designing with Space Syntax](https://www.researchgate.net/publication/283311205_Designing_with_Space_Syntax_A_configurative_approach_to_architectural_layout_proposing_a_computa-_tional_methodology) | Pirouz Nourian | 00 | 11 | | | SS
+ [A SYNTACTIC ARCHITECTURAL DESIGN METHODOLOGY](https://www.researchgate.net/publication/283311082_A_SYNTACTIC_ARCHITECTURAL_DESIGN_METHODOLOGY_Integrating_real-time_Space_Syntax_analysis_in_a_configurative_architectural_design_process) | Pirouz Nourian | 00 | 16 | | | SS
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
