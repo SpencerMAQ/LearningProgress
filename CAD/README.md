@@ -197,7 +197,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
  [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | | [mirror](https://github.com/gtalarico/revitapidocs.code/tree/master/0-python-code), [full list of resources](https://github.com/gtalarico/python-revit-resources), esp [this](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/where_to_learn_revit_api.html), and [this](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-8EB25D2A-3CAF-486A-BA8E-C2BEF3DB68F6)
- ⏳ Dynamo for Revit Python Scripting | Lynda | 20 | 32 | | | Basic
+ ⏳ Dynamo for Revit Python Scripting | Lynda | 22 | 32 | | | Basic
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
