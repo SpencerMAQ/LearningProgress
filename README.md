@@ -156,6 +156,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Energy Models: Course 1 Lesson](http://energy-models.com/advanced-training/course-1/course-1-lesson)| Energy Models | 00 | 22 | | | Priority, Comprehensive, Basic
  [Energy Modeling Glossary](http://energy-models.com/glossary) | Energy Models | 00 | 05 pg | | | Priority, Comprehensive, Basic
  [Energy Modelis: Advanced Training](http://energy-models.com/advanced-training) | Energy Models | 00 | 10 | | | Priority, Comprehensive
+ [Interesting Youtube videos](https://www.youtube.com/channel/UC-_KrwQMhhGI1vvAo_PcI7Q/videos) | HAE Yanhui | 00 | ?? | | | Optimization
 
 
 ### Energy Simulations
