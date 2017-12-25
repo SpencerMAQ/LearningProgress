@@ -197,12 +197,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
  [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | | [mirror](https://github.com/gtalarico/revitapidocs.code/tree/master/0-python-code), [full list of resources](https://github.com/gtalarico/python-revit-resources), esp [this](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/where_to_learn_revit_api.html), and [this](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-8EB25D2A-3CAF-486A-BA8E-C2BEF3DB68F6)
- ⏳ Dynamo for Revit Python Scripting | Lynda | 22 | 32 | | 2017 | Basic, Good quality
+ ⏳ Dynamo for Revit Python Scripting | Lynda | 25 | 32 | | 2017 | Basic, Very Good quality
  SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
+ | [Download Revit SDK](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
  ✔  [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 14.003 | 14.003 | 2 weeks | 2017 | Comprehensive, Priority, 7 hrs, C# // TaskDialog.Show // UIDocument = info about how the revit user interacts with the file, involves info about the view windows and selections // ALWAYS USE TRANSACTIONS // f.Symbols not working // skipped: 06.005: Extensible Storage, skipped: 06.007 Dynamic Model Update: e.g. user adds text, macro detects it isn't part of standards, deletes it // 07: not reviewed that much // 08: Doesn't contain anything // 10: paid// skipped: 06.001: ISelection Filter: because won't use that much inside Dynamo // 11.006: using selection sets to highlight elements after code runs
  ⏳  Revit SDK Examples | Autodesk | 000 |145 | | | Revit 2017 SDK > Samples
  ⏳  [My First Plug-in Training](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=16777469) | Autodesk | 00 |08 | | |
