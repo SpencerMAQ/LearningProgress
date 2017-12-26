@@ -218,6 +218,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [RevitLookup](https://github.com/jeremytammik/RevitLookup) | jeremytammik | 0 | 1 | | | [stackoverflow](https://stackoverflow.com/questions/35271719/gettings-information-about-stairsruns-and-stairs-from-elements-containing-such-i/35287808#35287808), http://www.revitapidocs.com/
  [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api) | The Proving Ground | 0 | ?? | | | Comprehensive
  [Revit API Guide/About](http://thebuildingcoder.typepad.com/blog/about-the-author.html#2) | jeremytammik | 0 | ?? | | | VERY Comprehensive
+ [Understanding get_](https://forums.autodesk.com/t5/revit-api-forum/hidden-methods-in-api/td-p/7028612) | ?? | 0 | ?? | | | daeff, also [MORE IMPORTANTLY, this](http://thebuildingcoder.typepad.com/blog/2009/09/document-elements.html)
 
 
  ----
