@@ -192,7 +192,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 16 | | | Watch Videos in Order
+ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 0 | 17 | | | Watch Videos in Order
+ [DynamoBIM C# ZeroTouch Getting Started](https://www.youtube.com/watch?v=IBQBNAx1S8w&list=PLlyMZ5IcKcchm9hVskKtc9NXpy2QPYCC1) | Danny Bentley | 00 | 02 | | | C#, High quality
  [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
  [Accessing the Entire Revit API Using Dynamo and Python](https://graitec.co.uk/blog/entry/accessing-the-entire-revit-api-using-dynamo-and-python) | Graitec Blog Post | 0 | 1 | | | Explanation of how to access the Revit API from Dynamo
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
