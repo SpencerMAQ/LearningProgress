@@ -211,11 +211,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [Download Revit SDK](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
  ✔  [Learn to program the Revit API by Boost Your BIM](https://www.udemy.com/revitapi/) | Udemy | 14.003 | 14.003 | 2 weeks | 2017 | Comprehensive, Priority, 7 hrs, C# // TaskDialog.Show // UIDocument = info about how the revit user interacts with the file, involves info about the view windows and selections // ALWAYS USE TRANSACTIONS // f.Symbols not working // skipped: 06.005: Extensible Storage, skipped: 06.007 Dynamic Model Update: e.g. user adds text, macro detects it isn't part of standards, deletes it // 07: not reviewed that much // 08: Doesn't contain anything // 10: paid// skipped: 06.001: ISelection Filter: because won't use that much inside Dynamo // 11.006: using selection sets to highlight elements after code runs
  [Revit Lookup](https://github.com/jeremytammik/RevitLookup) 10/10! | Jeremy Tammik | 00 | ?? | | | PRIORITY, Interactive Revit BIM database exploration tool to view and navigate element properties and relationships. [Installation](https://www.youtube.com/watch?v=z-VID-goD_E), [Installer](https://boostyourbim.wordpress.com/2017/04/28/revit-lookup-2018-install/), [Install using VS](https://forums.autodesk.com/t5/revit-api-forum/building-a-dll-from-source-files/m-p/4960758#M6080)
- ⏳  Revit SDK Examples | Autodesk | 000 |145 | | | Revit 2017 SDK > Samples
+ ⏳  Revit SDK Examples | Autodesk | 000 | 145 | | | Revit 2017 SDK > Samples
  ⏳  [My First Plug-in Training](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=16777469) | Autodesk | 00 |08 | | |
  [RevitPythonShell](http://wiki.theprovingground.org/revit-api#toc3) | Nathan Miller | 00 |14 | | | Python Scripting in revit, [sample scripts](https://github.com/daren-thomas/rps-sample-scripts)
- [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 0 | 9 | | |
- [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 0 | 8 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
+ [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 00 | 9 | | |
+ [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 00 | 09 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
+ ⏳ [pyRevit: Core Tools](https://www.youtube.com/watch?v=pIjDd4dZng0&list=PLc_1PNcpnV55VgYBfrIPrvjZjsvwki8LR) | pyRevit | 01 | 10 | | |
+ [pyRevit: Working with Extensions](https://www.youtube.com/watch?v=zERdPh1vNBQ&list=PLc_1PNcpnV57OIsHFkc-zLFynurA6_jJR) | pyRevit | 00 | 05 | | |
  [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
  [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
  [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
