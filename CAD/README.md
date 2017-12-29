@@ -216,7 +216,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [RevitPythonShell](http://wiki.theprovingground.org/revit-api#toc3) | Nathan Miller | 00 |14 | | | Python Scripting in revit, [sample scripts](https://github.com/daren-thomas/rps-sample-scripts)
  [Revit API C# Getting Started](https://www.youtube.com/watch?v=C0mNU2bEUSs&list=PLlyMZ5IcKcci1TvB4qM9S8J-RKp0DhVWO) | Danny Bentley | 00 | 9 | | |
  [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 00 | 09 | | | Approx 5 hours, Comprehensive, Priority, pYRevit = plugin
- ⏳ [pyRevit: Core Tools](https://www.youtube.com/watch?v=pIjDd4dZng0&list=PLc_1PNcpnV55VgYBfrIPrvjZjsvwki8LR) | pyRevit | 05 | 10 | | | Such a dope piece of software, will def study this!
+ ⏳ [pyRevit: Core Tools](https://www.youtube.com/watch?v=pIjDd4dZng0&list=PLc_1PNcpnV55VgYBfrIPrvjZjsvwki8LR) | pyRevit | 05 | 10 | | | Such a dope piece of software, will def study this! // Skipped 05: copying entire sheet from one project to another
  [pyRevit: Working with Extensions](https://www.youtube.com/watch?v=zERdPh1vNBQ&list=PLc_1PNcpnV57OIsHFkc-zLFynurA6_jJR) | pyRevit | 00 | 05 | | |
  [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
  [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
