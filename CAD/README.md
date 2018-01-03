@@ -61,9 +61,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
  |  |  |  |  | |  |
  |  |  |  |  | |  |
- [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 0 | 5 | 16.5h | | Excellent
- [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 0 | 4 | | |
- [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 0 | 3 | | | Mesh, Paneling, Kangaroo
+ [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 00 | 05 | 13:04 | | Excellent
+ [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 00 | 04 | 8:25 | |
+ [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 00 | 03 | 11:12 | | Mesh, Paneling, Kangaroo
+ [GRASSHOPPER ITERATIVE](http://www.rese-arch.org/bundle/iterative) | rese-arch | 00 | 10 | 12:06 | | Loops and Motion, Recursion and Trees, Growth, L Systems and Sierpinski Triangle, Flocking
  |  |  |  |  | |  |
  |  |  |  |  | |  |
  Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
