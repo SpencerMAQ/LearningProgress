@@ -209,6 +209,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | 2018 | 01: Get room bounded by a ceiling //
  [SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users](https://www.youtube.com/watch?v=2e6tKofKsSo) | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
  ✔ [Dynamically Changed view to specified view](https://forum.dynamobim.com/t/call-view-to-open/17903/8) | Dynamo Forum | 01 | 01 | | 2018 | Can be used to see the changes your code do to speicfic views @ real time, key = `uiapp.ActiveUIDocument.RequestViewChange(myView)`
+ Try viewing Dynamo DLL libraries inside VS  | Me | 01 | 01 | | | Maybe it contains something about [this?](http://dynamods.github.io/DynamoAPI/)
 
 
   ### Dynamo Packages
