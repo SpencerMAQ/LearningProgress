@@ -198,7 +198,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 04 | 17 | | | Watch Videos in Order, 04: WindowsForms
+ ⏳ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 04 | 17 | | 2018 | Watch Videos in Order, 04: WindowsForms
  [DynamoBIM C# ZeroTouch Getting Started](https://www.youtube.com/watch?v=IBQBNAx1S8w&list=PLlyMZ5IcKcchm9hVskKtc9NXpy2QPYCC1) | Danny Bentley | 00 | 02 | | | C#, High quality
  [Intro to Zero Touch 101](https://www.youtube.com/playlist?list=PLGdDXXEHnr4WjwRKzIA1wPD1MhIRY-M2I) | Simply Complex Podcast | 00 | 05 | | | C#, In-Depth?
  [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
@@ -206,14 +206,16 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
  [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | | [mirror](https://github.com/gtalarico/revitapidocs.code/tree/master/0-python-code), [full list of resources](https://github.com/gtalarico/python-revit-resources), esp [this](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/where_to_learn_revit_api.html), and [this](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-8EB25D2A-3CAF-486A-BA8E-C2BEF3DB68F6)
  ✔ Dynamo for Revit Python Scripting | Lynda/Jeremy Graham | 32 | 32 | | 2017 | Basic, Very Good quality // 30 - DOPE example
- ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | | 01: Get room bounded by a ceiling //
+ ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | 2018 | 01: Get room bounded by a ceiling //
  [SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users](https://www.youtube.com/watch?v=2e6tKofKsSo) | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
+ ✔ [Dynamically Changed view to specified view](https://forum.dynamobim.com/t/call-view-to-open/17903/8) | Dynamo Forum | 01 | 01 | | 2018 | Can be used to see the changes your code do to speicfic views @ real time, key = `uiapp.ActiveUIDocument.RequestViewChange(myView)`
 
 
   ### Dynamo Packages
  Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  :-- | :-- | :-- | :-- | :-- | :-- | :--
-  ✔ [Add new nodes to existing packages](https://github.com/DynamoDS/Dynamo/issues/470) | Danny Bentley | 01 | 01 | | | Simply add to `C:\<>\Mi\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\<package name>` the dyf files or whatever (including other files), then Manage Packages > Publish Version
+  ✔ [Add new nodes to existing packages](https://github.com/DynamoDS/Dynamo/issues/470) | DynamoDS issues | 01 | 01 | | 2018 | Simply add to `C:\<>\Mi\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\<package name>` the dyf files or whatever (including other files), then Manage Packages > Publish Version
+  ✔ [Dynamo Primer: Publishing a Package](http://dynamoprimer.com/en/10_Packages/10-4_Publishing.html) | Danny Bentley | 01 | 01 | | 2018 | To add subcategories, use the format `Faraday.Subcategory1`
 
 
  ### Revit API
