@@ -12,6 +12,7 @@
   - [Revit](#revit)
   - [Dynamo](#dynamo)
   - [Dynamo Python](#dynamo-python)
+  - [Dynamo Packages](#dynamo-packages)
   - [Revit API](#revit-api)
 
 - [VCS](#vcs)
@@ -207,6 +208,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ Dynamo for Revit Python Scripting | Lynda/Jeremy Graham | 32 | 32 | | 2017 | Basic, Very Good quality // 30 - DOPE example
  ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | | 01: Get room bounded by a ceiling //
  [SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users](https://www.youtube.com/watch?v=2e6tKofKsSo) | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
+
+
+  ### Dynamo Packages
+ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+ :-- | :-- | :-- | :-- | :-- | :-- | :--
+  ✔ [Add new nodes to existing packages](https://github.com/DynamoDS/Dynamo/issues/470) | Danny Bentley | 01 | 01 | | | Simply add to `C:\<>\Mi\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\<package name>` the dyf files or whatever (including other files), then Manage Packages > Publish Version
+
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
