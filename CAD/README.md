@@ -189,7 +189,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Dynamo Primer](http://dynamoprimer.com/en/) | Matt Jezyk | 13.04 | 13.04 | 5 days | 2017 | High Quality // Best Explanation of List.Combine, Basically, Last.Map is the same as python's Map, List.Combine, the same except accepts more than 1 arguments // I think the list data structure of dynamo is better than the Data Tree of GH, but that's me // DesignScript is so dope, esp. Node to Code, so dope // Using logical operators in DesignScript (same as nodes, except for 'not' which is '!') // eggshell vector addition example // 9.5next // Zero-Touch Importing A-FORGE, Importing .dll files into Dynamo // Only skimmed: 11. Web exp // Review example for Gradient Descent (also on GH exlab) //
  [Dynamo for Space Planning](http://dynamobim.org/home_usecases/use-case-1/) | | 00 ch | 13 ch | | | Very advanced, iteration, pollination, MV optimization
  [Dynamo Developer Resources](http://dynamobim.org/developer/index.html) | | 00 pg | 01 pg | | | advanced
- [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
+ [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | Dynamo Team | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
+ [SFDUG August 2016: RTC 2016: Space Plan Generator](https://www.youtube.com/watch?v=ujG2Kans1UA) | San Francisco Dynamo User Group | 00:00 | 02:08 | | |
+ [Help with Space Planning - Subhajit’s Code](https://forum.dynamobim.com/t/help-with-space-planning-subhajits-code/10773) | Dynamo Forum | 01 | 01 | | |
 
 
  ### Dynamo Python
@@ -203,7 +205,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Python 0.6.3 to 0.7.x Migration](https://github.com/DynamoDS/Dynamo/wiki/Python-0.6.3-to-0.7.x-Migration) | DynamoDS | 0 | 1 | | | Explanation of how the Dynamo Library wraps the RevitAPI
  [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | | [mirror](https://github.com/gtalarico/revitapidocs.code/tree/master/0-python-code), [full list of resources](https://github.com/gtalarico/python-revit-resources), esp [this](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/where_to_learn_revit_api.html), and [this](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-8EB25D2A-3CAF-486A-BA8E-C2BEF3DB68F6)
  ✔ Dynamo for Revit Python Scripting | Lynda/Jeremy Graham | 32 | 32 | | 2017 | Basic, Very Good quality // 30 - DOPE example
- ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | | 01: Get room bounded by a ceiling // 
+ ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | | 01: Get room bounded by a ceiling //
  SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
 
  ### Revit API
