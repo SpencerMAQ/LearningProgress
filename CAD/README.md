@@ -206,7 +206,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Revit API Code Samples - Python](http://www.revitapidocs.com/code/Python) | Gui Talarico | 0 | ?? | | | [mirror](https://github.com/gtalarico/revitapidocs.code/tree/master/0-python-code), [full list of resources](https://github.com/gtalarico/python-revit-resources), esp [this](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/content/where_to_learn_revit_api.html), and [this](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-8EB25D2A-3CAF-486A-BA8E-C2BEF3DB68F6)
  ✔ Dynamo for Revit Python Scripting | Lynda/Jeremy Graham | 32 | 32 | | 2017 | Basic, Very Good quality // 30 - DOPE example
  ⏳ [http://learndynamo.com/](http://learndynamo.com/) | Jeremy Graham | 01 | 15 | | | 01: Get room bounded by a ceiling //
- SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
+ [SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users](https://www.youtube.com/watch?v=2e6tKofKsSo) | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
 
  ### Revit API
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
