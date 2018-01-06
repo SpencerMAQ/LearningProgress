@@ -216,6 +216,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  :-- | :-- | :-- | :-- | :-- | :-- | :--
   ✔ [Add new nodes to existing packages](https://github.com/DynamoDS/Dynamo/issues/470) | DynamoDS issues | 01 | 01 | | 2018 | Simply add to `C:\<>\Mi\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\<package name>` the dyf files or whatever (including other files), then Manage Packages > Publish Version
   ✔ [Dynamo Primer: Publishing a Package](http://dynamoprimer.com/en/10_Packages/10-4_Publishing.html) | Danny Bentley | 01 | 01 | | 2018 | To add subcategories, use the format `Faraday.Subcategory1`
+  [Ladybug Create Package JSON](https://github.com/ladybug-tools/ladybug-dynamo/blob/master/resources/createpackage/genDynamoPackage.py) | Mostapha | 01 | 01 | | 2018 | Until Dynamo team find a better solution this file creates a `pkg.json` file for Ladybug
+  [Ladybug copy dyf files?](https://github.com/ladybug-tools/ladybug-dynamo/blob/master/plugin/copy_files.py) | Mostapha | 01 | 01 | | 2018 | Probably copies dynamo dyf to Github repo folder, more IMPORTANTLY check out `C:\Users\<>\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\Ladybug\extra\updategithub.py` - Desc: This script copies files and definitions from package fodler to github folder
 
 
  ### Revit API
