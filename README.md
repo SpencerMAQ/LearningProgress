@@ -379,7 +379,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Engineering
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Ben Eater](https://www.youtube.com/user/eaterbc| None | 0 | 24 | | | Recommended by 3b1b
+ [Ben Eater](https://www.youtube.com/user/eaterbc) | None | 0 | 24 | | | Recommended by 3b1b
 
 
 ----
