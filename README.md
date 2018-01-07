@@ -317,6 +317,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  A 20 Hour C# Course With Microsoft Visual Studio 2013 | Udemy | 00.01 | 18.01 | | | High Priority
  Learn C# With Microsoft Visual Studio Community | Udemy | 00.01 | 16.01 | | | High Priority
+ [C# Path: Beginner](https://www.pluralsight.com/paths/csharp) | Pluralsight | 00.00 | 03.11 | | |
+ C# Path: Intermediate | Pluralsight | 04.00 | 10.08 | | | Interfaces, Collections, Generics, Events, Delegates, Lambdas, LINQ, OOP
+ C# Path: Advanced | Pluralsight | 11.00 | 16.07 | | | CLR, IL, JIT Compilation, Windows Runtime Modules, Assembly Refs
 
 
 ### JavaScript, HTML, CSS
@@ -357,7 +360,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  [Monte Carlo Simulation with Python](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0) | sentdex | 0 | 20 | | |
  [Graphing in Matplotlib (chart generation) in Python](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1) | sentdex | 0 | 30 | | |
- 
+
 
 ### PyCharm
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
