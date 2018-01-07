@@ -26,6 +26,7 @@
   - [C#](#c)
   - [JavaScript, HTML, CSS](#javascript-html-css)
   - [Python](#python)
+  - [IronPython](#ironpython)
   - [PyCharm](#pycharm)
   - [Computer Engineering](#computer-engineering)
 
@@ -327,6 +328,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [None Yet](https://www.youtube.com)| None | 0 | 24 | | |
 
+
 ### Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
@@ -360,6 +362,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  [Monte Carlo Simulation with Python](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0) | sentdex | 0 | 20 | | |
  [Graphing in Matplotlib (chart generation) in Python](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1) | sentdex | 0 | 30 | | |
+
+
+### IronPython
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ IronPython in Action 2012 | Foord, Muirhead | 000 | 494 | | | .NET
 
 
 ### PyCharm
