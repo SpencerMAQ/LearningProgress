@@ -198,7 +198,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ### Dynamo Python
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 04 | 17 | | 2018 | Watch Videos in Order, 04: WindowsForms
+ ⏳ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 09 | 17 | | 2018 | Watch Videos in Order, Skipped: 04: WindowsForms // `clr.AddReference(System.Windows.Forms)`, `from System.Windows.Forms import *`, similar to PyQT // Skipped 05: Read Excel // Skipped 06: Write Excel  // Already know 07: get-set parameters `param = get_Parameter(BuiltInParameter.<>) -> param.Set(<value>)` // 08: `doc.Create.NewFloor` // Known 09: FilteredElementCollector
  [DynamoBIM C# ZeroTouch Getting Started](https://www.youtube.com/watch?v=IBQBNAx1S8w&list=PLlyMZ5IcKcchm9hVskKtc9NXpy2QPYCC1) | Danny Bentley | 00 | 02 | | | C#, High quality
  [Intro to Zero Touch 101](https://www.youtube.com/playlist?list=PLGdDXXEHnr4WjwRKzIA1wPD1MhIRY-M2I) | Simply Complex Podcast | 00 | 05 | | | C#, In-Depth?
  [Revit API & python relations](https://forum.dynamobim.com/t/revit-api-python-relations/9188) | Forum Post | 0 | 1 | | | Understanding the default code of Dynamo Python Nodes and other caveats
