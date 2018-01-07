@@ -362,6 +362,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | | | | | | |
  [Monte Carlo Simulation with Python](https://www.youtube.com/watch?v=9M_KPXwnrlE&list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0) | sentdex | 0 | 20 | | |
  [Graphing in Matplotlib (chart generation) in Python](https://www.youtube.com/watch?v=wAwQ-noyB98&list=PLQVvvaa0QuDfpEcGUM6ogsbrlWtqpS5-1) | sentdex | 0 | 30 | | |
+ [Reference for PEP8 rules to ignore](http://pep8.readthedocs.io/en/release-1.7.x/intro.html) | py | 00 | ?? | | |
+
 
 
 ### IronPython
