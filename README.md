@@ -382,6 +382,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ✔ [Getting Started with PyCharm](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP) | JetBrainsTV | 13 | 13 | | 2017 | Need to Review
+ ✔ [PyCharm In-Depth VCS](https://www.youtube.com/watch?v=AHkiCKG-JhM&list=PL8MIDRK0XSikNVDpKp1n4yEz4nL86LG7x) | JetBrainsTV | 03 | 03 | | 2017 | Need to Review
 
 
 ### Computer Engineering
