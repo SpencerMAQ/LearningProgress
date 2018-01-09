@@ -383,6 +383,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ✔ [Getting Started with PyCharm](https://www.youtube.com/playlist?list=PLQ176FUIyIUZ1mwB-uImQE-gmkwzjNLjP) | JetBrainsTV | 13 | 13 | | 2017 | Need to Review
  ✔ [PyCharm In-Depth VCS](https://www.youtube.com/watch?v=AHkiCKG-JhM&list=PL8MIDRK0XSikNVDpKp1n4yEz4nL86LG7x) | JetBrainsTV | 03 | 03 | | 2017 | Need to Review
+ [How do I keep my Git fork up to date?](https://www.youtube.com/watch?v=o-2fvj7GsOQ) | JetBrainsTV | 01 | 01 | | | equivalent to this in Git shell? (https://help.github.com/articles/syncing-a-fork/)
 
 
 ### Computer Engineering
