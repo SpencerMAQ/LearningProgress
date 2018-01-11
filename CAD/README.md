@@ -210,6 +210,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [SFDUG Sept 2017: Beginner's Guide to Python for Dynamo Users](https://www.youtube.com/watch?v=2e6tKofKsSo) | San Francisco Dynamo User Group/Danny Bentley | 00:00 | 01:13 | | | Alexa blew my mind
  ✔ [Dynamically Changed view to specified view](https://forum.dynamobim.com/t/call-view-to-open/17903/8) | Dynamo Forum | 01 | 01 | | 2018 | Can be used to see the changes your code do to speicfic views @ real time, key = `uiapp.ActiveUIDocument.RequestViewChange(myView)`
  Try viewing Dynamo DLL libraries inside VS  | Me | 01 | 01 | | | Maybe it contains something about [this?](http://dynamods.github.io/DynamoAPI/)
+ ⏳ [Scripting Autodesk with RPS](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/) | Daren Thomas | 01 | ?? | | | RevitAPI
 
 
   ### Dynamo Packages
