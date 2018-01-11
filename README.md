@@ -449,17 +449,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Environment
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [MIT Environment Courses](https://ocw.mit.edu/courses/environment-courses/)| | ?? | ?? | | |
+ [MIT Environment Courses](https://ocw.mit.edu/courses/environment-courses/)| MIT | ?? | ?? | | |
 
 ### Energy
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-[MIT Energy Courses](https://ocw.mit.edu/courses/energy-courses/)| | ?? | ?? | | |
+[MIT Energy Courses](https://ocw.mit.edu/courses/energy-courses/)| MIT | ?? | ?? | | |
 
 ### Architecture
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-[MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/| | ?? | ?? | | |
+[MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/) | MIT | ?? | ?? | | |
 
 
 ----
