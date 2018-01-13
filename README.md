@@ -381,6 +381,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  IronPython in Action 2012 | Foord, Muirhead | 000 | 494 | | | .NET
+ [Numpy for IronPython](http://blog.enthought.com/python/scipy-for-net/#.WYSltITysuU) | Entought Blog | 00 | 01 | | | [github](https://github.com/numpy/numpy-refactor)
 
 
 ### PyCharm
