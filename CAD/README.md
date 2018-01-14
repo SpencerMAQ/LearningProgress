@@ -211,6 +211,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Dynamically Changed view to specified view](https://forum.dynamobim.com/t/call-view-to-open/17903/8) | Dynamo Forum | 01 | 01 | | 2018 | Can be used to see the changes your code do to speicfic views @ real time, key = `uiapp.ActiveUIDocument.RequestViewChange(myView)`
  Try viewing Dynamo DLL libraries inside VS  | Me | 01 | 01 | | | Maybe it contains something about [this?](http://dynamods.github.io/DynamoAPI/)
  ⏳ [Scripting Autodesk with RPS](https://daren-thomas.gitbooks.io/scripting-autodesk-revit-with-revitpythonshell/) | Daren Thomas | 01 | ?? | | | RevitAPI
+ ⏳ [Python Nodes Basics](https://forum.dynamobim.com/t/python-nodes-basics/15872) | Dynamo Forum / Yna_Db | 01 | ?? | | | compilation of python resources for dynamo // dynamoPrimer: Recursion not available in ZeroTouch?,
 
 
   ### Dynamo Packages
