@@ -195,6 +195,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Glazing and Winter Comfort Tool](https://docs.google.com/presentation/d/1tRaeq-MURhbOBYvKh9Xw7BXn--YI4W03t5qn95pyhPY/edit?usp=sharing)| Chris M., Aljendra M.B. | 0 | 1 | | |
  [Wind, Sun, Surface Temperature, and Heat Island: Variables for High-Resolution Outdoor Thermal Comfort](https://docs.google.com/presentation/d/1mKQByZxfwZSvdSvXUw7IRBzY2gRjIJq4iSN1ug5k00Q/edit?usp=sharing)| Chris M., Aljendra M.B. | 0 | 1 | | |
  [How to use Colibri and Design Explorer @PennDesign](https://www.youtube.com/watch?v=hbEOsI8stOo)| M. Peng | 00:00 | 35:33 | | | Similar to Ladybug Fly, Optimization
+ | | | | | | |
+ | Diva | | | | | |
+ | | | | | | |
+ [Diva for Grasshopper](https://www.youtube.com/channel/UCyMMzbpU4UfbAHtJ984GmjQ/videos)| Solemma | 00 | 14 | | | Study for General Building Science
 
 
 
