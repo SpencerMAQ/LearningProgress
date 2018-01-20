@@ -147,7 +147,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Modeling Plumbing Systems in Revit MEP | Digital Tutors | 0 | 06 | | | Priority
  ✔ Work Planes and Reference Planes in Revit | Digital Tutors | 05 | 05 | | 2017 | Should be taught in basic courses
  ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
- ✔ Modeling a Steel Structure in Revit | Digital Tutors | 10 | 10 | 2+ hrs | 2018 | for KA Quad, I hate imperial units // review 09 around end ~SLEEPyyyy
+ ✔ Modeling a Steel Structure in Revit | Digital Tutors | 10 | 10 | 2+ hrs | 2018 | for KA Quad, I hate imperial units
  ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
  ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
  [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
