@@ -455,6 +455,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [MIT Environment Courses](https://ocw.mit.edu/courses/environment-courses/)| MIT | ?? | ?? | | |
+ [edX Environmental Studies](https://www.edx.org/course/subject/environmental-studies)| edX | ?? | ?? | | |
+ [UBCx: Climate Change: The Science](https://www.edx.org/course/climate-change-science-ubcx-climate1x-3)| University of British Columbia | ?? | ?? | 7 weeks/ 2-5 hrs per | |
+ [The Climate-Energy Challenge](https://www.edx.org/course/climate-energy-challenge-harvardx-spu29x)| HarvardX | ?? | ?? | 9 weeks/ 4-6 hrs per | |
+ [Energy Within Environmental Constraints](https://www.edx.org/course/energy-within-environmental-constraints)| HarvardX | ?? | ?? | 10 weeks/ 3-5 hrs per | |
+ [Ecodesign for Cities and Suburbs](https://www.edx.org/course/ecodesign-cities-suburbs-ubcx-ecodesignx-0)| UBCx | ?? | ?? | 6 weeks/ 4-5 hrs per | |
+ [Solar Energy](https://www.edx.org/course/solar-energy-delftx-et3034x-0)| DelftX | ?? | ?? | 8 weeks/ 8 hrs per | |
+ [Energy Principles and Renewable Energy](https://www.edx.org/course/energy-principles-renewable-energy-uqx-engy0x)| UQx | ?? | ?? | 11 weeks/ 8-10 hrs per | | Advanced
+ [Low Emission Technologies and Supply Systems](https://www.edx.org/course/low-emission-technologies-supply-systems-uqx-engy3x)| UQx | ?? | ?? | 8 weeks/ 8-10 hrs per | | Advanced
+ [Engineering: Building with Nature](https://www.edx.org/course/engineering-building-nature-delftx-bwn101x-0)| Delftx | ?? | ?? | 5 weeks/ 3-5 hrs per | | Intermediate
+ [The Search for Vernacular Architecture of Asia, Part 1 / 探索亚洲地区的本土建筑，第1部分](https://www.edx.org/course/search-vernacular-architecture-asia-part-hkux-hku02-1x)| HKUx | ?? | ?? | 5 weeks/ 2-3 hrs per | |
+ [Modeling Climate Change](https://www.edx.org/course/modeling-climate-change-uchicagox-ps280x)| UChicagoX | ?? | ?? | 8 weeks/ 3-5 hrs per | | Intermediate // this course is geared to curious enthusiasts, allowing them to work with real climate data and simulations of the earth’s changing climate.
 
 ### Energy
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -465,6 +476,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 [MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/) | MIT | ?? | ?? | | |
+[edX Architecture Courses](https://www.edx.org/course/subject/architecture) | eDX | ?? | ?? | | |
 
 
 ----
