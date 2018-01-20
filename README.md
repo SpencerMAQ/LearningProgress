@@ -8,7 +8,7 @@
   - [Photometry](#photometry)
   - [Optics](#optics)
   - [Calculus-based Physics](#calculus-based-physics)
-  - [Computational Physics](s#computational-physics)
+  - [Computational Physics](#computational-physics)
 
 - [Building Science](#building-science)
   - [HVAC](#hvac)
