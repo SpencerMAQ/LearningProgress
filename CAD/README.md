@@ -200,6 +200,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Analyze](http://dictionary.dynamobim.com/#/Analyze) | Dynamo dictionary | 00.00 | 04.10 | | |
  [BuiltIn](http://dictionary.dynamobim.com/#/BuiltIn) | Dynamo dictionary | 00 | 41 | | |
  ⏳ [Core](http://dictionary.dynamobim.com/#/Core) | Dynamo dictionary | 09.01 | 20.07 | | 2018 | 8 = list
+ [Display](http://dictionary.dynamobim.com/#/Display) | Dynamo dictionary | 00.00 | 02.01 | | |
+ [Geometry](http://dictionary.dynamobim.com/#/Geometry) | Dynamo dictionary | A.00 | T.03 | | | A = Arc, T = Tessellation
+ [Revit](http://dictionary.dynamobim.com/#/Revit) | Dynamo dictionary | S.00 | V.V3D | | | S = Selection, V = Views
 
 
  ### Dynamo Python
