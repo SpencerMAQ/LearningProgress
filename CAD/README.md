@@ -194,6 +194,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Dynamo Mesh Toolkit](https://github.com/DynamoDS/Dynamo/wiki/Dynamo-Mesh-Toolkit) | Dynamo Team | 00 pg | 01 pg | | | plugin developed by the Dynamo Team
  [SFDUG August 2016: RTC 2016: Space Plan Generator](https://www.youtube.com/watch?v=ujG2Kans1UA) | San Francisco Dynamo User Group | 00:00 | 02:08 | | |
  [Help with Space Planning - Subhajit’s Code](https://forum.dynamobim.com/t/help-with-space-planning-subhajits-code/10773) | Dynamo Forum | 01 | 01 | | |
+ |  |  |  |  | |  |
+ | Study of Core Dynamo Nodes[Dynamo Dict](http://dictionary.dynamobim.com/) |  |  |  | |  |
+ |  |  |  |  | |  |
+ [Analyze](http://dictionary.dynamobim.com/#/Analyze) | Dynamo dictionary | 00.00 | 04.10 | | |
+ [BuiltIn](http://dictionary.dynamobim.com/#/BuiltIn) | Dynamo dictionary | 00 | 41 | | |
+ ⏳ [Core](http://dictionary.dynamobim.com/#/Core) | Dynamo dictionary | 09.01 | 20.07 | | 2018 | 8 = list
 
 
  ### Dynamo Python
