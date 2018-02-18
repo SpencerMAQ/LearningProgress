@@ -463,19 +463,19 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   ### Engineering Mechanics
   Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   :-- | :-- | :-- | :-- | :-- | :-- | :--
-   [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | 2018 |
    [02: Rigid Bodies & System Of Forces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/199)| iLectureOnline | 00 | 47 | | |
    [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 00 | 30 | | |
    [04: Centroids & Center Of Gravity](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/201)| iLectureOnline | 00 | 35 | | |
    [05: Distributed Loads On Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/202)| iLectureOnline | 00 | 12 | | |
-   [06: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [07: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [08: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [09: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [10: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [11: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [12: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
-   [13: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [06: Forces On Submerged Surfaces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/203)| iLectureOnline | 00 | 08 | | |
+   [07: Centroids In 3-D](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/204)| iLectureOnline | 00 | 08 | | |
+   [08: Trusses, Bridges & Other Structuresm](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/248)| iLectureOnline | 00 | 34 | | |
+   [09: Internal Forces on Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/249)| iLectureOnline | 00 | 11 | | |
+   [10: Forces On Cables](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/262)| iLectureOnline | 00 | 33 | | | CATENARY!!!!
+   [11: Friction](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/282)| iLectureOnline | 00 | 47 | | | Very Comprehensive, DO i need this?
+   [12: Moment Of Inertia](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/283)| iLectureOnline | 00 | 05 | | |
+   [13: Virtual Work Applications](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/301)| iLectureOnline | 00 | 11 | | |
 
 ----
 
