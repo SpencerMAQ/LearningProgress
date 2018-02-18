@@ -38,6 +38,8 @@
 
 - [Engineering](#engineering)
   - [Civil](#civil)
+  - [Mechanics](#mechanics)
+  - [Engineering Mechanics](#engineering-mechanics)
 
 - [Architecture](#architecture)
   - [Environment](#environment)
@@ -457,6 +459,24 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   [Mechanics: 18.b - Simple Harmonic Motion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/26)| Khan Academy | 00 | 26 | | |
   [Mechanics: 18.b - Simple Harmonic Motion 2 - With Multiple Springs](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/22)| Khan Academy | 00 | 05 | | |
   [Mechanics: 16 - Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 00 | 14 | | |
+
+  ### Engineering Mechanics
+  Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+  :-- | :-- | :-- | :-- | :-- | :-- | :--
+   [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [02: Rigid Bodies & System Of Forces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/199)| iLectureOnline | 00 | 47 | | |
+   [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 00 | 30 | | |
+   [04: Centroids & Center Of Gravity](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/201)| iLectureOnline | 00 | 35 | | |
+   [05: Distributed Loads On Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/202)| iLectureOnline | 00 | 12 | | |
+   [06: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [07: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [08: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [09: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [10: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [11: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [12: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+   [13: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 00 | 19 | | |
+
 ----
 
 ## Architecture
