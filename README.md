@@ -442,9 +442,21 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
  [FreeVideoLectures - Civil Engineering](http://freevideolectures.com/Subject/Civil-Engineering)| | 0 | ?? | | |
  [Class Central - Civil Engineering](https://www.class-central.com/subject/civil-engineering#)| | 0 | ?? | | |
- [MIT: Architectonics: Structures I](http://web.mit.edu/course/4/4.440/1_lectures/1_lectures_index.html)| | 00 | 46 | | | [related](http://web.mit.edu/4.441/1_lectures/1_lectures_index.html)
+ [MIT: Architectonics: Structures I](http://web.mit.edu/course/4/4.440/1_lectures/1_lectures_index.html)| | 00 | 46 | | | [related](http://web.mit.edu/4.441/1_lectures/1_lectures_index.html), most pages no longer exist!
+ [24 Civil Engineering Courses](http://www.courses.com/civil-engineering)| | 0 | 24 | | |
 
-
+ ### Mechanics
+ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+ :-- | :-- | :-- | :-- | :-- | :-- | :--
+  [Advanced Mechanics: 01 - Lagrangian MEchanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/34/245)| iLectureOnline | 00 | 16 | | | Newtonian mechanics using PDEs?
+  [Advanced Mechanics: 02 - Hamiltonian MEchanics](http://www.ilectureonline.com/lectures/subject/PHYSICS/34/246)| iLectureOnline | 00 | 03 | | | MV Calc
+  [Mechanics: 11 - Stress and Strain](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/19)| iLectureOnline | 00 | 16 | | |
+  [Mechanics: 13.a - Moment of Inertia](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/21)| iLectureOnline | 00 | 07 | | |
+  [Mechanics: 13.b - Moment of Inertia Applications](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/22)| iLectureOnline | 00 | 11 | | |
+  [Mechanics: 15 - Torque and Angular Momentum](https://www.khanacademy.org/science/physics/torque-angular-momentum)| Khan Academy | 00 | 19 | | |
+  [Mechanics: 18.b - Simple Harmonic Motion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/26)| Khan Academy | 00 | 26 | | |
+  [Mechanics: 18.b - Simple Harmonic Motion 2 - With Multiple Springs](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/22)| Khan Academy | 00 | 05 | | |
+  [Mechanics: 16 - Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 00 | 14 | | |
 ----
 
 ## Architecture
