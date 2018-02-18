@@ -121,7 +121,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [C# Scripting and Plugin Development for Rhinoceros and Grasshopper - Long Nguyen - Day 1 Part 2](https://vimeo.com/247050074) | [Rhino Tutorials](https://vimeo.com/rhino) / ICD / [Long Nguyen](https://www.linkedin.com/in/longnguyenp/) | 00 | 02:09 | | |
  [C# Scripting and Plugin Development for Rhinoceros and Grasshopper - Long Nguyen - Day 2 Part 1](https://vimeo.com/247050938) | [Rhino Tutorials](https://vimeo.com/rhino) / ICD / [Long Nguyen](https://www.linkedin.com/in/longnguyenp/) | 00 | 02:39 | | |
  [C# Scripting and Plugin Development for Rhinoceros and Grasshopper - Long Nguyen - Day 2 Part 2](https://vimeo.com/247051786) | [Rhino Tutorials](https://vimeo.com/rhino) / ICD / [Long Nguyen](https://www.linkedin.com/in/longnguyenp/) | 00 | 02:59 | | |
- [C# Scripting and Plugin Development for Rhinoceros and Grasshopper - Long Nguyen - Day 3](https://vimeo.com/247052840) | [Rhino Tutorials](https://vimeo.com/rhino) / ICD / [Long Nguyen](https://www.linkedin.com/in/longnguyenp/) | 00 | 02:26 | | | UBER COMPREHENSIVE
+ [C# Scripting and Plugin Development for Rhinoceros and Grasshopper - Long Nguyen - Day 3](https://vimeo.com/247052840) | [Rhino Tutorials](https://vimeo.com/rhino) / ICD / [Long Nguyen](https://www.linkedin.com/in/longnguyenp/) | 00 | 02:26 | | | UBER COMPREHENSIVE, University of Stuttgart ICT, ITECH Master Program
 
  ----
 
