@@ -60,12 +60,16 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | | 2016 |
  [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | | | AKA Advanced Data Trees
  [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
+ [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | | | Kangaroo
+ [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | | | Lunchbox?
+ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB | 00 | 17 | 2.5 hrs | | Mesh, Weaverbird???
  |  |  |  |  | |  |
  |  |  |  |  | |  |
  [GRASSHOPPER ESSENTIALS](http://www.rese-arch.org/bundle/essentials) | rese-arch | 00 | 05 | 13:04 | | Excellent
  [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 00 | 04 | 8:25 | |
  [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 00 | 03 | 11:12 | | Mesh, Paneling, Kangaroo
  [GRASSHOPPER ITERATIVE](http://www.rese-arch.org/bundle/iterative) | rese-arch | 00 | 10 | 12:06 | | Loops and Motion, Recursion and Trees, Growth, L Systems and Sierpinski Triangle, Flocking
+ [Extending Grasshopper](https://www.youtube.com/playlist?list=PLXekJiZsSipBKDtaSB6iHfCaUotzY3jFq) | Daniel Christev | 00 | 07 | 3 hrs| | Kangaroo
  |  |  |  |  | |  |
  |  |  |  |  | |  |
  Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
@@ -73,6 +77,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
  View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | |
  Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
+ Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 0 | 6 | 1hr 49 | | Kangaroo 2, Good
  Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
  [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
  ✔ [Parametric Design of Aqua Tower, Chicago, IT. from Junfei Chen](http://chenjunfei0707.blogspot.com/2014/11/project-1-parametric-design-of-aqua.html) | Junfei Chen 陈骏飞 | 02 | 02 | | 2017 | [Part 2](http://chenjunfei0707.blogspot.com/2014/12/project-2-improvement-of-project-1.html), [video](https://www.youtube.com/watch?v=fPWn1JzZY8g), Surprisingly extremely easy, Not only is the Aqua Tower a giant radiator fin, it's also too basic by GH standards
