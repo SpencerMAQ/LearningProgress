@@ -427,6 +427,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| edX | | | | | Computer Science
  [What is a Tensor?](https://www.youtube.com/watch?v=_pKxbNyjNe8&list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)| XylyXylyX | 0 | 39 | | | We define a vector space and lay the foundation of a solid understanding of tensors.
 
+### Mathematics for Machine Learning
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning#courses)| Coursera | 00 | 03 | | | Linear Algebra, Multivariate Calculus, Principal Component Analysis (PCA)
+
 ### Discrete Mathematics
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
