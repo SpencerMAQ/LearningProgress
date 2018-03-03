@@ -34,6 +34,7 @@
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
+  - [Mathematics for Machine Learning](#mathematics-for-machine-learning)
   - [Discrete Mathematics](#discrete-mathematics)
 
 - [Engineering](#engineering)
@@ -48,6 +49,7 @@
 
 - [Art](#art)
   - [Sketching](#sketching)
+  - [Graphic Design](#graphic-design)
 
 - [Pedagogy](#pedagogy)
   - [Incremental Reading](#incremental-reading)
@@ -536,6 +538,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [The Designer Starter Kit: Guide 2](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiVppHGv6LXAhVGoJQKHXfODC8QFgg5MAM&url=http%3A%2F%2Fthedesignsketchbook.com%2Fwp-content%2Fuploads%2F2014%2F10%2F2-GUIDE-THE-DESIGNER-STARTER-KIT-Mastering-the-pen.pdf&usg=AOvVaw3clewjR4PqgLtbUDIw30SC)| the Design Sketchbook | 0 | 22 | |  | HIGH Priority, Mastering the pen
  [The Designer Starter Kit: Guide 3](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwiIxbS-v6LXAhWHNJQKHZwoCwkQFghJMAY&url=https%3A%2F%2Fwww.thedesignsketchbook.com%2Fwp-content%2Fuploads%2F2014%2F10%2F3-GUIDE-THE-DESIGNER-STARTER-KIT-Gaining-a-sense-of-proportion.pdf&usg=AOvVaw3ALvGpiQ3FE5SuRy1i6wYj)| the Design Sketchbook | 0 | 8 | |  | HIGH Priority. Gaining a Sense of Proportion
  [The Designer Starter Kit: Guide 4](https://www.google.com.ph/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjCsav-v6LXAhVEOJQKHe9-AmcQFggsMAE&url=https%3A%2F%2Fwww.thedesignsketchbook.com%2Fwp-content%2Fuploads%2F2014%2F10%2F4-GUIDE-THE-DESIGNER-STARTER-KIT-Seeing-in-perspective.pdf&usg=AOvVaw32m9NsXLCumsH71bNnVgzV)| the Design Sketchbook | 0 | 40 | |  | HIGH Priority. Seeing in Perspective
+
+
+### Graphic Design
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+⏳ [Sketching Tutorials](https://www.youtube.com/watch?v=5LbUwkk93QI&list=PLJQ9Ug0V_0wo8ZmHMcIgCyZwGhjoWHI4b)| Themodmin | 05| 16 | | 2017 | Architectural
 
 
 ----
