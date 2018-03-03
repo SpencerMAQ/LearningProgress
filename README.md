@@ -543,7 +543,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ [Sketching Tutorials](https://www.youtube.com/watch?v=5LbUwkk93QI&list=PLJQ9Ug0V_0wo8ZmHMcIgCyZwGhjoWHI4b)| Themodmin | 05| 16 | | 2017 | Architectural
+Introduction to Graphic Design | Lynda | 00 | 65 | | | PS, Illu, InDesign
 
 
 ----
