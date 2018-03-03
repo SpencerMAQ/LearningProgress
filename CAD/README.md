@@ -88,6 +88,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  |  |  |  |  | |  |
  [Designing with Space Syntax](https://www.researchgate.net/publication/283311205_Designing_with_Space_Syntax_A_configurative_approach_to_architectural_layout_proposing_a_computa-_tional_methodology) | Pirouz Nourian | 00 | 11 | | | SS
  [A SYNTACTIC ARCHITECTURAL DESIGN METHODOLOGY](https://www.researchgate.net/publication/283311082_A_SYNTACTIC_ARCHITECTURAL_DESIGN_METHODOLOGY_Integrating_real-time_Space_Syntax_analysis_in_a_configurative_architectural_design_process) | Pirouz Nourian | 00 | 16 | | | SS
+ |  |  |  |  | |  |
+ | Other Plugins |  |  |  |  |  |
+ |  |  |  |  | |  |
+ [Crystallon](http://www.food4rhino.com/app/crystallon) | fequalsf | 00 | ?? | | | [repo](https://github.com/fequalsf/Crystallon)
+ [Axolotl](http://www.food4rhino.com/app/axolotl) | worbit | 00 | ?? | | | [repo](https://github.com/dbt-ethz/Axolotl)
+ [GH_CPython](https://github.com/MahmoudAbdelRahman/GH_CPython) | MahmoudAbdelRahman | 00 | ?? | | |
+ [GhPlotLib](https://github.com/MahmoudAbdelRahman/GhPlotLib) | MahmoudAbdelRahman | 00 | ?? | | |
+ [ANT](https://github.com/MahmoudAbdelRahman/ANT) | MahmoudAbdelRahman | 00 | ?? | | |
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
