@@ -340,10 +340,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  C# Path: Advanced | Pluralsight | 11.00 | 16.07 | | | CLR, IL, JIT Compilation, Windows Runtime Modules, Assembly Refs
 
 
-### JavaScript, HTML, CSS
+### JavaScript, HTML, CSS, Processing
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [None Yet](https://www.youtube.com)| None | 0 | 24 | | |
+ [The Nature of Code: Simulating Natural Systems with Processing](https://www.youtube.com)| The Coding Train | 00 | 83 | | | Processing Language, p5.js, JavaScript // Very Good
 
 
 ### Python
@@ -414,6 +414,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 |
+ [The stunning geometry behind this surprising equation](https://www.youtube.com/watch?v=d-o3eB9sfls) | Grant Sanderson | 00 | 01 | | | Photometry // A most beautiful proof of the Basel problem, using light. // π²/6 = 1+1/2+1/4+1/9.... // Inverse Square Law
  [Calculus with Python, Intro](https://www.youtube.com/watch?v=OKYeC4MSoj4&list=PLcwjc2OQcM4ulZNk8mj3Q3L-xR2JcT88i)| A F | 0 | 16 | | |
  [Calculus with Python, Limits](https://www.youtube.com/watch?v=72SntdQp0kM&list=PLcwjc2OQcM4uUJ1Ek0z9zL3015BhRqP6l)| A F | 0 | 23 | | |
  [Calculus with Python, Derivatives](https://www.youtube.com/watch?v=sjF_4Xl9mRk&list=PLcwjc2OQcM4s_c7v0os77RUBwvKrvcPjQ)| A F | 0 | 29 | | |
