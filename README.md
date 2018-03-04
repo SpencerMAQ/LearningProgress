@@ -543,7 +543,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-Introduction to Graphic Design | Lynda | 00 | 65 | | | PS, Illu, InDesign
+Introduction to Graphic Design | Lynda | 07 | 65 | | | PS, Illu, InDesign
 
 
 ----
