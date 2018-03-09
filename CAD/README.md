@@ -79,7 +79,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
  Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 0 | 6 | 1hr 49 | | Kangaroo 2, Good
  Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
- [Grasshopper: Architectural Prototyping](https://www.lynda.com/tutorial/667360) | Lynda | 00 | 30 | | | 
+ [Grasshopper: Architectural Prototyping](https://www.lynda.com/tutorial/667360) | Lynda | 00 | 30 | | |
  [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
  ✔ [Parametric Design of Aqua Tower, Chicago, IT. from Junfei Chen](http://chenjunfei0707.blogspot.com/2014/11/project-1-parametric-design-of-aqua.html) | Junfei Chen 陈骏飞 | 02 | 02 | | 2017 | [Part 2](http://chenjunfei0707.blogspot.com/2014/12/project-2-improvement-of-project-1.html), [video](https://www.youtube.com/watch?v=fPWn1JzZY8g), Surprisingly extremely easy, Not only is the Aqua Tower a giant radiator fin, it's also too basic by GH standards
  ⏳ [SFDUG Jan 2018 - Machine Learning and Computational Design Adoption](https://www.youtube.com/watch?v=tTUGVeeNs9U&t=1612s) | San Francisco Dynamo User Group | 00:00 | 01:12 | |
@@ -267,6 +267,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Python for Revit Course](https://www.youtube.com/watch?v=vsXsc2PYLCU&list=PLc_1PNcpnV5742XyF8z7xyL9OF8XJNYnv) | pyRevit | 09 | 09 | 2 days | 2017 | Approx 5 hours, Comprehensive, Priority, 10/10 for software and plugin
  ✔ [pyRevit: Core Tools](https://www.youtube.com/watch?v=pIjDd4dZng0&list=PLc_1PNcpnV55VgYBfrIPrvjZjsvwki8LR) | pyRevit | 10 | 10 | | 2017 | Such a dope piece of software! // Skipped 05: copying entire sheet from one project to another
  ✔ [pyRevit: Working with Extensions](https://www.youtube.com/watch?v=zERdPh1vNBQ&list=PLc_1PNcpnV57OIsHFkc-zLFynurA6_jJR) | pyRevit | 05 | 05 | 1 day | 2017 |
+ [IronPython Helper ](https://github.com/PMoureu/iph) | PMoureu | 00 | 01 | | | Revit Plugin: Half lookup, half doc reader, half visual debugger
  [Introduction to Revit 2015 Programming Part 1](https://www.youtube.com/watch?v=l8dQxoAjSP8&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 20:01 | | |
  [Introduction to Revit 2015 Programming Part 2](https://www.youtube.com/watch?v=zL8pQRJbcyA&index=2&list=PLoC0VXzQcUC7jaS2wFQjwXSGZzq5WVTvN) | Autodesk DevTV | 0 | 33:39 | | |
  [Revit API](https://www.youtube.com/watch?v=la8DBrKVCxc&list=PLokG6yd7UBRDDB7jo15ntPUQ947z_5Bu7) | KrispCAD | 0 | 2 | | | 20 mins
