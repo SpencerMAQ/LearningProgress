@@ -79,6 +79,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
  Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 0 | 6 | 1hr 49 | | Kangaroo 2, Good
  Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
+ [Grasshopper: Architectural Prototyping](https://www.lynda.com/tutorial/667360) | Lynda | 00 | 30 | | | 
  [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
  ✔ [Parametric Design of Aqua Tower, Chicago, IT. from Junfei Chen](http://chenjunfei0707.blogspot.com/2014/11/project-1-parametric-design-of-aqua.html) | Junfei Chen 陈骏飞 | 02 | 02 | | 2017 | [Part 2](http://chenjunfei0707.blogspot.com/2014/12/project-2-improvement-of-project-1.html), [video](https://www.youtube.com/watch?v=fPWn1JzZY8g), Surprisingly extremely easy, Not only is the Aqua Tower a giant radiator fin, it's also too basic by GH standards
  ⏳ [SFDUG Jan 2018 - Machine Learning and Computational Design Adoption](https://www.youtube.com/watch?v=tTUGVeeNs9U&t=1612s) | San Francisco Dynamo User Group | 00:00 | 01:12 | |
