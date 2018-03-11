@@ -552,7 +552,7 @@ Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
 ### Illustrator
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Illustrator CC 2015 One-on-One: Fundamentals | Lynda | 01.11 | 16.01 | | |
+⏳ Illustrator CC 2015 One-on-One: Fundamentals | Lynda | 01.11 | 16.01 | 17h:30m | |
 
 
 ----
