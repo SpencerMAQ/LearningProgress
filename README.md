@@ -46,6 +46,7 @@
   - [Environment](#environment)
   - [Energy](#energy)
   - [Architecture](#architecture)
+  - [Optimization](#optimization)
 
 - [Art](#art)
   - [Sketching](#sketching)
@@ -519,6 +520,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 [MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/) | MIT | ?? | ?? | | |
 [edX Architecture Courses](https://www.edx.org/course/subject/architecture) | eDX | ?? | ?? | | |
 
+### Optimization
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[Introduction to Architectural Design Optimization](https://www.researchgate.net/publication/321585376_Introduction_to_Architectural_Design_Optimization) | Thomas Wortmann | 00 | 23 | | | slightly advanced,  [mirror1](https://link.springer.com/chapter/10.1007/978-3-319-65338-9_14), [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6378490847733837824)
 
 ----
 
