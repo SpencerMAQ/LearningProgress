@@ -549,7 +549,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Introduction to Graphic Design | Lynda | 24 | 65 | 06h:32m | 2018 | PS, Illu, InDesign
+⏳ Introduction to Graphic Design | Lynda | 25 | 65 | 06h:32m | 2018 | PS, Illu, InDesign
 Foundations of Layout and Composition | Lynda | 0.0 | 7.2 | | |
 Learning Graphic Design - Layouts | Lynda | 01 | 13 | 01h:02m | |
 Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
