@@ -97,6 +97,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [GH_CPython](https://github.com/MahmoudAbdelRahman/GH_CPython) | MahmoudAbdelRahman | 00 | ?? | | |
  [GhPlotLib](https://github.com/MahmoudAbdelRahman/GhPlotLib) | MahmoudAbdelRahman | 00 | ?? | | |
  [ANT](https://github.com/MahmoudAbdelRahman/ANT) | MahmoudAbdelRahman | 00 | ?? | | |
+ |  |  |  |  | |  |
+ | Books |  |  |  |  |  |
+ |  |  |  |  | |  |
+ Algorithmic Sketchbook  | Mitchell Su / Studio Air / Exlab | 00 | 38 | | |
+ Algorithmic Sketchbook | Matthew Tibballs / Studio Air / Exlab | 00 | 31 | | |
+ Final Journal | Tania Putri Kanadi / Studio Air / Exlab | 000 | 130 | | | From the author: `I have done other design studios in previous semesters, and in all of them, my designs were mostly developed through the more traditional hand-drawn methods. I have limited experience with CAD programs, however, I know its significance in the architecture industry is growing and as such, to learn it is necessary.` // University of Melbourne
+ Generative Algorithms using Grasshopper | Zubin Khabazi | 000 | 141 | | |
+ Grasshopper Workshop | Woo Jae Sung | 00 | 13 | | |
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
