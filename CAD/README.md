@@ -62,7 +62,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | 2h20m | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
  [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | 2h37m | | Lunchbox?
- ⏳ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 01 | 17 | 2h27m | 2018 | Mesh, Weaverbird???
+ ⏳ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 02 | 17 | 2h27m | 2018 | Mesh, Weaverbird???
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Formfinding using Grasshopper
  Dynamic Patterning | MODELAB | 00 | 12 | 2h35m | | Interesting, Vector Fields
@@ -109,6 +109,20 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Final Journal | Tania Putri Kanadi / Studio Air / Exlab | 000 | 130 | | | From the author: `I have done other design studios in previous semesters, and in all of them, my designs were mostly developed through the more traditional hand-drawn methods. I have limited experience with CAD programs, however, I know its significance in the architecture industry is growing and as such, to learn it is necessary.` // University of Melbourne
  Generative Algorithms using Grasshopper | Zubin Khabazi | 000 | 141 | | |
  Grasshopper Workshop | Woo Jae Sung | 00 | 13 | | |
+ |  |  |  |  | |  |
+ | [All GH Components](https://rhino.github.io/) |  |  |  |  |  |
+ |  |  |  |  | |  |
+ Params | McNeel | geom.point | util.gene_pool | | | study in top to bottom, left to right order
+ Maths | McNeel | domain.construct_domain | util.create_complex | | |
+ Sets | McNeel | List.Insert Items | Tree.Replace Paths | | |
+ Vector | McNeel | Field.Line Charge | Vector.Vector Length | | |
+ Curve | McNeel | Analysis.Control Points | Util.Smooth Polyline | | |
+ Surface | McNeel | Analysis.Box Corners | Util.Offset Loose | | |
+ Mesh | McNeel | Analysis.Deconstruct Face | Util.Occlusion | | |
+ Intersect | McNeel | Mathematical.Brep-Line | Shape.Region Slits | | |
+ Transform | McNeel | Affine.Scale | Util.Split Group | | |
+ Display | McNeel | Colour.ColourCMYK | Vector.Display Ex | | |
+
 
 ### Rhino
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
