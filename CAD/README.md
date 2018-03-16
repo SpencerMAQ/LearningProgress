@@ -144,6 +144,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | |
  ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
  ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
+ |  |  |  |  | |  |
+ | [GH Developer Docs](http://developer.rhino3d.com/) |  |  |  |  |  |
+ |  |  |  |  | |  |
+ [API References](http://developer.rhino3d.com/api/) | McNeel | ?? | ?? | | |
+ [RhinoCommon](http://developer.rhino3d.com/guides/rhinocommon/) | McNeel | ?? | ?? | | | 
 
 
 ### C#
