@@ -62,7 +62,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | 2h20m | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
  [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | 2h37m | | Lunchbox?
- ⏳ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 13 | 17 | 2h27m | 2018 | Mesh, Weaverbird???
+ ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
  Dynamic Patterning | MODELAB | 00 | 12 | 2h35m | | Interesting, Vector Fields
