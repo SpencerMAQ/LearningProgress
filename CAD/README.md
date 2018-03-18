@@ -62,7 +62,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | 2h20m | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
  [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | 2h37m | | Lunchbox?
- ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing
+ ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
  Dynamic Patterning | MODELAB | 00 | 12 | 2h35m | | Interesting, Vector Fields
@@ -226,7 +226,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific, Priority
  Dynamo Essential Training | Lynda | 00 | 29 | | | Easy
  Dynamo for Revit Project Setup | Lynda | 00 | 23 | | | Uses List@Level
- Paneling With Dynamo for Revit | Lynda | 00 | 27 | | | PRIORITY
+ ⏳ Paneling With Dynamo for Revit | Lynda | 00 | 27 | | | PRIORITY
  ✔ Dynamo for Revit Workflow | Lynda | 23 | 23 | | 2017 | Easy // Review Key Schedules from Revit Essentials (Lynda) // Idea: with x-product lacing, calculating the distance between power outlets and chairs, List.MinimumItem, then using Element.OverrideColorInView to highlight elements which are too far/close
  [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
  ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
