@@ -255,6 +255,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Display](http://dictionary.dynamobim.com/#/Display) | Dynamo dictionary | 00.00 | 02.01 | | |
  [Geometry](http://dictionary.dynamobim.com/#/Geometry) | Dynamo dictionary | A.00 | T.03 | | | A = Arc, T = Tessellation
  [Revit](http://dictionary.dynamobim.com/#/Revit) | Dynamo dictionary | S.00 | V.V3D | | | S = Selection, V = Views
+ |  |  |  |  | |  |
+ | Dynamo Packages |  |  |  | |  |
+ |  |  |  |  | |  |
+ [Dynashape](https://www.youtube.com/watch?v=h8DUVX6EpAY&list=PLapoQ_9M-ujcIKw0UmGY5pHhcoeWGJA2-) | Long Nguyen | 00 | 05 | | | [installation instructions at github](https://github.com/LongNguyenP/DynaShape), Open Source Physics engine for Dynamo similar to Kangaroo
 
 
  ### Dynamo Python
