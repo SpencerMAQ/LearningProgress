@@ -226,7 +226,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Create Custom View Filters using Dynamo | ThinkParametric | 0 | 7 | | | Very Revit-Specific, Priority
  Dynamo Essential Training | Lynda | 00 | 29 | | | Easy
  Dynamo for Revit Project Setup | Lynda | 00 | 23 | | | Uses List@Level
- ⏳ Paneling With Dynamo for Revit | Lynda | 08 | 27 | 2h51m | 2018 | Clockwork, LunchBox, Ampersand, Quads from Rectangular Grid, Spring Nodes // Ch1: 01-08 // Ch2:
+ ⏳ Paneling With Dynamo for Revit | Lynda | 10 | 27 | 2h51m | 2018 | Good, 8.4/10 // Clockwork, LunchBox, Ampersand, Quads from Rectangular Grid, Spring Nodes // Ch1: 01-08 // Ch2:
  ✔ Dynamo for Revit Workflow | Lynda | 23 | 23 | | 2017 | Easy // Review Key Schedules from Revit Essentials (Lynda) // Idea: with x-product lacing, calculating the distance between power outlets and chairs, List.MinimumItem, then using Element.OverrideColorInView to highlight elements which are too far/close
  [BIM: Advanced Computational Design](https://academy.autodesk.com/curriculum/bim-advanced-computational-design) | Autodesk Design Academy | 0 | 30 | | | [The same as this](https://www.youtube.com/watch?v=g4-TZngbtL8&list=PLAQfn-QKbiAnAHH2_WCO402q-PmQzaTnT), AKA
  ✔ [01 Computational Design for BIM with Dynamo](https://www.youtube.com/watch?v=tjSVxWw19ew&list=PLAQfn-QKbiAlBV8_ciUa4USacSITkLCt9) | Autodesk Education | 10 | 10 | | 2017 | Priority, [Dataset](http://www.dynamobim.org/wp-content/links/Introductory_Datasets_092.zip), I would bet that majority of people would find this confusing unless they know GH, [Mirror](https://academy.autodesk.com/curriculum/bim-computational-design)
