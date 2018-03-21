@@ -79,9 +79,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
  Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | |
  Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
- View Optimization Using Galapagos For Grasshopper | ThinkParametric | 0 | 10 | | |
- Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 0 | 6 | | | Geom Pipeline
- Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 0 | 6 | 1hr 49 | | Kangaroo 2, Good
+ View Optimization Using Galapagos For Grasshopper | ThinkParametric | 00 | 10 | | |
+ Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 00 | 6 | | | Geom Pipeline
+ Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 00 | 6 | 1hr 49 | | Kangaroo 2, Good
+ Deconstructing the Serpentine Pavilion | ThinkParametric | 00 | 12 | 2hr58m | | HIGH PRIORITY
  Grasshopper Essential Training | Lynda | 00 | 49 | | | PRIRITY, with LB/HB Tutorials
  [Grasshopper: Architectural Prototyping](https://www.lynda.com/tutorial/667360) | Lynda | 00 | 30 | | |
  [Computation Practice Spring 2015](https://www.youtube.com/watch?v=JxKBGVIig7U&list=PLsDYCyUR8mCSJBMl5trSBkt1L4HDgDe7k) | Jeremy Roh | 00 | 48 | | | Comprehensive, GH+Dynamo+Revit, Priority
