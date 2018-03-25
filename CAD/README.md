@@ -51,6 +51,11 @@ https://github.com/gtalarico/python-revit-resources (VI!)
 
 
 ### Grasshopper
+Ongoing | Completed | Total
+:-- | :-- | :--
+02 | 06 | 55
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
@@ -127,12 +132,22 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
 ### Rhino
+Ongoing | Completed | Total
+:-- | :-- | :--
+01 | 00 | 01
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 |
 
 
 ### Python
+Ongoing | Completed | Total
+:-- | :-- | :--
+02 | 02 | 11
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
@@ -154,6 +169,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
 ### C#
+Ongoing | Completed | Total
+:-- | :-- | :--
+00 | 00 | 08
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [C#_1_Intro to C# Scripting in Grasshopper](http://designalyze.com/course/intro-c-scripting-grasshopper) | designalyze, Z. Downey | 0 | 10 | |  |
@@ -169,6 +189,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ## Revit-based
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 05 | 13 | 44
+
 
  ### Revit
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -183,12 +207,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Revit Structure 2016 Essential | Lynda | 00 | 12 | | | 12 Chap
  Creating Revit Templates, Views and Sheets  | Lynda | 00 | 04 | | | 4 Chap
  Sprinkler Design with Revit  | Lynda | 00 | 04 | | | Priority, 6 Chaps
- ⏳ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
+ Revit for Interior Design Space Planning  | Lynda/Ed Cotey | 00 | 36 | | | 7 Chaps, G3
  ⏳ [Learning Autodesk Revit Architecture 2015](https://www.safaribooksonline.com/library/view/learning-autodesk-revit/9781771372268/) | O'Reilly | 21 | 21 | | 2016 | Need to REVIEW!
  ✔ Massing With Revit | InfiniteSkills/Ed Cotey | 06.01 | 06.01 | | 2017 | 31 Videos, Conceptual Mass // Masses off by default, will not print or export unless on in VG, Mass types - Mass Family (built-in, place mass, primitive), In-place, Conceptual family mass (from family editor, drawn in fam editor then loaded into project), You can do sched fields that are results of calculations // Order of felxibility: library forms, in-place mass, from fam editor // Mass Revolve - profile and axis (axis drawn on ref plane), Sweep (can be two profiles on each end, use point to create perp frame) // blend = composed of 2 or more 2d profiles connected by a common path // surfaces(extruded lines), loft (2 or more profiles) // 3D control (Edit in place) // X-ray mode (select edge > Modify > Form Element > X-ray) // Edit Profile (Edit in place > Select edge > Edit Profile > Pick edge, workplane viewer) // Adding edges/profiles (click edge > Form Element), then use x-ray for more control // Divide Surface + apply pattern-based curtain panels, adjust UV rotation // Modify > Geom split surface to apply diff materials to same wall // Wall or Roof by face, System // Update to Face // Add edge to new wall // Properties > Identity > Usage // 0503: You can duplicate Default Mass floor, apply color to floors using paint // 0504 (Schedule for analysis): Use Properties > 'Mark' to indicate the level of a floor for use in schedules, you could also use Conditional formatting to identify numbers that don't pass a certain criteria you make
  [Advanced Revit Architecture 2015](https://www.safaribooksonline.com/library/view/advanced-revit-architecture/9781771372275/) | InfiniteSkills | 0 | 26 | | | 26 Chapters
  ✔ [Learning Revit Structure 2015](https://www.safaribooksonline.com/library/view/learning-revit-structure/9781771372657/) | O'Reilly/InfiniteSkills | 18.01 | 18.01 | | 2018 | Very Comprehensive (prioritize over Lynda - Revit Structure), same as [this](http://shop.oreilly.com/product/0636920041443.do) // advanced to: 0906 to 1013, 1101- 1204 // skipped 1012 // Insert > Insert from File > Insert Views from FIle (importing drafting views from another revit file)// WORKSAHING!!!!
- ⏳ Revit - Stairs And Railings | InfiniteSkills | 0.0 | 12.4 | | | Very Comprehensive, Priority
+ Revit - Stairs And Railings | InfiniteSkills | 0.0 | 12.4 | | | Very Comprehensive, Priority
  Revit Architecture - Roof Design Training Video | InfiniteSkills | 0 | 7.4 | | | Priority
  Learning Autodesk Revit Architecture 2016 | O'Reilly | 0 | 143 | | | Very Comprehensive
  ✔ Revit Landscape An Introduction to Revit and Site Modeling | Udemy | 5.4 | 5.4 | | 2017 | 5 Chaps, 7/10, A lot of unexplained things I don't understand
@@ -203,7 +227,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ Creating Detail Drawings in Revit | Digital Tutors | 08 | 08 | 2+ hrs | 2017 | 6.5/10, Use Object Styles, View>Cut Profile, Ref Planes
  ✔ Modeling a Steel Structure in Revit | Digital Tutors | 10 | 10 | 2+ hrs | 2018 | for KA Quad, I hate imperial units
  ✔ Storefront, Curtain Walls, and Curtain Systems in Revi | Pluralsight  | 21 | 21 | 1 day | 2017 | Good, Corner Mullions, Pattern-based C. Walls, Select on Gridline, Custom C. wall panels, uncommon uses - rail, cabinet
- ⏳ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
+ Revit Essentials Design Development Techniques for Interiors | Pluralsight  | 00 | 53 | | | Priority, High Quality
  [BIM Methods Spring 2012](https://www.youtube.com/watch?v=HBbrRjKknlw&list=PLsDYCyUR8mCQzckm6KsqGpvN9UoI3v2_Q) | Jeremy Roh  | 00 | 26 | | | [Full Archive](http://jrohdesign.com/revit//authorized_users/archives/), Low pririty // This semester covered the making of parametric bridges with complex forms and adaptive components; as well as, the methods of developing skyscrapers for New York City.
  [Solar Decathlon Workshops Summer 2012](https://www.youtube.com/watch?v=uwSDETu_uTc&index=11&list=PLsDYCyUR8mCRjZuJRG_kSMY_VjtGuMNth) | Jeremy Roh  | 00 | 11 | | | Designed to cover an overview of modeling in all parts of the Revit Project, Family, and Conceptual Design environments; as well as, teach documentation per the Solar Decathlon and Professional Office Standards.
  [BIM Methods Fall 2012](https://www.youtube.com/watch?v=JxH1EqbSh_s&list=PLsDYCyUR8mCRZE9rnFP9z2j8oAuDgsN3I) | Jeremy Roh  | 00 | 26 | | | This semester class taught the making, detailing, and rendering of transit and tower components; as well as, this class covered the advanced modeling skills associated with parametric towers, adaptive components, curtain panel pattern-based families, double-curtain wall systems, and using tools beyond their original intent.
@@ -219,9 +243,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ### Dynamo
- Completed | Total
- :-- | :--
- 11 | 33
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 01 | 11 | 33
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -268,6 +292,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ### Dynamo Python
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 05 | 03 | 15
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [DynamoBIM Python Beginner's Guide](https://www.youtube.com/watch?v=GQaeIwIOIXs&list=PLlyMZ5IcKccjERFZwQgagGYFvitBKxVnu) | Danny Bentley | 09 | 17 | | 2018 | Watch Videos in Order, Skipped: 04: WindowsForms // `clr.AddReference(System.Windows.Forms)`, `from System.Windows.Forms import *`, similar to PyQT // Skipped 05: Read Excel // Skipped 06: Write Excel  // Already know 07: get-set parameters `param = get_Parameter(BuiltInParameter.<>) -> param.Set(<value>)` // 08: `doc.Create.NewFloor` // Known 09: FilteredElementCollector
@@ -287,6 +316,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Dynamo SubTransactions](https://github.com/DynamoDS/Dynamo/issues/3520) | KSobon/Steell | 01 | 01 | | | discovered from archilab: Elements on sheet // SubTransactions: provides mechanisms for creating a transaction within a Transaction(usually dynamo transactions) // Usually used for getting the elements that would be deleted if a host object was deleted // part of the `DB` [namespace](http://www.revitapidocs.com/2018.1/801e5f17-cab0-044d-835c-a39592374f89.htm) // also discusses issues about having to regenerate the DB in order for some parameters to be 'settable' inside a python script
 
   ### Dynamo Packages
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 00 | 03 | 04
+
+
  Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  :-- | :-- | :-- | :-- | :-- | :-- | :--
   ✔ [Add new nodes to existing packages](https://github.com/DynamoDS/Dynamo/issues/470) | DynamoDS issues | 01 | 01 | | 2018 | Simply add to `C:\<>\Mi\AppData\Roaming\Dynamo\Dynamo Revit\1.3\packages\<package name>` the dyf files or whatever (including other files), then Manage Packages > Publish Version
@@ -296,6 +330,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ### Revit API
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 02 | 06 | 18
+
+
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  | [Download Revit SDK](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
@@ -323,6 +362,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 
  ## VCS
+ Ongoing | Completed | Total
+ :-- | :-- | :--
+ 01 | 01 | 01
+
 
  ### Github
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
