@@ -89,6 +89,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Parametric Design of Aqua Tower, Chicago, IT. from Junfei Chen](http://chenjunfei0707.blogspot.com/2014/11/project-1-parametric-design-of-aqua.html) | Junfei Chen 陈骏飞 | 02 | 02 | | 2017 | [Part 2](http://chenjunfei0707.blogspot.com/2014/12/project-2-improvement-of-project-1.html), [video](https://www.youtube.com/watch?v=fPWn1JzZY8g), Surprisingly extremely easy, Not only is the Aqua Tower a giant radiator fin, it's also too basic by GH standards
  ⏳ [SFDUG Jan 2018 - Machine Learning and Computational Design Adoption](https://www.youtube.com/watch?v=tTUGVeeNs9U&t=1612s) | San Francisco Dynamo User Group | 00:00 | 01:12 | |
  ⏳ [GrasshopperChallenges](https://github.com/dantaeyoung/GrasshopperChallenges) | dantaeyoung | 00 | ?? | |
+ [The Geometry of Bending Blospot](http://thegeometryofbending.blogspot.com.au/) | Mårten Nettelbladt | 00 | ?? | | Kangaroo, Physics, Math, Curvature, [vimeo](https://vimeo.com/m3rten)
  |  |  |  |  | |  |
  | [Space Planning](http://www.grasshopper3d.com/group/space-syntax) |  |  |  |  |  |
  |  |  |  |  | |  |
