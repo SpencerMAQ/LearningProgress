@@ -53,20 +53,21 @@ https://github.com/gtalarico/python-revit-resources (VI!)
 ### Grasshopper
 Ongoing | Completed | Total
 :-- | :-- | :--
-02 | 06 | 55
+02 | 06 | 57
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 0 | 3 | | |
+ [Developing Your Own Grasshopper Plugin](http://designalyze.com/course/developing-your-own-grasshopper-plugin) | designalyze, Z. Downey | 00 | 03 | | |
+ Utilizing Algorithms to Design a Parametric Skyscraper in Grasshopper | Digital Tutors | 00 | 25 | 4h5m | | Priority
  ✔ InfiniteSkills - Visual Programming in Rhino3D with Grasshopper Training | IS | 69 | 69 | 5h51m | 2016 |
- ✔ [Develop Parametric Architecture with Grasshopper](https://www.udemy.com/develop-parametric-architecture-with-grasshopper/) | UD | 00 | 36 | | 2016 | Twisting Tower, Galapagos
+ ✔ [Develop Parametric Architecture with Grasshopper](https://www.udemy.com/develop-parametric-architecture-with-grasshopper/) | UD | 36 | 36 | | 2016 | Twisting Tower, Galapagos
  ✔ [Exlab Video Tut Series](https://vimeo.com/album/2282897) | Gwyllim Jahn / EXLAB | 10.03 | 10.03 | 11 hrs | 2018 | `8.9/10`,  [How'd this become an 'attack site'?](http://exlab.org/2011/09/grasshopper-resources/), http://www.grasshopper3d.com/page/tutorials-1, https://vimeo.com/exlab, Notes to self regarding the solution presented to the Traveling Salesman in this series: `>` The solution was assuming that the shortest path would be the points connected by the next closest point which might not be the case (the solution is probably naive) `>` See [this](https://media.wired.com/photos/59338957d80dd005b42b29d5/master/w_660,c_limit/tsp_map.jpg), the points were probably not the next closest but created the shortest path due to lack of overlap // skipped 06.04: unrolling driftwood (`Review though, USES PYTHON!`) // 06.05: understand why gradient descent is equal to pulling point down then doing `Surface Closest Point`.. // skipped 06.06: Fractals. // Kangaroo is DOPE // 07.04: Too Much Planarization = Messy Chaotic Weirdness... // 07.06: Voussoir Cloud (https://iwamotoscott.com/projects/voussoir-cloud) // 07.11: http://robertstuart-smith.com/filter/projects (Anemone) // 7.12: L-Systems, Hoopsnake // http://erase.net/projects/l-systems/ // Anemone is more complex than Hoopsnake accdg to this // anemone - useful for large amounts of iterations (e.g. gradient descent) // Hoopsnake - finite control, stepping into loop/ // Interesting but skipped: 07.13: OpenStreetMap / Elk Plugin / Open source, great API // Skipped: 07.14 - Firefly, Live Data Feed using webcams // 07.15: [millipede website](http://www.sawapan.eu/) // Skpped 09.01 (easy): just laying out a triangulated mesh of the voussoir cloud for CNC, diff is using list length and square root // 10.01: Soumaya Museum // Viewed half of it - 11.03: review as needed (PV using Archsim)
  ✔ [Intermediate Grasshopper](https://www.youtube.com/watch?v=kNYe_f4ux4w&list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW7) | MODELAB | 21 | 21 | 2h22m | 2016 |
  [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | 2h26m | | AKA Advanced Data Trees
- [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | 2h20m | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists)
+ [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 0 | 15 | 2h20m | | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists), HIGH PRIORITY
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
- [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | 2h37m | | Lunchbox?
+ [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 00 | 12 | 2h37m | | Lunchbox?, Low Priority but still a Must watch
  ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
@@ -78,13 +79,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [GRASSHOPPER ARCHITECTURAL](http://www.rese-arch.org/bundle/architectural) | rese-arch | 00 | 04 | 8:25 | |
  [GRASSHOPPER ADVANCED](http://www.rese-arch.org/bundle/advanced) | rese-arch | 00 | 03 | 11:12 | | Mesh, Paneling, Kangaroo
  [GRASSHOPPER ITERATIVE](http://www.rese-arch.org/bundle/iterative) | rese-arch | 00 | 10 | 12:06 | | Loops and Motion, Recursion and Trees, Growth, L Systems and Sierpinski Triangle, Flocking
- [Extending Grasshopper](https://www.youtube.com/playlist?list=PLXekJiZsSipBKDtaSB6iHfCaUotzY3jFq) | Daniel Christev | 00 | 07 | 3 hrs| | Kangaroo
+ [Extending Grasshopper](https://www.youtube.com/playlist?list=PLXekJiZsSipBKDtaSB6iHfCaUotzY3jFq) | Daniel Christev | 00 | 07 | 3 hrs| | Kangaroo, VERY HIGH QUALITY
+ [Advanced Grasshopper](https://www.youtube.com/playlist?list=PLXekJiZsSipBKDtaSB6iHfCaUotzY3jFq) | Daniel Christev | 00 | 07 | 7h 5m| | VERY HIGH QUALITY
  |  |  |  |  | |  |
  |  |  |  |  | |  |
  Anemone 101 - Using Loops in Grasshopper | ThinkParametric | 0 | 9 | | |
  Grasshopper 102 - Data Lists and Tree Structures | ThinkParametric | 0 | 8 | | |
  Creating Models for Development Analysis with Grasshopper | ThinkParametric | 0 | 5 | | | Based on site plan, Zoning
- View Optimization Using Galapagos For Grasshopper | ThinkParametric | 00 | 10 | | |
+ View Optimization Using Galapagos For Grasshopper | ThinkParametric | 00 | 10 | 2h10m | | High PRIORITY
  Creating a Smart Sketch Tool with Grasshopper | ThinkParametric | 00 | 6 | | | Geom Pipeline
  Kangaroo 101: Physics Engine & Form-Finding | ThinkParametric | 00 | 6 | 1hr 49 | | Kangaroo 2, Good
  Deconstructing the Serpentine Pavilion | ThinkParametric | 00 | 12 | 2hr58m | | HIGH PRIORITY
@@ -134,33 +136,37 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Rhino
 Ongoing | Completed | Total
 :-- | :-- | :--
-01 | 00 | 01
+01 | 00 | 03
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 9 | 15 | | 2017 |
+ ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 09 | 15 | | 2017 |
+ Creating Conceptual Architectural Diagrams | ThinkParametric | 00 | 10 | | | V-ray, Photoshop, Massing Diagrams, Very Good
+ Recreate the Villa Savoye using Rhino 3D | ThinkParametric | 00 | 21 | 3h28m | |
+ Learn how to design an organic shaped building envelope (Heydar Aliyev centre) | ThinkParametric | 00 | 20 | 3h23m | |
 
 
 ### Python
 Ongoing | Completed | Total
 :-- | :-- | :--
-02 | 02 | 11
+02 | 02 | 12
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 7 | 24 | | 2016 | Apparently based on NOC
- [Nature of Code: Forces (chapter 2) Python](https://www.youtube.com/watch?v=TrKXbfTwIvE&list=PL5Up_u-XkWgPgebtPEAfck3UEPZPHBB1D) | Jake Hebbert | 0 | 13 | | |
- [Nature of Code: Oscillation(chapter 3) translation to Python](https://www.youtube.com/watch?v=QIdK4yv8nsY&list=PL5Up_u-XkWgMsZpYk8GW9TpGk0GvC6DzR) | Jake Hebbert | 0 | 25 | | |
- [Nature of Code: Particle Systems (chapter 4).](https://www.youtube.com/watch?v=nWkyLMm_Fdw&list=PL5Up_u-XkWgNk6l5V1bS26hpbhsUSohF2) | Jake Hebbert | 0 | 12 | | |
- [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 0 | 18 | | |
+ ⏳ ["Nature Of Code" Tutorials for Python in Grasshopper](https://www.youtube.com/watch?v=Kyi_K85Gsm4&list=PL5Up_u-XkWgP7nB7XIevMTyBCZ7pvLBGP) | Jake Hebbert | 07 | 24 | | 2016 | Apparently based on NOC
+ [Nature of Code: Forces (chapter 2) Python](https://www.youtube.com/watch?v=TrKXbfTwIvE&list=PL5Up_u-XkWgPgebtPEAfck3UEPZPHBB1D) | Jake Hebbert | 00 | 13 | | |
+ [Nature of Code: Oscillation(chapter 3) translation to Python](https://www.youtube.com/watch?v=QIdK4yv8nsY&list=PL5Up_u-XkWgMsZpYk8GW9TpGk0GvC6DzR) | Jake Hebbert | 00 | 25 | | |
+ [Nature of Code: Particle Systems (chapter 4).](https://www.youtube.com/watch?v=nWkyLMm_Fdw&list=PL5Up_u-XkWgNk6l5V1bS26hpbhsUSohF2) | Jake Hebbert | 00 | 12 | | |
+ [Nature of Code: Autonomous Agents (chapter 6) translated](https://www.youtube.com/watch?v=mk4lc9Zy5jc&list=PL5Up_u-XkWgPw4wRmEgtfKLPZ2TTW3341) | Jake Hebbert | 00 | 18 | | |
  ✔ [RHINO PYTHON](https://www.youtube.com/watch?v=wdY1T0XLzkE&list=PL594EB4471E93F2DA) | Jose Sanchez | 17 | 17 | | 2016 | [Mirror Link](https://www.plethora-project.com/education/2017/5/31/rhino-python-programming)
- ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 2 | 2 | | 2016 | Review Recursive Aggr.
- [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 0 | 24 | | | Vimeo
- [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 0 | 5 | | |
+ ✔ [PYTHON in Grasshopper for Rhino3D](https://www.youtube.com/watch?v=3Z4YVCOk02k&list=PLj1JeZhReAqeTnh6b0uL58C2aQlykPzce) | Jose Sanchez | 02 | 02 | | 2016 | Review Recursive Aggr.
+ [Intro to Scripting with Python for Rhino](http://designalyze.com/course/intro-scripting-python-rhino) | designalyze, Z. Downey | 00 | 24 | | | Vimeo
+ [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 00 | 05 | | |
  ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
- ⏳ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 3 | 15 | | | Incl. Data Trees
+ Creating a Waffle Structure with Grasshopper and Rhinoscript | ThinkParametric | 00 | 09 | 1hr19m | | `rhinoscripsyntax`
+ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 03 | 15 | | | Incl. Data Trees
  |  |  |  |  | |  |
  | [GH Developer Docs](http://developer.rhino3d.com/) |  |  |  |  |  |
  |  |  |  |  | |  |
