@@ -213,7 +213,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ✔ [Philadelphia Dynamo User Group - Sept 12 Meeting - Ladybug, Honeybee, & Butterfly](https://www.youtube.com/watch?v=RB9ly1sRxtc) | Philadelphia Dynamo User Group | 1 | 1 | | 2017 |
- [What You Have Been Told About Parametric Environmental Modeling Is Wrong!](https://vimeo.com/262235205) | C. Mackey, M. Roudsari | 00:00 | 01:12 | | | London
+ ✔ [What You Have Been Told About Parametric Environmental Modeling Is Wrong!](https://vimeo.com/262235205) | C. Mackey, M. Roudsari | 01:12 | 01:12 | | | London, Brilliant!, Some History and Caution with Parametric Modeling, @31:12 -- super cool connection b/n environmental simulations and physical models, removes misconceptions about Computational Design
 
 
 ### EnergyPlus
