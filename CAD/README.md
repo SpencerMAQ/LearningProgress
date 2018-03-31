@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Rhino-based](#rhino-based)
+  - [Mathematics](#mathematics)
   - [Grasshopper](#grasshopper)
   - [Rhino](#rhino)
   - [Python](#python)
@@ -49,6 +50,17 @@ https://github.com/gtalarico/python-revit-resources (VI!)
 ## Rhino-based
 
 
+### Mathematics
+Ongoing | Completed | Total
+:-- | :-- | :--
+01 | 00 | 01
+
+
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ ⏳ [Essential Mathematics for Computational Design, Third Ed.](http://www.rhino3d.com/download/rhino/5.0/EssentialMathematicsThirdEdition/) | Rajaa Issa / Mcneel | 01 | 79 | | 2018 | Red Cover, Review the Math behind NURBS, [second ed. mirror](http://www.grasshopper3d.com/profiles/blogs/essential-mathematics-second) // 01-24: Easy Vector Math // 28-35: Matrices as Transformations (already done with 3b1b's Linear Algebra)
+
+
 
 ### Grasshopper
 Ongoing | Completed | Total
@@ -67,7 +79,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Advanced Grasshopper](https://www.youtube.com/watch?v=kL8tAdl3q6M&list=PLGV167zE8gnVRrzCCWvdlHYh3XQWTXFDo) | MODELAB | 0 | 12 | 2h26m | | AKA Advanced Data Trees
  ✔ [Parametric Pleating](https://www.youtube.com/watch?v=IpRw97HruSo&list=PLGV167zE8gnUl7Zj1bLzsEbn2CWqBsYQH) | MODELAB | 15 | 15 | 2h20m | 2018 | [Other tuts](https://www.youtube.com/channel/UCFwIL20fwOmTUkxJgOPk5Jg/playlists), http://www.laurenceking.com/us/folding-techniques-for-designers-from-sheet-to-form/, Origami Simulation -> http://tsg.ne.jp/TT/software/index.html (i.e. visualizing 2D motifs to 3D), Ideas/Inspiration -> Keyword: Parametric Origami
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
- ⏳ [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 07 | 12 | 2h37m | 2018 | Lunchbox?
+ ✔ [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 12 | 12 | 2h37m | 2018 | Lunchbox?
  ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
