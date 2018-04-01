@@ -65,7 +65,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Grasshopper
 Ongoing | Completed | Total
 :-- | :-- | :--
-03 | 09 | 57
+03 | 10 | 57
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -134,7 +134,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  | [All GH Components](https://rhino.github.io/) |  |  |  |  |  |
  |  |  |  |  | |  |
  ✔ Params | McNeel | util.gene_pool | util.gene_pool | | 2018 | study in top to bottom, left to right order, Interesting: Cherry Picker, Jump // Review: [Fitness Landscape](http://www.grasshopper3d.com/photo/fitness-landscape) (probably for viewing the selection process as a graph), [vid](http://www.grasshopper3d.com/video/fitness-landscape-topology), How to use Color Wheel
- ⏳ Maths | McNeel | util.blur numbers | util.create_complex | | 2018 | Can't Think of a need for `Consecutive Domains` // Find Domain: Find Domain that contains a specific value from a list of domains // [logic gates](https://en.wikipedia.org/wiki/Logic_gate) // Circumcentre: creates a point @ the center of the perpendicular bisectors of a triangle // Incentre: from angle bisectors
+ ✔ Maths | McNeel | util.blur numbers | util.create_complex | | 2018 | Can't Think of a need for `Consecutive Domains` // Find Domain: Find Domain that contains a specific value from a list of domains // [logic gates](https://en.wikipedia.org/wiki/Logic_gate) // Circumcentre: creates a point @ the center of the perpendicular bisectors of a triangle // Incentre: from angle bisectors // Unk: SMOOTH NUMBERS (what the hell does this do)
  Sets | McNeel | List.Insert Items | Tree.Replace Paths | | |
  Vector | McNeel | Field.Line Charge | Vector.Vector Length | | |
  Curve | McNeel | Analysis.Control Points | Util.Smooth Polyline | | |
