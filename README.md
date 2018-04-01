@@ -578,7 +578,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### InDesign
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-[InDesign CC 2017 Essential Training](https://www.linkedin.com/learning/indesign-cc-2017-essential-training) | Lynda | 01.00 | 15.01 | 6h43m | | Priority
+⏳ [InDesign CC 2017 Essential Training](https://www.linkedin.com/learning/indesign-cc-2017-essential-training) | Lynda | 02.01 | 15.01 | 6h43m | | https://indesignsecrets.com/ (free ID Templates)
 [InDesign: Elements of a Layout](https://www.lynda.com/InDesign-tutorials/InDesign-Elements-Layout/447317-2.html) | Lynda | 00.00 | 05.01 | 1h46m | |
 [InDesign: Typography Part 1](https://www.lynda.com/InDesign-tutorials/InDesign-Typography-Part-1-Revision-2015/463444-2.html) | Lynda | 00.00 | 07.01 | 2h21m | |
 [InDesign: Typography Part 2](https://www.lynda.com/InDesign-tutorials/InDesign-Typography-Part-2-Revision-2016/463445-2.html) | Lynda | 00.00 | 08.01 | 2h45m |
