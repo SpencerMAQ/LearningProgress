@@ -30,6 +30,7 @@
   - [IronPython](#ironpython)
   - [PyCharm](#pycharm)
   - [Computer Engineering](#computer-engineering)
+  - [Web Development](#web-development)
 
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
@@ -411,6 +412,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  [Ben Eater](https://www.youtube.com/user/eaterbc) | None | 0 | 24 | | | Recommended by 3b1b
+
+
+### Web Development
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | Udemy | 000 | 197 | 31h53m | | PRIORITY AF
+[Full Stack Web Development with Python (WEB2PY)](https://www.pluralsight.com/courses/full-stack-web-development-python-web2py) | Pluralsight / Terry Toy | 01.00 | 09.07 | 3h2m | | PRIORITY AF
 
 
 ----
