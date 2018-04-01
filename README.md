@@ -57,6 +57,9 @@
 - [Pedagogy](#pedagogy)
   - [Incremental Reading](#incremental-reading)
 
+- [Health](#health)
+  - [Sleep](#sleep)
+
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
 This is a collection of all the independent studies I have done and plan to do (excluding those from Khan Academy and Goodreads which have their own tracking systems)
@@ -584,6 +587,17 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [BuboFlash](https://buboflash.eu/bubo5/log-in?called-from=/bubo5/homepage) | P. Wasik | 0 | 1 | | | Has the ability to import PDFs?
  [Detailed SuperMemo Guide](http://www.super-memory.com/help/read.htm) | P. Wozniak | 0 | 8.0 | | | Detailed
 
+
+----
+
+## Health
+
+
+
+### Sleep
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ [Sleep Hacking Masterclass: Sleep Faster and Feel Refreshed](https://www.udemy.com/sleep-hacking-masterclass-sleep-faster-and-feel-refreshed/) | Udemy | 00 | 38 | 03h49m | |
 
 ----
 
