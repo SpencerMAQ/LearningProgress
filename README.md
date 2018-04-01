@@ -525,6 +525,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 [MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/) | MIT | ?? | ?? | | |
 [edX Architecture Courses](https://www.edx.org/course/subject/architecture) | eDX | ?? | ?? | | |
 [Abstract: The Art of Design - Bjarke Ingels: Architecture  ](http://www.imdb.com/title/tt6397642/?ref_=ttep_ep4) | Netflix | 00:00 | 00:45 | | | Priority
+[The Architectural Imagination](https://www.edx.org/course/architectural-imagination-harvardx-gsd1x#!) | eDX/HarvardX | ?? | ?? | | |
 
 ### Optimization
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -555,7 +556,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Introduction to Graphic Design | Lynda | 25 | 65 | 06h:32m | 2018 | PS, Illu, InDesign
+⏳ Introduction to Graphic Design | Lynda | 30 | 65 | 06h:32m | 2018 | PS, Illu, InDesign // https://www.fontsquirrel.com/ // https://www.dafont.com/ // https://typekit.com/ (for CC subscribers) // [High Quality InDesign samples](http://www.bestindesigntemplates.com/portfolio/)
 Foundations of Layout and Composition | Lynda | 0.0 | 7.2 | | |
 Learning Graphic Design - Layouts | Lynda | 01 | 13 | 01h:02m | |
 Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
