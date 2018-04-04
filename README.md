@@ -607,7 +607,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Sleep
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Sleep Hacking Masterclass: Sleep Faster and Feel Refreshed](https://www.udemy.com/sleep-hacking-masterclass-sleep-faster-and-feel-refreshed/) | Udemy | 00 | 38 | 03h49m | |
+ [Sleep Hacking Masterclass: Sleep Faster and Feel Refreshed](https://www.udemy.com/sleep-hacking-masterclass-sleep-faster-and-feel-refreshed/) | Udemy | 02 | 38 | 03h49m | |
 
 ----
 
