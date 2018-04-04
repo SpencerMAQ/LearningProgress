@@ -135,8 +135,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  |  |  |  |  | |  |
  ✔ Params | McNeel | util.gene_pool | util.gene_pool | | 2018 | study in top to bottom, left to right order, Interesting: Cherry Picker, Jump // Review: [Fitness Landscape](http://www.grasshopper3d.com/photo/fitness-landscape) (probably for viewing the selection process as a graph), [vid](http://www.grasshopper3d.com/video/fitness-landscape-topology), How to use Color Wheel
  ✔ Maths | McNeel | util.create_complex | util.create_complex | | 2018 | Can't Think of a need for `Consecutive Domains` // Find Domain: Find Domain that contains a specific value from a list of domains // [logic gates](https://en.wikipedia.org/wiki/Logic_gate) // Circumcentre: creates a point @ the center of the perpendicular bisectors of a triangle // Incentre: from angle bisectors // Unk: SMOOTH NUMBERS (what the hell does this do)
- ⏳ Sets | McNeel | Tree.Entwine | Tree.Replace Paths | | 2018 | Skipped: Pick n Choose // Combine Data //     ___ Can't think of usages yet for: Find Similar Member, Delete Consecutive, Key/Value Search
- Vector | McNeel | Field.Line Charge | Vector.Vector Length | | |
+ ⏳ Sets | McNeel | Tree.Split_Tree | Tree.Replace Paths | | 2018 | Skipped: Pick n Choose // Combine Data // MATCH TREE // SPLIT TREE    ___ Can't think of usages yet for: Find Similar Member, Delete Consecutive, Key/Value Search
+ ⏳ Vector | McNeel | Plane.Adjust_Plane | Vector.Vector Length | | 2018 |
  Curve | McNeel | Analysis.Control Points | Util.Smooth Polyline | | |
  Surface | McNeel | Analysis.Box Corners | Util.Offset Loose | | |
  Mesh | McNeel | Analysis.Deconstruct Face | Util.Occlusion | | |
