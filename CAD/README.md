@@ -39,6 +39,11 @@ http://chris-malcolm.com/projects/malcstools/
 http://darenatwork.blogspot.com/  (API)  
 https://boostyourbim.wordpress.com/  
 
+http://www.co-de-it.com/wordpress/code/grasshopper-code
+https://www.paragroup.org/code
+http://www.pearltrees.com/u/11387487-grasshopper-code
+https://codeofspace.com/tutorials/
+
 Important: Dynamo/Python  
 https://github.com/architecture-building-systems/revitpythonshell (Revit Python Shell)  
 https://github.com/dannysbentley/pyDynamo/blob/master/ModifyColor.py (Python sample code)  
