@@ -114,6 +114,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  |  |  |  |  | |  |
  [Designing with Space Syntax](https://www.researchgate.net/publication/283311205_Designing_with_Space_Syntax_A_configurative_approach_to_architectural_layout_proposing_a_computa-_tional_methodology) | Pirouz Nourian | 00 | 11 | | | SS
  [A SYNTACTIC ARCHITECTURAL DESIGN METHODOLOGY](https://www.researchgate.net/publication/283311082_A_SYNTACTIC_ARCHITECTURAL_DESIGN_METHODOLOGY_Integrating_real-time_Space_Syntax_analysis_in_a_configurative_architectural_design_process) | Pirouz Nourian | 00 | 16 | | | SS
+ [Introduction to PanelingTools for Rhinoceros 5](https://vimeo.com/112434511) | Rhino Tutorials | 00:00 | 01:47 | | |
  |  |  |  |  | |  |
  | Other Plugins |  |  |  |  |  |
  |  |  |  |  | |  |
