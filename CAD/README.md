@@ -44,6 +44,9 @@ https://www.paragroup.org/code
 http://www.pearltrees.com/u/11387487-grasshopper-code
 https://codeofspace.com/tutorials/
 
+Free books:
+http://icd.uni-stuttgart.de/?page_id=17764
+
 Important: Dynamo/Python  
 https://github.com/architecture-building-systems/revitpythonshell (Revit Python Shell)  
 https://github.com/dannysbentley/pyDynamo/blob/master/ModifyColor.py (Python sample code)  
