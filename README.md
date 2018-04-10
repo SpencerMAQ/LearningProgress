@@ -598,6 +598,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [BuboFlash](https://buboflash.eu/bubo5/log-in?called-from=/bubo5/homepage) | P. Wasik | 0 | 1 | | | Has the ability to import PDFs?
  [Detailed SuperMemo Guide](http://www.super-memory.com/help/read.htm) | P. Wozniak | 0 | 8.0 | | | Detailed
 
+### Anki
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+⏳ [Image Occlusion Enhanced](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o) | Glutanimate | 01 | 09 | | | [wiki tutorials](https://github.com/Glutanimate/image-occlusion-enhanced/wiki)
+
 
 ----
 
