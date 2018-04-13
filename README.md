@@ -602,7 +602,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Anki
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ [Image Occlusion Enhanced](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o) | Glutanimate | 07 | 09 | | 2018 | [wiki tutorials](https://github.com/Glutanimate/image-occlusion-enhanced/wiki)
+✔ [Image Occlusion Enhanced](https://www.youtube.com/watch?v=c-4xOe79epU&list=PL3MozITKTz5YFHDGB19ypxcYfJ1ITk_6o) | Glutanimate | 09 | 09 | | 2018 | [wiki tutorials](https://github.com/Glutanimate/image-occlusion-enhanced/wiki) // last vid: for converting older IO cards to IO enhanced
 ✔ [How to Use Anki Effectively - Image Occlusion Enhanced [Part 4]](https://www.youtube.com/watch?v=7pU9L0XybyI) | Med School Insiders | 06:37 | 06:37 | | 2018 | Here's a great overview by Med School Insiders on YouTube that goes over the key differences compared to older versions of IO. // New feature: You can edit cards that were already created
 
 
