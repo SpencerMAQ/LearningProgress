@@ -126,6 +126,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  |  |  |  |  | |  |
  | Other Plugins |  |  |  |  |  |
  |  |  |  |  | |  |
+ [Mantis Shrimp](https://www.youtube.com/watch?v=G7XGOX34yHk) | Konrad Sobon | 00 | ?? | | | [github](https://github.com/ksobon/MantisShrimp), [tutorial series from archi-lab](http://archi-lab.net/mantis-shrimp-tutorial-series/)
  [Crystallon](http://www.food4rhino.com/app/crystallon) | fequalsf | 00 | ?? | | | [repo](https://github.com/fequalsf/Crystallon)
  [Axolotl](http://www.food4rhino.com/app/axolotl) | worbit | 00 | ?? | | | [repo](https://github.com/dbt-ethz/Axolotl)
  [GH_CPython](https://github.com/MahmoudAbdelRahman/GH_CPython) | MahmoudAbdelRahman | 00 | ?? | | |
