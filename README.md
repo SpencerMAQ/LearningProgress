@@ -48,6 +48,7 @@
   - [Energy](#energy)
   - [Architecture](#architecture)
   - [Optimization](#optimization)
+  - [Architectural Schools](#architectural-schools)
 
 - [Art](#art)
   - [Sketching](#sketching)
@@ -540,6 +541,12 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 [Introduction to Architectural Design Optimization](https://www.researchgate.net/publication/321585376_Introduction_to_Architectural_Design_Optimization) | Thomas Wortmann | 00 | 23 | | | slightly advanced,  [mirror1](https://link.springer.com/chapter/10.1007/978-3-319-65338-9_14), [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6378490847733837824)
+
+
+### Architectural Schools
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[AA Sustainable Environmental Design MArch Jury 2018](https://www.youtube.com/watch?v=PtM04Fa8Ohw) | AA School of Architecture | 00:00 | 06:55 | | | Ladybug
 
 ----
 
