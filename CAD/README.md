@@ -91,7 +91,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
- Dynamic Patterning | MODELAB | 00 | 12 | 2h35m | | Interesting, Vector Fields
+ ⏳ Dynamic Patterning | MODELAB | 02 | 12 | 2h35m | | Very Interesting, Vector Fields
  Organic Modeling | MODELAB | 00 | 08 | 1h55m | | T-Splines, With Rhino Tutorials?
  |  |  |  |  | |  |
  |  |  |  |  | |  |
@@ -163,7 +163,7 @@ Ongoing | Completed | Total
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 10.09 | 15 | | 2018 |
+ ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 11.01 | 15.00 | | 2018 | 11.01: Curve from object Toolbar: GetIsoLine //
  Creating Conceptual Architectural Diagrams | ThinkParametric | 00 | 10 | | | V-ray, Photoshop, Massing Diagrams, Very Good
  Recreate the Villa Savoye using Rhino 3D | ThinkParametric | 00 | 21 | 3h28m | |
  Learn how to design an organic shaped building envelope (Heydar Aliyev centre) | ThinkParametric | 00 | 20 | 3h23m | |
