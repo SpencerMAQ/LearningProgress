@@ -91,7 +91,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
  Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
- ⏳ Dynamic Patterning | MODELAB | 05 | 12 | 2h35m | | Very Interesting, Vector Fields
+ ⏳ Dynamic Patterning | MODELAB | 06 | 12 | 2h35m | | Very Interesting, Vector Fields
  Organic Modeling | MODELAB | 00 | 08 | 1h55m | | T-Splines, With Rhino Tutorials?
  |  |  |  |  | |  |
  |  |  |  |  | |  |
