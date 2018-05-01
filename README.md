@@ -419,7 +419,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Web Development
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | Udemy | 002 | 197 | 31h53m | | PRIORITY AF
+⏳ [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | Udemy | 004 | 197 | 31h53m | | PRIORITY AF
 [Full Stack Web Development with Python (WEB2PY)](https://www.pluralsight.com/courses/full-stack-web-development-python-web2py) | Pluralsight / Terry Toy | 01.00 | 09.07 | 3h2m | | PRIORITY AF
 
 
