@@ -573,7 +573,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Introduction to Graphic Design | Lynda | 30 | 65 | 06h:32m | 2018 | PS, Illu, InDesign // https://www.fontsquirrel.com/ // https://www.dafont.com/ // https://typekit.com/ (for CC subscribers) // [High Quality InDesign samples](http://www.bestindesigntemplates.com/portfolio/)
+⏳ Introduction to Graphic Design | Lynda | 31 | 65 | 06h:32m | 2018 | PS, Illu, InDesign // https://www.fontsquirrel.com/ // https://www.dafont.com/ // https://typekit.com/ (for CC subscribers) // [High Quality InDesign samples](http://www.bestindesigntemplates.com/portfolio/)
 Foundations of Layout and Composition | Lynda | 0.0 | 7.2 | | |
 Learning Graphic Design - Layouts | Lynda | 01 | 13 | 01h:02m | |
 Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
@@ -581,7 +581,7 @@ Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
 ### Illustrator
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Illustrator CC 2015 One-on-One: Fundamentals | Lynda | 02.03 | 16.01 | 17h:30m | 2018 |
+⏳ Illustrator CC 2015 One-on-One: Fundamentals | Lynda | 02.04 | 16.01 | 17h:30m | 2018 |
 ⏳ Adobe Illustrator CC Tutorial | Udemy | 009 | 131 | | 2018 |
 
 ### InDesign
