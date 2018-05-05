@@ -165,10 +165,14 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [depthmaxX: Introduction to Version 10](http://archtech.gr/varoudis/depthmapX/LearningMaterial/introduction_depthmap-v10-website.pdf)| Joao Pinelo, Alasdair Turner | 07 | 60 | | 2018 | Full list of tutorials for [depthmapX](http://varoudis.github.io/depthmapX/) -> SpaceSyntax implementation in C++, [sample usage on OMA's Seattle Public Library](https://www.youtube.com/watch?v=5M1EdgI7d30)
- [Space is the machine: a configurational theory of architecture](http://www.spaceisthemachine.com/)| Bill Hillier | 00 | 11 | chapters | | [full list of books](http://www.spacesyntax.net/publications/)
+ ⏳ [depthmaxX: Introduction to Version 10](http://archtech.gr/varoudis/depthmapX/LearningMaterial/introduction_depthmap-v10-website.pdf) | Joao Pinelo, Alasdair Turner | 07 | 60 | | 2018 | Full list of tutorials for [depthmapX](http://varoudis.github.io/depthmapX/) -> SpaceSyntax implementation in C++, [sample usage on OMA's Seattle Public Library](https://www.youtube.com/watch?v=5M1EdgI7d30)
+ [Space is the machine: a configurational theory of architecture](http://www.spaceisthemachine.com/) | Bill Hillier | 00 | 11 | chapters | | [full list of books](http://www.spacesyntax.net/publications/)
  [The Social Logic of Space](http://www.cambridge.org/gb/academic/subjects/arts-theatre-culture/architecture/social-logic-space?format=PB&isbn=9780521367844#BvKdHM4Z4dmrlOBR.97)| Bill Hillier and Julienne Hanson | 000 | 296 | pages | |
- [Decoding Homes and Houses](http://www.cambridge.org/gb/knowledge/isbn/item1151407/Decoding%20Homes%20and%20Houses/?site_locale=en_GB)| Julienne Hanson | 000 | 328 | pages | |
+ [Decoding Homes and Houses](http://www.cambridge.org/gb/knowledge/isbn/item1151407/Decoding%20Homes%20and%20Houses/?site_locale=en_GB) | Julienne Hanson | 000 | 328 | pages | |
+ [Intro to Space Syntax_Day 1](http://www.slideboom.com/presentations/292558/Intro-to-Space-Syntax_Day-1) | Harvard GSD | 000 | 278 | pages | | powerpoint
+ [Intro to Space Syntax_Day 2: Between the Laptop and the Pencil](http://www.slideboom.com/presentations/292558/Intro-to-Space-Syntax_Day-1) | Harvard GSD | 00 | 83 | pages | |
+ [Space Syntax Methodology](http://discovery.ucl.ac.uk/1415080/) | UCL | 000 | 118 | pages | |
+ [Space Syntax: Online Training Program](http://discovery.ucl.ac.uk/1415080/) | UCL | ?? | ?? | | | expand this: Overview, Applying SS, Software & tuts
 
 
 ### HVAC
