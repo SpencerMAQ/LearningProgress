@@ -73,7 +73,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Grasshopper
 Ongoing | Completed | Total
 :-- | :-- | :--
-04 | 13 | 57
+05 | 13 | 57
 
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
@@ -89,7 +89,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Intro to Simulation](https://www.youtube.com/playlist?list=PLGV167zE8gnXSLj6cf5YI8a88SN-13UlP) | MODELAB | 00 | 13 | 2h24m  | | Kangaroo
  ✔ [Paneling Surfaces](https://www.youtube.com/playlist?list=PLGV167zE8gnU5X0R81fJedKl9zsKsOLeI) | MODELAB | 12 | 12 | 2h37m | 2018 | Lunchbox?
  ✔ [Subdivision Modeling](https://www.youtube.com/playlist?list=PLGV167zE8gnXCEzS3jUC7mrnumdf8qCu-) | MODELAB / Mode Collective(on fb) | 17 | 17 | 2h27m | 2018 | Mesh, Weaverbird, 16: 3D Printing, https://www.shapeways.com/
- Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
+ ⏳ Algorithmic Design | MODELAB | 00 | 14 | 2h28m | | Good
  Computing Form | MODELAB | 00 | 13 | 2h25m | | Form-finding using Grasshopper
  ✔ Dynamic Patterning | MODELAB | 12 | 12 | 2h35m | 2018 | Very Interesting, Vector Fields
  Organic Modeling | MODELAB | 00 | 08 | 1h55m | | T-Splines, With Rhino Tutorials?
