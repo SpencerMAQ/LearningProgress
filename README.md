@@ -450,13 +450,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Networking
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1)| Pluralsight | 01.00 | 08.07 | | |
- [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2)| Pluralsight | 01.00 | 09.04 | | |
+ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 01.00 | 08.07 | | |
+ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 01.00 | 09.04 | | |
 
 ### Windows 10
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-[Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 |
+[Windows 10 Configuring (70-697): Configure Networking](https://www.pluralsight.com/courses/windows-10-configuring-70-697-configure-networking) | Pluralsight | 01.00 | 06.05 | 3h 31m | |
 
 
 ----
