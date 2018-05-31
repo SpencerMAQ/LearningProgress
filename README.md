@@ -450,8 +450,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Networking
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 01.00 | 08.07 | | |
- [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 01.00 | 09.04 | | |
+ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 01.00 | 08.07 | 4h 18m | |
+ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 01.00 | 09.04 | 3h 47m | |
 
 ### Windows 10
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
