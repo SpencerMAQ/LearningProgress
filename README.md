@@ -33,6 +33,10 @@
   - [Computer Engineering](#computer-engineering)
   - [Web Development](#web-development)
 
+- [Information Technology](#information-technology)
+  - [Computer Networking](#computer-networking)
+  - [Windows 10](#windows-10)
+
 - [Mathematics](#mathematics)
   - [Calculus](#calculus)
   - [Linear Algebra](#linear-algebra)
@@ -435,6 +439,24 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 ⏳ [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | Udemy | 004 | 197 | 31h53m | | PRIORITY AF
 [Full Stack Web Development with Python (WEB2PY)](https://www.pluralsight.com/courses/full-stack-web-development-python-web2py) | Pluralsight / Terry Toy | 01.00 | 09.07 | 3h2m | | PRIORITY AF
+
+
+----
+
+## Information Technology
+
+
+
+### Computer Networking
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1)| Pluralsight | 01.00 | 08.07 | | |
+ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2)| Pluralsight | 01.00 | 09.04 | | |
+
+### Windows 10
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[Essense of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)| Grant Sanderson | 0 | 11 | | 2016 |
 
 
 ----
