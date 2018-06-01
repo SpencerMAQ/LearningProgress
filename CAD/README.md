@@ -163,7 +163,7 @@ Ongoing | Completed | Total
 
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 12.03 | 15.00 | | 2018 | 11.01: Curve from object Toolbar: GetIsoLine // 12.03: Offset Surface, Curve from cross section profiles
+ ⏳ Lynda - Rhino 5 Essential Training | Dave Schultze | 12.04 | 15.00 | | 2018 | 11.01: Curve from object Toolbar: GetIsoLine // 12.03: Offset Surface, Curve from cross section profiles
  Creating Conceptual Architectural Diagrams | ThinkParametric | 00 | 10 | | | V-ray, Photoshop, Massing Diagrams, Very Good
  Recreate the Villa Savoye using Rhino 3D | ThinkParametric | 00 | 21 | 3h28m | |
  Learn how to design an organic shaped building envelope (Heydar Aliyev centre) | ThinkParametric | 00 | 20 | 3h23m | |
