@@ -615,7 +615,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Graphic Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
-⏳ Introduction to Graphic Design | Lynda | 47 | 65 | 06h:32m | 2018 | PS, Illu, InDesign // https://www.fontsquirrel.com/ // https://www.dafont.com/ // https://typekit.com/ (for CC subscribers) // [High Quality InDesign samples](http://www.bestindesigntemplates.com/portfolio/) // Foundations of Color - Lynda // Color Management Fundamentals - Lynda //
+⏳ Introduction to Graphic Design | Lynda | 48 | 65 | 06h:32m | 2018 | PS, Illu, InDesign // https://www.fontsquirrel.com/ // https://www.dafont.com/ // https://typekit.com/ (for CC subscribers) // [High Quality InDesign samples](http://www.bestindesigntemplates.com/portfolio/) // Foundations of Color - Lynda // Color Management Fundamentals - Lynda //
 Foundations of Layout and Composition | Lynda | 0.0 | 7.2 | | |
 Learning Graphic Design - Layouts | Lynda | 01 | 13 | 01h:02m | |
 Graphic Design Tips & Tricks | Lynda | 00 | 66 | 06h:24m|  |
