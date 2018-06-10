@@ -463,7 +463,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 [Windows 10 Configuring (70-697): Configure Networking](https://www.pluralsight.com/courses/windows-10-configuring-70-697-configure-networking) | Pluralsight | 01.00 | 06.05 | 3h 31m | |
 Windows 10 Fundamentals for IT Pros | Lynda | 00 | 34 | | |
 [Windows 10: Configure, Secure, and Manage Data](https://www.lynda.com/Windows-tutorials/Windows-10-Configure-Secure-Manage-Data/433518-2.html) | Lynda | 01.00 | 05.15 | 1h 53m | |
-⏳ [Windows 10: Tips and Tricks](https://www.lynda.com/Windows-tutorials/Windows-10-Tips-Tricks/417146-2.html) | Lynda | 02.01 | 08.01 | 1h 29m | |
+⏳ [Windows 10: Tips and Tricks](https://www.lynda.com/Windows-tutorials/Windows-10-Tips-Tricks/417146-2.html) | Lynda | 02.04 | 08.01 | 1h 29m | |
 
 
 ----
