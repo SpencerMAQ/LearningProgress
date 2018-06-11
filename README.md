@@ -68,6 +68,9 @@
 - [Health](#health)
   - [Sleep](#sleep)
 
+- [Finance](#finance)
+  - [Paypal](#paypal)
+
 Inspired by this repo: https://github.com/andrecsq/CS/blob/master/README.md
 
 This is a collection of all the independent studies I have done and plan to do (excluding those from Khan Academy and Goodreads which have their own tracking systems)
@@ -667,6 +670,18 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
  ⏳ [Sleep Hacking Masterclass: Sleep Faster and Feel Refreshed](https://www.udemy.com/sleep-hacking-masterclass-sleep-faster-and-feel-refreshed/) | Udemy | 02 | 38 | 03h49m | |
  ✔ [Learn Optimal Sleep to Improve Your Health, Energy, and Mind](https://www.udemy.com/sleep-hacking-101-have-more-energy-spend-less-time-in-bed/) | Udemy | 07.003 | 07.003 | 01h30m, 37 vids | 2018 |
+
+
+----
+
+## Finance
+
+
+
+### PayPal
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ ⏳ [PayPal Essential Training](https://www.lynda.com/PayPal-tutorials/Welcome/196584/384142-4.html) | Lynda | 02 | 45 | 02h49m | |
 
 ----
 
