@@ -681,7 +681,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### PayPal
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [PayPal Essential Training](https://www.lynda.com/PayPal-tutorials/Welcome/196584/384142-4.html) | Lynda | 03 | 45 | 02h49m | |
+ ⏳ [PayPal Essential Training](https://www.lynda.com/PayPal-tutorials/Welcome/196584/384142-4.html) | Lynda | 06 | 45 | 02h49m | |
 
 ----
 
