@@ -47,6 +47,7 @@
   - [Civil](#civil)
   - [Mechanics](#mechanics)
   - [Engineering Mechanics](#engineering-mechanics)
+  - [Plumbing](#plumbing)
 
 - [Architecture](#architecture)
   - [Environment](#environment)
