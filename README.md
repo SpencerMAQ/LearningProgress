@@ -552,7 +552,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    ### Plumbing
    Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    :-- | :-- | :-- | :-- | :-- | :-- | :--
-    ⏳ Plumbing Basics | Joesherwin Mapa | 02 | 10 | 1h31m | 2018 | Flapper (controlled by flushometer), siphon jet works exactly as it sounds
+    ⏳ Plumbing Basics | Joesherwin Mapa | 05 | 10 | 1h31m | 2018 | Flapper (controlled by flushometer), siphon jet works exactly as it sounds // skipped 03, 04
 
 
 ----
