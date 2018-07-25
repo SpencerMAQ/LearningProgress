@@ -554,7 +554,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    :-- | :-- | :-- | :-- | :-- | :-- | :--
     ⏳ Plumbing Basics | Joesherwin Mapa | 05 | 10 | 1h31m | 2018 | Flapper (controlled by flushometer), siphon jet works exactly as it sounds // skipped 03, 04
     ⏳ Plumbing Design | David DeBord // Olivia Xue | 03 | 09 | 3h07m | 2018 | skipped 01, 02
-    ⏳ Plumbing Design and Estimate | F | 49 | 175 | 175 pages | 2018 | sedimentation to form semi-liquid substanced called sludge -> some turn into -> scum -> both processed by an. bacteria into liquids, gases //
+    ⏳ Plumbing Design and Estimate | F | 59 | 175 | 175 pages | 2018 | Rating: 4/10 // sedimentation to form semi-liquid substanced called sludge -> some turn into -> scum -> both processed by an. bacteria into liquids, gases //
 
 
 ----
