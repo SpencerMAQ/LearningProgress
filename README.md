@@ -554,7 +554,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    :-- | :-- | :-- | :-- | :-- | :-- | :--
     ⏳ Plumbing Basics | Joesherwin Mapa | 05 | 10 | 1h31m | 2018 | Flapper (controlled by flushometer), siphon jet works exactly as it sounds // skipped 03, 04
     ⏳ Plumbing Design | David DeBord // Olivia Xue | 03 | 09 | 3h07m | 2018 | skipped 01, 02
-    ⏳ Plumbing D E | F | 97 | 175 | 175 pages | 2018 | Rating: 4/10 // sedimentation to form semi-liquid substanced called sludge -> some turn into -> scum -> both processed by an. bacteria into liquids, gases //
+    ⏳ Plumbing D E | F | 104 | 175 | 175 pages | 2018 | Rating: 4/10 // sedimentation to form semi-liquid substanced called sludge -> some turn into -> scum -> both processed by an. bacteria into liquids, gases //
 
 
 ----
@@ -591,7 +591,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 [edX Architecture Courses](https://www.edx.org/course/subject/architecture) | eDX | ?? | ?? | | |
 ✔ [Abstract: The Art of Design - Bjarke Ingels: Architecture  ](http://www.imdb.com/title/tt6397642/?ref_=ttep_ep4) | Netflix | 00:45 | 00:45 | | 2018 | Hedonistic Sustainability, First Building (`Maritime Youth House`): Polluted SOIL due to painting of the underside of boats, Sol'n: Cover entire ground with wooden deck // Serpentine Gallery: Libeskind, Olafur Eliasson + Kjetil Thorsen, Gehry, Sou Fujimoto // `VM House`(Second Building?)/Urbna Tetris: Saving corridor space, apartments = 30% deeper, each apartment = double height // Serpentine Pavilion: You can sit on it, the design is the structural itself // `The Mountain`: Ramped Paring Below, Roof of other aparments = gardens // `8 House`: ADA Accessible slope // `Courtscraper`: New York // Gammel Hellerup High School // `Vancouver House`, Canada // `Haulien Residences`, Taiwan // `Blavand Bunker Museum` // `Faroe Island Education Center` // `Maison de L'Economie creative`, FR // `Copenhill`: Ski // `2 World Trade Center` //
 [The Architectural Imagination](https://www.edx.org/course/architectural-imagination-harvardx-gsd1x#!) | eDX/HarvardX | ?? | ?? | | |
-⏳ 101 Things I Learned in Architecture School | Matthew Frederick | 022 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon
+⏳ 101 Things I Learned in Architecture School | Matthew Frederick | 030 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon
 
 ### Optimization
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
