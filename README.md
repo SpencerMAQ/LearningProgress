@@ -594,6 +594,13 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ⏳ 101 Things I Learned in Architecture School | Matthew Frederick | 171 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
 ⏳ Operative Design | Anthony Di Mari/Nora Yoo | 00 | 77 | | | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
 
+
+### Design
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/) | Don Norman | 000 | 261 | | | Mathematical Psychologist, First saw on a youtube vid on push vs pull doors
+
+
 ### Optimization
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
