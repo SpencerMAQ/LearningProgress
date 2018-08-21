@@ -57,6 +57,7 @@
   - [Architectural Schools](#architectural-schools)
 
 - [Art](#art)
+  - [Creative Thinking](#creative-thinking)
   - [Sketching](#sketching)
   - [Graphic Design](#graphic-design)
   - [Illustrator](#illustrator)
@@ -617,6 +618,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 
 ## Art
 
+
+### Creative Thinking
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+ None Yet | nn | 0| 00 | | |
 
 
 ### Sketching
