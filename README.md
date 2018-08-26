@@ -603,6 +603,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffrey H Baker | 000 | 340 | | |
 ✔ 101 Things I Learned in Architecture School | Matthew Frederick | 213 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
 ⏳ Operative Design | Anthony Di Mari/Nora Yoo | 00 | 77 | | | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
+[10 X 10:10 critics, 100 architects](https://www.amazon.com/10-critics-100-architects/dp/0714839221) | Phaidon Press Editors | 00 | 77 | | |
 
 
 ### Design
