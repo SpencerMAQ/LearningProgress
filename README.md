@@ -52,7 +52,9 @@
 - [Architecture](#architecture)
   - [Environment](#environment)
   - [Energy](#energy)
-  - [Architecture](#architecture)
+  - [General Architecture](#general-architecture)
+  - [Architectural Theory](#architectural-theory)
+  - [Design](#design)
   - [Optimization](#optimization)
   - [Architectural Schools](#architectural-schools)
 
@@ -585,7 +587,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 [MIT Energy Courses](https://ocw.mit.edu/courses/energy-courses/)| MIT | ?? | ?? | | |
 
-### Architecture
+### General Architecture
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 [MIT Architecture Courses](https://ocw.mit.edu/courses/architecture/) | MIT | ?? | ?? | | |
@@ -595,6 +597,11 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ✔ 101 Things I Learned in Architecture School | Matthew Frederick | 213 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
 ⏳ Operative Design | Anthony Di Mari/Nora Yoo | 00 | 77 | | | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
 
+
+### Architectural Theory
+Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
+:-- | :-- | :-- | :-- | :-- | :-- | :--
+Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffrey H Baker | 000 | 340 | | |
 
 ### Design
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
