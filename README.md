@@ -607,6 +607,7 @@ Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffre
 [The Language of Architecture: 26 Principles Every Architect Should Know](https://www.amazon.com/Language-Architecture-Principles-Architect-Should/dp/1592538584) | Andrea Simitch, Val Warke | 000 | 227 | | | High Priority
 [Thinking Architecture](https://www.amazon.com/Thinking-Architecture-3rd-Peter-Zumthor/dp/30346058544) | Peter Zumthor | 00 | 33 | | | High Priority
 [Kengo Kuma: Selected Works](https://www.amazon.com/Kengo-Kuma-Selected-Botond-Bognar/dp/1568984685/) | Botond Bognar | 000 | 209 | | | VERY High Priority
+[Material Immaterial: The New Work of Kengo Kuma](https://www.amazon.com/Material-Immaterial-Work-Kengo-Kuma/dp/156898779X) | Botond Bognar | 000 | 256 | | | VERY High Priority
 
 
 ### Design
