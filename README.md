@@ -594,6 +594,9 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 [edX Architecture Courses](https://www.edx.org/course/subject/architecture) | eDX | ?? | ?? | | |
 ✔ [Abstract: The Art of Design - Bjarke Ingels: Architecture  ](http://www.imdb.com/title/tt6397642/?ref_=ttep_ep4) | Netflix | 00:45 | 00:45 | | 2018 | Hedonistic Sustainability, First Building (`Maritime Youth House`): Polluted SOIL due to painting of the underside of boats, Sol'n: Cover entire ground with wooden deck // Serpentine Gallery: Libeskind, Olafur Eliasson + Kjetil Thorsen, Gehry, Sou Fujimoto // `VM House`(Second Building?)/Urbna Tetris: Saving corridor space, apartments = 30% deeper, each apartment = double height // Serpentine Pavilion: You can sit on it, the design is the structural itself // `The Mountain`: Ramped Paring Below, Roof of other aparments = gardens // `8 House`: ADA Accessible slope // `Courtscraper`: New York // Gammel Hellerup High School // `Vancouver House`, Canada // `Haulien Residences`, Taiwan // `Blavand Bunker Museum` // `Faroe Island Education Center` // `Maison de L'Economie creative`, FR // `Copenhill`: Ski // `2 World Trade Center` //
 [The Architectural Imagination](https://www.edx.org/course/architectural-imagination-harvardx-gsd1x#!) | eDX/HarvardX | ?? | ?? | | |
+[DP Architects: The Master Architect Series](https://www.amazon.com/DP-Architects-Architect-Collin-Anderson/dp/1864704470) | Collin Anderson | 000 | 256 | | |
+[Eisenman Architects: Selected and Current Works (Master Architect Series) (Vol 9)](https://www.amazon.com/Eisenman-Architects-Selected-Current-Architect/dp/1875498214) | Peter Eisenman | 000 | 110 | | |
+[Alvar Aalto (Obras y Proyectos / Works and Projects)](https://www.amazon.com/Alvar-Aalto-Obras-Proyectos-Projects/dp/8425213983) | Karl Fleig | 000 | 131 | | |
 
 
 
@@ -602,7 +605,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffrey H Baker | 000 | 340 | | |
 ✔ 101 Things I Learned in Architecture School | Matthew Frederick | 213 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
-⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 00 | 77 | | | HIGH PRIORITY, richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
+⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 00 | 77 | | 2018 | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
 [10 X 10:10 critics, 100 architects](https://www.amazon.com/10-critics-100-architects/dp/0714839221) | Phaidon Press Editors | 00 | 77 | | |
 [The Language of Architecture: 26 Principles Every Architect Should Know](https://www.amazon.com/Language-Architecture-Principles-Architect-Should/dp/1592538584) | Andrea Simitch, Val Warke | 000 | 227 | | | High Priority
 [Thinking Architecture](https://www.amazon.com/Thinking-Architecture-3rd-Peter-Zumthor/dp/30346058544) | Peter Zumthor | 00 | 33 | | | High Priority
