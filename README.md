@@ -538,7 +538,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   ### Engineering Mechanics
   Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   :-- | :-- | :-- | :-- | :-- | :-- | :--
-   ⏳ [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 06 | 19 | | 2018 | Study to understand Kangaroo, Millipede
+   ⏳ [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 07 | 19 | | 2018 | Study to understand Kangaroo, Millipede
    [02: Rigid Bodies & System Of Forces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/199)| iLectureOnline | 00 | 47 | | |
    [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 00 | 30 | | |
    [04: Centroids & Center Of Gravity](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/201)| iLectureOnline | 00 | 35 | | |
