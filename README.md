@@ -602,7 +602,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffrey H Baker | 000 | 340 | | |
 ✔ 101 Things I Learned in Architecture School | Matthew Frederick | 213 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
-⏳ Operative Design | Anthony Di Mari/Nora Yoo | 00 | 77 | | | HIGH PRIORITY, richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
+⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 00 | 77 | | | HIGH PRIORITY, richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
 [10 X 10:10 critics, 100 architects](https://www.amazon.com/10-critics-100-architects/dp/0714839221) | Phaidon Press Editors | 00 | 77 | | |
 [The Language of Architecture: 26 Principles Every Architect Should Know](https://www.amazon.com/Language-Architecture-Principles-Architect-Should/dp/1592538584) | Andrea Simitch, Val Warke | 000 | 227 | | | High Priority
 [Thinking Architecture](https://www.amazon.com/Thinking-Architecture-3rd-Peter-Zumthor/dp/30346058544) | Peter Zumthor | 00 | 33 | | | High Priority
