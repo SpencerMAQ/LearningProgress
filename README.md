@@ -608,6 +608,7 @@ Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffre
 ⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 06 | 77 | | 2018 | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
 Folding Architecture | ?? | 000 | ??? | | | recom. by operative design (predecessor)
 Supersurfaces | ?? | 000 | ??? | | | recom. by operative design (predecessor)
+Parallax | Steven Holl | 000 | ??? | | | Correlational programming studies in parallax
 [10 X 10:10 critics, 100 architects](https://www.amazon.com/10-critics-100-architects/dp/0714839221) | Phaidon Press Editors | 00 | 77 | | |
 [The Language of Architecture: 26 Principles Every Architect Should Know](https://www.amazon.com/Language-Architecture-Principles-Architect-Should/dp/1592538584) | Andrea Simitch, Val Warke | 000 | 227 | | | High Priority
 [Thinking Architecture](https://www.amazon.com/Thinking-Architecture-3rd-Peter-Zumthor/dp/30346058544) | Peter Zumthor | 00 | 33 | | | High Priority
