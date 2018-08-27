@@ -605,7 +605,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 Design Strategies in Architecture: An Approach to the Analysis of Form | Geoffrey H Baker | 000 | 340 | | |
 ✔ 101 Things I Learned in Architecture School | Matthew Frederick | 213 | 213 | | 2018 | Brilliant book, straight to the point, no pathetic pseudo-intellectual jargon // page 97 is my favorite, straight to the face of pretentiousness // def a must re-read
-⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 06 | 77 | | 2018 | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students
+⏳[Operative Design: A Catalog of Spatial Verbs](https://www.amazon.com/Operative-Design-Catalog-Spatial-Verbs/dp/9063692897) | Anthony Di Mari/Nora Yoo | 06 | 77 | | 2018 | richly illustrated guide to the distinctive and radical work of UCL Bartlett School of Architecture students // House N - Sou Fujimoto
 Folding Architecture | ?? | 000 | ??? | | | recom. by operative design (predecessor)
 Supersurfaces | ?? | 000 | ??? | | | recom. by operative design (predecessor)
 Parallax | Steven Holl | 000 | ??? | | | Correlational programming studies in parallax
