@@ -188,7 +188,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [Automate Grasshopper with Python](http://designalyze.com/course/automate-grasshopper-python) | designalyze, Z. Downey | 00 | 05 | | |
  ✔ [Intro to Python Scripting](https://www.youtube.com/watch?v=J84DC-cMS6A&list=PLGV167zE8gnVhurBT46afZ1RlK9RzAsLx) | MODELAB | 14 | 14 | | 2016 | Easy for the most part
  Creating a Waffle Structure with Grasshopper and Rhinoscript | ThinkParametric | 00 | 09 | 1hr19m | | `rhinoscripsyntax`
- [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | MODELAB | 03 | 15 | | | Incl. Data Trees
+ [Developing Python Components](https://www.youtube.com/watch?v=rgo-5jbDPuE&list=PLGV167zE8gnXrDhOGv6XGc1H6-hWMnvjc) | Lynda | 03 | 15 | 5h12m | | Incl. Data Trees
+ [Grasshopper and Rhino: Python Scripting](https://www.lynda.com/course-tutorials/Grasshopper-Rhino-Python-Scripting/728385-2.html) | Lynda | 0.00 | 05.00 | | | 
  |  |  |  |  | |  |
  | [GH Developer Docs](http://developer.rhino3d.com/) |  |  |  |  |  |
  |  |  |  |  | |  |
