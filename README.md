@@ -492,7 +492,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Linear Algebra
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ⏳ [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | Enlightening // 9.6/10 // Hands down the best series I've ever watched
+ ⏳ [Essense of Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)| Grant Sanderson | 12 | 15 | | 2017 | Enlightening // 9.9/10 // Hands down the best educational series I've ever watched
  [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| edX | | | | | Computer Science
  [What is a Tensor?](https://www.youtube.com/watch?v=_pKxbNyjNe8&list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)| XylyXylyX | 0 | 39 | | | We define a vector space and lay the foundation of a solid understanding of tensors.
 
@@ -551,6 +551,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    [11: Friction](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/282)| iLectureOnline | 00 | 47 | | | Very Comprehensive, DO i need this?
    [12: Moment Of Inertia](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/283)| iLectureOnline | 00 | 05 | | |
    [13: Virtual Work Applications](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/301)| iLectureOnline | 00 | 11 | | |
+   [MECHANICAL](https://www.comsol.com/multiphysics/an-introduction-to-structural-mechanics)| multiphysics Cyclopedia | 00 | 10 | | | Intro to Structural Mechanics, Analysis of Deformation,.... Eigenfrequency Analysis, .. Acoustic-Structure Interaction
 
    ### Plumbing
    Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
