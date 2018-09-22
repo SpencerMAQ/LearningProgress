@@ -140,7 +140,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  Final Journal | Tania Putri Kanadi / Studio Air / Exlab | 000 | 130 | | | From the author: `I have done other design studios in previous semesters, and in all of them, my designs were mostly developed through the more traditional hand-drawn methods. I have limited experience with CAD programs, however, I know its significance in the architecture industry is growing and as such, to learn it is necessary.` // University of Melbourne
  Generative Algorithms using Grasshopper | Zubin Khabazi | 000 | 141 | | |
  Grasshopper Workshop | Woo Jae Sung | 00 | 13 | | |
- ⏳ Millepede 2014 Release | [Panagiotis Michalatos](https://www.grasshopper3d.com/group/millipede) | 01 | 86 | | |
+ ⏳ Millepede 2014 Release | [Panagiotis Michalatos](https://www.grasshopper3d.com/group/millipede) | 01 | 86 | | 2018 |
  |  |  |  |  | |  |
  | [All GH Components](https://rhino.github.io/) |  |  |  |  |  |
  |  |  |  |  | |  |
