@@ -539,7 +539,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   :-- | :-- | :-- | :-- | :-- | :-- | :--
    ⏳ [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 16 | 19 | | 2018 | Study to understand Kangaroo, Millipede
    ⏳ [02: Rigid Bodies & System Of Forces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/199)| iLectureOnline | 35 | 47 | | 2018 |
-   ⏳ [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 01 | 30 | | |
+   ⏳ [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 01 | 30 | | 2018 |
    [04: Centroids & Center Of Gravity](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/201)| iLectureOnline | 00 | 35 | | |
    [05: Distributed Loads On Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/202)| iLectureOnline | 00 | 12 | | |
    [06: Forces On Submerged Surfaces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/203)| iLectureOnline | 00 | 08 | | |
@@ -551,7 +551,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    [12: Moment Of Inertia](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/283)| iLectureOnline | 00 | 05 | | |
    [13: Virtual Work Applications](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/301)| iLectureOnline | 00 | 11 | | |
    [Physics 11: Stress and Strain](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/19)| iLectureOnline | 00 | 16 | | |
-   ⏳ [Physics 16: Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 05 | 14 | | | Illuminating
+   ⏳ [Physics 16: Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 05 | 14 | | 2018 | Illuminating
    [MECHANICAL](https://www.comsol.com/multiphysics/an-introduction-to-structural-mechanics)| multiphysics Cyclopedia | 00 | 10 | | | Intro to Structural Mechanics, Analysis of Deformation,.... Eigenfrequency Analysis, .. Acoustic-Structure Interaction
 
    ### Plumbing
