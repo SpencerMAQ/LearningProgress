@@ -132,6 +132,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  [GH_CPython](https://github.com/MahmoudAbdelRahman/GH_CPython) | MahmoudAbdelRahman | 00 | ?? | | |
  [GhPlotLib](https://github.com/MahmoudAbdelRahman/GhPlotLib) | MahmoudAbdelRahman | 00 | ?? | | |
  [ANT](https://github.com/MahmoudAbdelRahman/ANT) | MahmoudAbdelRahman | 00 | ?? | | |
+ [FlexHopper Workshop](https://www.youtube.com/playlist?list=PLw7gQzl_I29Z8oHCrPGXgNdwnULjqzUcz) | Benjamin Felbrich | 00 | 07 | | | [github repo](https://github.com/HeinzBenjamin/FlexCLI)
  |  |  |  |  | |  |
  | Books |  |  |  |  |  |
  |  |  |  |  | |  |
