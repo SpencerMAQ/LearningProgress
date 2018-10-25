@@ -551,7 +551,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    [12: Moment Of Inertia](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/283)| iLectureOnline | 00 | 05 | | |
    [13: Virtual Work Applications](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/301)| iLectureOnline | 00 | 11 | | |
    [Physics 11: Stress and Strain](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/19)| iLectureOnline | 00 | 16 | | |
-   ⏳ [Physics 16: Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 12 | 14 | | 2018 | Illuminating, 11 - Calculating the torsional constant
+   ⏳ [Physics 16: Torsion](http://www.ilectureonline.com/lectures/subject/PHYSICS/1/284)| iLectureOnline | 13 | 14 | | 2018 | Illuminating, 11 - Calculating the torsional constant
    [MECHANICAL](https://www.comsol.com/multiphysics/an-introduction-to-structural-mechanics)| multiphysics Cyclopedia | 00 | 10 | | | Intro to Structural Mechanics, Analysis of Deformation,.... Eigenfrequency Analysis, .. Acoustic-Structure Interaction
 
    ### Plumbing
