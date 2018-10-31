@@ -91,6 +91,8 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists
 
 Other Resources:  
 Khan Academy  
+https://academicearth.org/playlists/
+https://academicearth.org/engineering/
 Sololearn  
 Goodreads  
 www.ilectureonline.com  
