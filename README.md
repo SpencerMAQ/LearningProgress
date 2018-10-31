@@ -93,6 +93,10 @@ Other Resources:
 Khan Academy  
 https://academicearth.org/playlists/
 https://academicearth.org/engineering/
+https://academicearth.org/philosophy/
+https://academicearth.org/mechanical-engineering/
+https://academicearth.org/design/
+https://academicearth.org/architecture/
 Sololearn  
 Goodreads  
 www.ilectureonline.com  
