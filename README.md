@@ -546,7 +546,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
   :-- | :-- | :-- | :-- | :-- | :-- | :--
    ⏳ [01: Particle Equilibrium](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/197)| iLectureOnline | 16 | 19 | | 2018 | Study to understand Kangaroo, Millipede
    ⏳ [02: Rigid Bodies & System Of Forces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/199)| iLectureOnline | 35 | 47 | | 2018 |
-   ⏳ [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 12 | 30 | | 2018 |
+   ⏳ [03: Equilibrium of Rigid Bodies](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/200)| iLectureOnline | 13 | 30 | | 2018 |
    [04: Centroids & Center Of Gravity](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/201)| iLectureOnline | 00 | 35 | | |
    ⏳ [05: Distributed Loads On Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/202)| iLectureOnline | 01 | 12 | | 2018 |
    [06: Forces On Submerged Surfaces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/203)| iLectureOnline | 00 | 08 | | |
