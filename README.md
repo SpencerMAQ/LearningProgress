@@ -463,10 +463,10 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Networking
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 01.00 | 08.07 | 4h 18m | |
+ ⏳ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 01.04 | 08.07 | 4h 18m | 2018 | Comprehensive
  [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 01.00 | 09.04 | 3h 47m | |
  [Networking Foundations: IP Addressing](https://www.lynda.com/Windows-Server-tutorials/Networking-Foundations-IP-Addressing/408232-2.html) | Lynda | 01.00 | 08.01 | 2h 35m | |
- ⏳ [General Networking - wireless, routers, firewalls, Cisco NA](https://www.udemy.com/general-networking/) | Udemy | 19 | 35 | 8h 3m | |
+ ✔ [General Networking - wireless, routers, firewalls, Cisco NA](https://www.udemy.com/general-networking/) | Udemy | 35 | 35 | 8h 3m | 2018 | Ok course
  [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) | Ben Eater | 00 | 13 | | | Recommended by 3b1b
 
 
@@ -475,8 +475,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
 [Windows 10 Configuring (70-697): Configure Networking](https://www.pluralsight.com/courses/windows-10-configuring-70-697-configure-networking) | Pluralsight | 01.00 | 06.05 | 3h 31m | |
 Windows 10 Fundamentals for IT Pros | Lynda | 00 | 34 | | |
-⏳ [Windows 10: Configure, Secure, and Manage Data](https://www.lynda.com/Windows-tutorials/Windows-10-Configure-Secure-Manage-Data/433518-2.html) | Lynda | 01.00 | 05.15 | 1h 53m | |
-⏳ [Windows 10: Tips and Tricks](https://www.lynda.com/Windows-tutorials/Windows-10-Tips-Tricks/417146-2.html) | Lynda | 02.04 | 08.01 | 1h 29m | |
+⏳ [Windows 10: Configure, Secure, and Manage Data](https://www.lynda.com/Windows-tutorials/Windows-10-Configure-Secure-Manage-Data/433518-2.html) | Lynda | 01.00 | 05.15 | 1h 53m | 2018 |
+⏳ [Windows 10: Tips and Tricks](https://www.lynda.com/Windows-tutorials/Windows-10-Tips-Tricks/417146-2.html) | Lynda | 02.04 | 08.01 | 1h 29m | 2018 |
 
 
 ----
