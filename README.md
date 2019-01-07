@@ -463,8 +463,8 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Networking
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- ✔ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 08.07 | 08.07 | 4h 18m | 2018 | Comprehensive, Top Tier, The Khan Acad overview was OK but too basic
- ⏳ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 03.04 | 09.04 | 3h 47m | 2018 |
+ ✔ [Microsoft MTA: Networking Fundamentals Part 1](https://www.pluralsight.com/courses/networking-fundamentals-pt1) | Pluralsight | 08.07 | 08.07 | 4h 18m | 2018 | Comprehensive, Good, just lacks actual examples, The Khan Acad overview was OK but too basic
+ ⏳ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 03.07 | 09.04 | 3h 47m | 2018 |
  [Networking Foundations: IP Addressing](https://www.lynda.com/Windows-Server-tutorials/Networking-Foundations-IP-Addressing/408232-2.html) | Lynda | 01.00 | 08.01 | 2h 35m | |
  ✔ [General Networking - wireless, routers, firewalls, Cisco NA](https://www.udemy.com/general-networking/) | Udemy | 35 | 35 | 8h 3m | 2018 | Ok course
  [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) | Ben Eater | 00 | 13 | | | Recommended by 3b1b, Watch after MTA?, HIGH PRIORITY
