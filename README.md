@@ -467,7 +467,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
  ✔ [Microsoft MTA: Networking Fundamentals Part 2](https://www.pluralsight.com/courses/networking-fundamentals-pt2) | Pluralsight | 09.04 | 09.04 | 3h 47m | 2018 | Partially skipped RDS,
  [Networking Foundations: IP Addressing](https://www.lynda.com/Windows-Server-tutorials/Networking-Foundations-IP-Addressing/408232-2.html) | Lynda | 01.00 | 08.01 | 2h 35m | |
  ✔ [General Networking - wireless, routers, firewalls, Cisco NA](https://www.udemy.com/general-networking/) | Udemy | 35 | 35 | 8h 3m | 2018 | Ok course
- ⏳ [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) | Ben Eater | 02 | 13 | | 2018 | Recommended by 3b1b, Watch after MTA?, HIGH PRIORITY
+ ⏳ [Networking tutorial](https://www.youtube.com/playlist?list=PLowKtXNTBypH19whXTVoG3oKSuOcw_XeW) | Ben Eater | 03 | 13 | | 2018 | Recommended by 3b1b, Watch after MTA?, HIGH PRIORITY
 
 
 ### Windows 10
