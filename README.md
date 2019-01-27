@@ -444,7 +444,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 ### Computer Engineering
 Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
 :-- | :-- | :-- | :-- | :-- | :-- | :--
- [Ben Eater](https://www.youtube.com/user/eaterbc) | None | 0 | 24 | | | Recommended by 3b1b
+ [Building an 8-bit breadboard computer!](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU) | [Ben Eater](https://www.youtube.com/user/eaterbc) | 0 | 44 | | | Recommended by 3b1b
 
 
 ### Web Development
