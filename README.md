@@ -551,7 +551,7 @@ Title | Author | Progress | Total | Duration | Last Reviewed | Remarks |
    ⏳ [05: Distributed Loads On Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/202)| iLectureOnline | 02 | 12 | | 2018 |
    [06: Forces On Submerged Surfaces](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/203)| iLectureOnline | 00 | 08 | | |
    [07: Centroids In 3-D](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/204)| iLectureOnline | 00 | 08 | | |
-   ⏳ [08: Trusses, Bridges & Other Structuresm](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/248)| iLectureOnline | 02 | 34 | | |
+   ⏳ [08: Trusses, Bridges & Other Structuresm](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/248)| iLectureOnline | 04 | 34 | | 2019 |
    [09: Internal Forces on Beams](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/249)| iLectureOnline | 00 | 11 | | |
    [10: Forces On Cables](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/262)| iLectureOnline | 00 | 33 | | | CATENARY!!!!
    [11: Friction](http://www.ilectureonline.com/lectures/subject/ENGINEERING/29/282)| iLectureOnline | 00 | 47 | | | Very Comprehensive, DO i need this?
